@@ -58,6 +58,191 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
     dcc.Tabs(
         style={'font-family': 'Arial', 'font-size': '150%', '-webkit-box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)','-moz-box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)','box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)', 'margin-bottom': '2rem'},
         children=[
+        dcc.Tab(
+                label='Calidad de Vida',
+                selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
+                style={'background-color': colors['disabled_nav'],'border':'none'},
+                children=[
+                html.H3(
+                    style={'textAlign': 'center'},
+                            children='Estatus socioeconómico por grado acádemico'
+                    ),
+                html.Div(
+                    style={'flex': '0 0 calc( 50% - 1rem )'},
+                    children=[
+                    html.Label('Rango de edad'),
+                    dcc.Dropdown(
+                    id = 'range_age_dd',
+                    options= [{'label': i, 'value': i} for i in df_sac['Age Range'].unique()],
+                    value='30 to 34 years')
+                        ]),
+                html.Div(
+                style={'flex': '0 0 calc( 50% - 1rem )'},
+                children=[
+                html.Label('Grado Acádemico'),
+                dcc.Dropdown(
+                    id = 'academic_dd',
+                    options= [{'label': i, 'value': i} for i in df_sac['Academic Degree'].unique()],
+                    value='Master Degree'),
+                dcc.Graph(
+                    id='status_edu',
+                            figure={})
+                ]),
+                html.H3(
+                            style={'textAlign': 'center'},
+                            children='Acceso a apoyos'),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'ncs_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nc_s',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'nds_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nd_s',
+                                    figure={}
+                                )
+
+                        ])
+                        ]),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'nws_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nw_s',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'nms_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nm_s',
+                                    figure={}
+                                )
+
+                        ])
+                        ]), #Cierra div general 2 y 2
+                html.H3(
+                    style={'textAlign': 'center'},
+                            children='Estatus laboral de mujeres mayores a 15 años con hijos por años de estudio'
+                    ),
+                html.Div(
+                    style={'flex': '0 0 calc( 50% - 1rem )'},
+                    children=[
+                    html.Label('Años de estudio'),
+                    dcc.Dropdown(
+                    id = 'sy_dd',
+                    options= [{'label': i, 'value': i} for i in df_f15['Schooling Years Range'].unique()],
+                    value='0 a 3 Años de Escolaridad'),
+                    dcc.Graph(
+                        id='f15_g',
+                        figure={}
+                        )
+                        ]),
+
+                html.H3(
+                            style={'textAlign': 'center'},
+                            children='Percepción de Seguridad en la Ciudad'
+                    ),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'sh_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='sh_g',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'sw_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='sw_g',
+                                    figure={}
+                                )
+
+                        ])
+                        ]),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'ss_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='ss_g',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'st_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='st_g',
+                                    figure={}
+                                )
+
+                        ])
+                        ]), #Cierra div general 2 y 2
+               
+                ]),
 
             dcc.Tab(
                 label='Educación',
@@ -415,196 +600,12 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
 
                                 ])
                                
-                    ]),
+                    ])
 
 
 
 
-                dcc.Tab(
-                label='Calidad de Vida',
-                selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
-                style={'background-color': colors['disabled_nav'],'border':'none'},
-                children=[
-                html.H3(
-                    style={'textAlign': 'center'},
-                            children='Estatus socioeconómico por grado acádemico'
-                    ),
-                html.Div(
-                    style={'flex': '0 0 calc( 50% - 1rem )'},
-                    children=[
-                    html.Label('Rango de edad'),
-                    dcc.Dropdown(
-                    id = 'range_age_dd',
-                    options= [{'label': i, 'value': i} for i in df_sac['Age Range'].unique()],
-                    value='30 to 34 years')
-                        ]),
-                html.Div(
-                style={'flex': '0 0 calc( 50% - 1rem )'},
-                children=[
-                html.Label('Grado Acádemico'),
-                dcc.Dropdown(
-                    id = 'academic_dd',
-                    options= [{'label': i, 'value': i} for i in df_sac['Academic Degree'].unique()],
-                    value='Master Degree'),
-                dcc.Graph(
-                    id='status_edu',
-                            figure={})
-                ]),
-                html.H3(
-                            style={'textAlign': 'center'},
-                            children='Acceso a apoyos'),
-                html.Div(
-                            style={'display': 'flex', 'justify-content': 'space-between'},
-                            children=[
-                            html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'ncs_dd',
-                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='nc_s',
-                                    figure={}
-                                )
-                                ]),
-                                
-                                html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'nds_dd',
-                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='nd_s',
-                                    figure={}
-                                )
-
-                        ])
-                        ]),
-                html.Div(
-                            style={'display': 'flex', 'justify-content': 'space-between'},
-                            children=[
-                            html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'nws_dd',
-                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='nw_s',
-                                    figure={}
-                                )
-                                ]),
-                                
-                                html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'nms_dd',
-                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='nm_s',
-                                    figure={}
-                                )
-
-                        ])
-                        ]), #Cierra div general 2 y 2
-                html.H3(
-                    style={'textAlign': 'center'},
-                            children='Estatus laboral de mujeres mayores a 15 años con hijos por años de estudio'
-                    ),
-                html.Div(
-                    style={'flex': '0 0 calc( 50% - 1rem )'},
-                    children=[
-                    html.Label('Años de estudio'),
-                    dcc.Dropdown(
-                    id = 'sy_dd',
-                    options= [{'label': i, 'value': i} for i in df_f15['Schooling Years Range'].unique()],
-                    value='0 a 3 Años de Escolaridad'),
-                    dcc.Graph(
-                        id='f15_g',
-                        figure={}
-                        )
-                        ]),
-
-                html.H3(
-                            style={'textAlign': 'center'},
-                            children='Percepción de Seguridad en la Ciudad'
-                    ),
-                html.Div(
-                            style={'display': 'flex', 'justify-content': 'space-between'},
-                            children=[
-                            html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'sh_dd',
-                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='sh_g',
-                                    figure={}
-                                )
-                                ]),
-                                
-                                html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'sw_dd',
-                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='sw_g',
-                                    figure={}
-                                )
-
-                        ])
-                        ]),
-                html.Div(
-                            style={'display': 'flex', 'justify-content': 'space-between'},
-                            children=[
-                            html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'ss_dd',
-                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='ss_g',
-                                    figure={}
-                                )
-                                ]),
-                                
-                                html.Div(
-                                style={'flex': '0 0 calc( 50% - 1rem )'},
-                                children=[
-                                html.Label('Rango de Edad'),
-                                dcc.Dropdown(
-                                id = 'st_dd',
-                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
-                                value='45 to 49 years'),
-                                dcc.Graph(style={'height': '40rem'},
-                                    id='st_g',
-                                    figure={}
-                                )
-
-                        ])
-                        ]), #Cierra div general 2 y 2
-               
-                ]) #Cierra tab
+                 #Cierra tab
                 
 
        ])])
