@@ -1,0 +1,33 @@
+ID,Estado,Latitud,Longitud
+1,Aguascalientes,22.02,-102.35
+2,Baja California,29.95,-115.11
+3,Baja California Sur,25.84,-111.97
+4,Campeche,18.83,-90.40
+5,Chiapas,16.41,-92.40
+6,Chihuahua,28.81,-106.43
+7,Ciudad de México,19.41,-99.14
+8,Coahuila de Zaragoza,27.30,-102.04
+9,Colima,19.09,-103.96
+10,Durango,24.93,-104.91
+11,Guanajuato,21.01,-101.26
+12,Guerrero,17.61,-99.95
+13,Hidalgo,20.47,-98.86
+14,Jalisco,20.56,-103.67
+15,México,19.35,-99.63
+16,Michoacán de Ocampo,19.16,-101.89
+17,Morelos,18.74,-99.07
+18,Nayarit,21.74,-105.22
+19,Nuevo León,25.56,-99.97
+20,Oaxaca,16.89,-96.41
+21,Puebla,19.00,-97.88
+22,Querétaro,20.59,-100.39
+23,Quintana Roo,19.6,-87.91
+24,San Luis Potosí,22.60,-100.42
+25,Sinaloa,25.00,-107.50
+26,Sonora,29.64,-110.86
+27,Tabasco,17.97,-92.58
+28,Tamaulipas,24.28,-98.56
+29,Tlaxcala,19.42,-98.16
+30,Veracruz de Ignacio de la Llave,19.43,-96.38
+31,Yucatán,20.83,-89
+32,Zacatecas,23.29,-102.70

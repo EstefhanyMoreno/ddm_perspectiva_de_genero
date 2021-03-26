@@ -1,0 +1,953 @@
+Socioeconomic Status ID,Socioeconomic Status,Age Range ID,Age Range,Sex ID,Sex,Academic Degree ID,Academic Degree,Population
+1,Clase Baja,4,15 to 19 years,1,Hombre,0,Ninguno,127
+1,Clase Baja,4,15 to 19 years,1,Hombre,2,Primaria,14517
+1,Clase Baja,4,15 to 19 years,1,Hombre,3,Secundaria,43729
+1,Clase Baja,4,15 to 19 years,1,Hombre,4,Preparatoria o Bachillerato General,48267
+1,Clase Baja,4,15 to 19 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,453
+1,Clase Baja,4,15 to 19 years,1,Hombre,11,Licenciatura,2151
+1,Clase Baja,4,15 to 19 years,2,Mujer,0,Ninguno,1407
+1,Clase Baja,4,15 to 19 years,2,Mujer,2,Primaria,4698
+1,Clase Baja,4,15 to 19 years,2,Mujer,3,Secundaria,19846
+1,Clase Baja,4,15 to 19 years,2,Mujer,4,Preparatoria o Bachillerato General,27119
+1,Clase Baja,4,15 to 19 years,2,Mujer,11,Licenciatura,2727
+1,Clase Baja,5,20 to 24 years,1,Hombre,0,Ninguno,6453
+1,Clase Baja,5,20 to 24 years,1,Hombre,1,Preescolar o Kínder,373
+1,Clase Baja,5,20 to 24 years,1,Hombre,2,Primaria,59521
+1,Clase Baja,5,20 to 24 years,1,Hombre,3,Secundaria,173654
+1,Clase Baja,5,20 to 24 years,1,Hombre,4,Preparatoria o Bachillerato General,152005
+1,Clase Baja,5,20 to 24 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,4416
+1,Clase Baja,5,20 to 24 years,1,Hombre,10,Normal de Licenciatura,205
+1,Clase Baja,5,20 to 24 years,1,Hombre,11,Licenciatura,40864
+1,Clase Baja,5,20 to 24 years,1,Hombre,13,Maestría,2078
+1,Clase Baja,5,20 to 24 years,1,Hombre,14,Doctorado,115
+1,Clase Baja,5,20 to 24 years,2,Mujer,0,Ninguno,1186
+1,Clase Baja,5,20 to 24 years,2,Mujer,2,Primaria,19913
+1,Clase Baja,5,20 to 24 years,2,Mujer,3,Secundaria,81464
+1,Clase Baja,5,20 to 24 years,2,Mujer,4,Preparatoria o Bachillerato General,96135
+1,Clase Baja,5,20 to 24 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,3543
+1,Clase Baja,5,20 to 24 years,2,Mujer,10,Normal de Licenciatura,1659
+1,Clase Baja,5,20 to 24 years,2,Mujer,11,Licenciatura,30835
+1,Clase Baja,5,20 to 24 years,2,Mujer,13,Maestría,895
+1,Clase Baja,6,25 to 29 years,1,Hombre,0,Ninguno,4222
+1,Clase Baja,6,25 to 29 years,1,Hombre,2,Primaria,78373
+1,Clase Baja,6,25 to 29 years,1,Hombre,3,Secundaria,216819
+1,Clase Baja,6,25 to 29 years,1,Hombre,4,Preparatoria o Bachillerato General,140415
+1,Clase Baja,6,25 to 29 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,6375
+1,Clase Baja,6,25 to 29 years,1,Hombre,10,Normal de Licenciatura,774
+1,Clase Baja,6,25 to 29 years,1,Hombre,11,Licenciatura,49267
+1,Clase Baja,6,25 to 29 years,1,Hombre,13,Maestría,546
+1,Clase Baja,6,25 to 29 years,1,Hombre,14,Doctorado,74
+1,Clase Baja,6,25 to 29 years,2,Mujer,0,Ninguno,1483
+1,Clase Baja,6,25 to 29 years,2,Mujer,1,Preescolar o Kínder,376
+1,Clase Baja,6,25 to 29 years,2,Mujer,2,Primaria,32144
+1,Clase Baja,6,25 to 29 years,2,Mujer,3,Secundaria,114672
+1,Clase Baja,6,25 to 29 years,2,Mujer,4,Preparatoria o Bachillerato General,101091
+1,Clase Baja,6,25 to 29 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,7551
+1,Clase Baja,6,25 to 29 years,2,Mujer,10,Normal de Licenciatura,2133
+1,Clase Baja,6,25 to 29 years,2,Mujer,11,Licenciatura,50924
+1,Clase Baja,6,25 to 29 years,2,Mujer,13,Maestría,2934
+1,Clase Baja,7,30 to 34 years,1,Hombre,0,Ninguno,7926
+1,Clase Baja,7,30 to 34 years,1,Hombre,2,Primaria,121030
+1,Clase Baja,7,30 to 34 years,1,Hombre,3,Secundaria,207009
+1,Clase Baja,7,30 to 34 years,1,Hombre,4,Preparatoria o Bachillerato General,112116
+1,Clase Baja,7,30 to 34 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,4759
+1,Clase Baja,7,30 to 34 years,1,Hombre,10,Normal de Licenciatura,452
+1,Clase Baja,7,30 to 34 years,1,Hombre,11,Licenciatura,40904
+1,Clase Baja,7,30 to 34 years,1,Hombre,13,Maestría,1066
+1,Clase Baja,7,30 to 34 years,1,Hombre,14,Doctorado,1473
+1,Clase Baja,7,30 to 34 years,2,Mujer,0,Ninguno,2377
+1,Clase Baja,7,30 to 34 years,2,Mujer,2,Primaria,39949
+1,Clase Baja,7,30 to 34 years,2,Mujer,3,Secundaria,110452
+1,Clase Baja,7,30 to 34 years,2,Mujer,4,Preparatoria o Bachillerato General,64172
+1,Clase Baja,7,30 to 34 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,7672
+1,Clase Baja,7,30 to 34 years,2,Mujer,10,Normal de Licenciatura,307
+1,Clase Baja,7,30 to 34 years,2,Mujer,11,Licenciatura,47306
+1,Clase Baja,7,30 to 34 years,2,Mujer,13,Maestría,4737
+1,Clase Baja,8,35 to 39 years,1,Hombre,0,Ninguno,13244
+1,Clase Baja,8,35 to 39 years,1,Hombre,1,Preescolar o Kínder,663
+1,Clase Baja,8,35 to 39 years,1,Hombre,2,Primaria,181452
+1,Clase Baja,8,35 to 39 years,1,Hombre,3,Secundaria,194676
+1,Clase Baja,8,35 to 39 years,1,Hombre,4,Preparatoria o Bachillerato General,61995
+1,Clase Baja,8,35 to 39 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,5737
+1,Clase Baja,8,35 to 39 years,1,Hombre,10,Normal de Licenciatura,2338
+1,Clase Baja,8,35 to 39 years,1,Hombre,11,Licenciatura,32320
+1,Clase Baja,8,35 to 39 years,1,Hombre,13,Maestría,2201
+1,Clase Baja,8,35 to 39 years,2,Mujer,0,Ninguno,2713
+1,Clase Baja,8,35 to 39 years,2,Mujer,2,Primaria,59984
+1,Clase Baja,8,35 to 39 years,2,Mujer,3,Secundaria,107055
+1,Clase Baja,8,35 to 39 years,2,Mujer,4,Preparatoria o Bachillerato General,31771
+1,Clase Baja,8,35 to 39 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,7145
+1,Clase Baja,8,35 to 39 years,2,Mujer,10,Normal de Licenciatura,2064
+1,Clase Baja,8,35 to 39 years,2,Mujer,11,Licenciatura,40319
+1,Clase Baja,8,35 to 39 years,2,Mujer,13,Maestría,3410
+1,Clase Baja,9,40 to 44 years,1,Hombre,0,Ninguno,14294
+1,Clase Baja,9,40 to 44 years,1,Hombre,1,Preescolar o Kínder,99
+1,Clase Baja,9,40 to 44 years,1,Hombre,2,Primaria,183722
+1,Clase Baja,9,40 to 44 years,1,Hombre,3,Secundaria,168466
+1,Clase Baja,9,40 to 44 years,1,Hombre,4,Preparatoria o Bachillerato General,51379
+1,Clase Baja,9,40 to 44 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,8116
+1,Clase Baja,9,40 to 44 years,1,Hombre,10,Normal de Licenciatura,3020
+1,Clase Baja,9,40 to 44 years,1,Hombre,11,Licenciatura,25349
+1,Clase Baja,9,40 to 44 years,1,Hombre,13,Maestría,2666
+1,Clase Baja,9,40 to 44 years,2,Mujer,0,Ninguno,2198
+1,Clase Baja,9,40 to 44 years,2,Mujer,2,Primaria,48984
+1,Clase Baja,9,40 to 44 years,2,Mujer,3,Secundaria,75812
+1,Clase Baja,9,40 to 44 years,2,Mujer,4,Preparatoria o Bachillerato General,17789
+1,Clase Baja,9,40 to 44 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,9952
+1,Clase Baja,9,40 to 44 years,2,Mujer,10,Normal de Licenciatura,2871
+1,Clase Baja,9,40 to 44 years,2,Mujer,11,Licenciatura,19758
+1,Clase Baja,9,40 to 44 years,2,Mujer,13,Maestría,2202
+1,Clase Baja,9,40 to 44 years,2,Mujer,14,Doctorado,1326
+1,Clase Baja,10,45 to 49 years,1,Hombre,0,Ninguno,14537
+1,Clase Baja,10,45 to 49 years,1,Hombre,2,Primaria,153000
+1,Clase Baja,10,45 to 49 years,1,Hombre,3,Secundaria,137421
+1,Clase Baja,10,45 to 49 years,1,Hombre,4,Preparatoria o Bachillerato General,44570
+1,Clase Baja,10,45 to 49 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,5034
+1,Clase Baja,10,45 to 49 years,1,Hombre,10,Normal de Licenciatura,3211
+1,Clase Baja,10,45 to 49 years,1,Hombre,11,Licenciatura,18876
+1,Clase Baja,10,45 to 49 years,1,Hombre,13,Maestría,1969
+1,Clase Baja,10,45 to 49 years,2,Mujer,0,Ninguno,4242
+1,Clase Baja,10,45 to 49 years,2,Mujer,2,Primaria,35275
+1,Clase Baja,10,45 to 49 years,2,Mujer,3,Secundaria,51473
+1,Clase Baja,10,45 to 49 years,2,Mujer,4,Preparatoria o Bachillerato General,9066
+1,Clase Baja,10,45 to 49 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,7208
+1,Clase Baja,10,45 to 49 years,2,Mujer,10,Normal de Licenciatura,2450
+1,Clase Baja,10,45 to 49 years,2,Mujer,11,Licenciatura,15613
+1,Clase Baja,10,45 to 49 years,2,Mujer,13,Maestría,4393
+1,Clase Baja,11,50 to 54 years,1,Hombre,0,Ninguno,18849
+1,Clase Baja,11,50 to 54 years,1,Hombre,1,Preescolar o Kínder,846
+1,Clase Baja,11,50 to 54 years,1,Hombre,2,Primaria,131009
+1,Clase Baja,11,50 to 54 years,1,Hombre,3,Secundaria,81306
+1,Clase Baja,11,50 to 54 years,1,Hombre,4,Preparatoria o Bachillerato General,26913
+1,Clase Baja,11,50 to 54 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,3644
+1,Clase Baja,11,50 to 54 years,1,Hombre,10,Normal de Licenciatura,4856
+1,Clase Baja,11,50 to 54 years,1,Hombre,11,Licenciatura,20941
+1,Clase Baja,11,50 to 54 years,1,Hombre,13,Maestría,474
+1,Clase Baja,11,50 to 54 years,1,Hombre,14,Doctorado,1329
+1,Clase Baja,11,50 to 54 years,2,Mujer,0,Ninguno,2839
+1,Clase Baja,11,50 to 54 years,2,Mujer,2,Primaria,27053
+1,Clase Baja,11,50 to 54 years,2,Mujer,3,Secundaria,29343
+1,Clase Baja,11,50 to 54 years,2,Mujer,4,Preparatoria o Bachillerato General,11661
+1,Clase Baja,11,50 to 54 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,7563
+1,Clase Baja,11,50 to 54 years,2,Mujer,10,Normal de Licenciatura,8439
+1,Clase Baja,11,50 to 54 years,2,Mujer,11,Licenciatura,13801
+1,Clase Baja,11,50 to 54 years,2,Mujer,13,Maestría,776
+1,Clase Baja,11,50 to 54 years,2,Mujer,14,Doctorado,1211
+1,Clase Baja,12,55 to 59 years,1,Hombre,0,Ninguno,22715
+1,Clase Baja,12,55 to 59 years,1,Hombre,1,Preescolar o Kínder,69
+1,Clase Baja,12,55 to 59 years,1,Hombre,2,Primaria,127760
+1,Clase Baja,12,55 to 59 years,1,Hombre,3,Secundaria,43898
+1,Clase Baja,12,55 to 59 years,1,Hombre,4,Preparatoria o Bachillerato General,17570
+1,Clase Baja,12,55 to 59 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,3278
+1,Clase Baja,12,55 to 59 years,1,Hombre,10,Normal de Licenciatura,4156
+1,Clase Baja,12,55 to 59 years,1,Hombre,11,Licenciatura,15614
+1,Clase Baja,12,55 to 59 years,1,Hombre,13,Maestría,552
+1,Clase Baja,12,55 to 59 years,2,Mujer,0,Ninguno,4923
+1,Clase Baja,12,55 to 59 years,2,Mujer,1,Preescolar o Kínder,120
+1,Clase Baja,12,55 to 59 years,2,Mujer,2,Primaria,24977
+1,Clase Baja,12,55 to 59 years,2,Mujer,3,Secundaria,12647
+1,Clase Baja,12,55 to 59 years,2,Mujer,4,Preparatoria o Bachillerato General,4839
+1,Clase Baja,12,55 to 59 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,4641
+1,Clase Baja,12,55 to 59 years,2,Mujer,10,Normal de Licenciatura,6891
+1,Clase Baja,12,55 to 59 years,2,Mujer,11,Licenciatura,5095
+1,Clase Baja,12,55 to 59 years,2,Mujer,13,Maestría,144
+1,Clase Baja,13,60 to 64 years,1,Hombre,0,Ninguno,23187
+1,Clase Baja,13,60 to 64 years,1,Hombre,1,Preescolar o Kínder,464
+1,Clase Baja,13,60 to 64 years,1,Hombre,2,Primaria,106137
+1,Clase Baja,13,60 to 64 years,1,Hombre,3,Secundaria,24130
+1,Clase Baja,13,60 to 64 years,1,Hombre,4,Preparatoria o Bachillerato General,7898
+1,Clase Baja,13,60 to 64 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,2485
+1,Clase Baja,13,60 to 64 years,1,Hombre,10,Normal de Licenciatura,6238
+1,Clase Baja,13,60 to 64 years,1,Hombre,11,Licenciatura,8024
+1,Clase Baja,13,60 to 64 years,1,Hombre,13,Maestría,519
+1,Clase Baja,13,60 to 64 years,1,Hombre,14,Doctorado,507
+1,Clase Baja,13,60 to 64 years,2,Mujer,0,Ninguno,5110
+1,Clase Baja,13,60 to 64 years,2,Mujer,2,Primaria,18014
+1,Clase Baja,13,60 to 64 years,2,Mujer,3,Secundaria,3876
+1,Clase Baja,13,60 to 64 years,2,Mujer,4,Preparatoria o Bachillerato General,2184
+1,Clase Baja,13,60 to 64 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,2639
+1,Clase Baja,13,60 to 64 years,2,Mujer,10,Normal de Licenciatura,979
+1,Clase Baja,13,60 to 64 years,2,Mujer,11,Licenciatura,3464
+1,Clase Baja,13,60 to 64 years,2,Mujer,13,Maestría,1158
+1,Clase Baja,14,65 to 69 years,1,Hombre,0,Ninguno,23029
+1,Clase Baja,14,65 to 69 years,1,Hombre,2,Primaria,89864
+1,Clase Baja,14,65 to 69 years,1,Hombre,3,Secundaria,14545
+1,Clase Baja,14,65 to 69 years,1,Hombre,4,Preparatoria o Bachillerato General,4486
+1,Clase Baja,14,65 to 69 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,657
+1,Clase Baja,14,65 to 69 years,1,Hombre,10,Normal de Licenciatura,3881
+1,Clase Baja,14,65 to 69 years,1,Hombre,11,Licenciatura,4586
+1,Clase Baja,14,65 to 69 years,1,Hombre,14,Doctorado,92
+1,Clase Baja,14,65 to 69 years,2,Mujer,0,Ninguno,4320
+1,Clase Baja,14,65 to 69 years,2,Mujer,2,Primaria,12643
+1,Clase Baja,14,65 to 69 years,2,Mujer,3,Secundaria,4026
+1,Clase Baja,14,65 to 69 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,1791
+1,Clase Baja,14,65 to 69 years,2,Mujer,10,Normal de Licenciatura,1441
+1,Clase Baja,14,65 to 69 years,2,Mujer,11,Licenciatura,705
+1,Clase Baja,14,65 to 69 years,2,Mujer,13,Maestría,29
+1,Clase Baja,15,70 to 74 years,1,Hombre,0,Ninguno,21644
+1,Clase Baja,15,70 to 74 years,1,Hombre,2,Primaria,52261
+1,Clase Baja,15,70 to 74 years,1,Hombre,3,Secundaria,9148
+1,Clase Baja,15,70 to 74 years,1,Hombre,4,Preparatoria o Bachillerato General,1182
+1,Clase Baja,15,70 to 74 years,1,Hombre,10,Normal de Licenciatura,1265
+1,Clase Baja,15,70 to 74 years,1,Hombre,11,Licenciatura,2168
+1,Clase Baja,15,70 to 74 years,1,Hombre,13,Maestría,1128
+1,Clase Baja,15,70 to 74 years,2,Mujer,0,Ninguno,2159
+1,Clase Baja,15,70 to 74 years,2,Mujer,1,Preescolar o Kínder,949
+1,Clase Baja,15,70 to 74 years,2,Mujer,2,Primaria,6760
+1,Clase Baja,15,70 to 74 years,2,Mujer,3,Secundaria,1398
+1,Clase Baja,15,70 to 74 years,2,Mujer,4,Preparatoria o Bachillerato General,59
+1,Clase Baja,15,70 to 74 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,567
+1,Clase Baja,15,70 to 74 years,2,Mujer,10,Normal de Licenciatura,39
+1,Clase Baja,15,70 to 74 years,2,Mujer,11,Licenciatura,110
+1,Clase Baja,16,75 to 79 years,1,Hombre,0,Ninguno,17873
+1,Clase Baja,16,75 to 79 years,1,Hombre,1,Preescolar o Kínder,591
+1,Clase Baja,16,75 to 79 years,1,Hombre,2,Primaria,37040
+1,Clase Baja,16,75 to 79 years,1,Hombre,3,Secundaria,2343
+1,Clase Baja,16,75 to 79 years,1,Hombre,11,Licenciatura,997
+1,Clase Baja,16,75 to 79 years,2,Mujer,0,Ninguno,2863
+1,Clase Baja,16,75 to 79 years,2,Mujer,1,Preescolar o Kínder,71
+1,Clase Baja,16,75 to 79 years,2,Mujer,2,Primaria,2412
+1,Clase Baja,16,75 to 79 years,2,Mujer,3,Secundaria,1140
+1,Clase Baja,16,75 to 79 years,2,Mujer,10,Normal de Licenciatura,606
+1,Clase Baja,16,75 to 79 years,2,Mujer,11,Licenciatura,283
+1,Clase Baja,17,80 or more years,1,Hombre,0,Ninguno,23868
+1,Clase Baja,17,80 or more years,1,Hombre,2,Primaria,34467
+1,Clase Baja,17,80 or more years,1,Hombre,3,Secundaria,1077
+1,Clase Baja,17,80 or more years,1,Hombre,10,Normal de Licenciatura,590
+1,Clase Baja,17,80 or more years,1,Hombre,11,Licenciatura,720
+1,Clase Baja,17,80 or more years,2,Mujer,0,Ninguno,1832
+1,Clase Baja,17,80 or more years,2,Mujer,2,Primaria,3420
+1,Clase Baja,17,80 or more years,2,Mujer,3,Secundaria,150
+1,Clase Baja,17,80 or more years,2,Mujer,10,Normal de Licenciatura,64
+1,Clase Baja,17,80 or more years,2,Mujer,11,Licenciatura,446
+2,Clase Media Baja,4,15 to 19 years,1,Hombre,0,Ninguno,561
+2,Clase Media Baja,4,15 to 19 years,1,Hombre,1,Preescolar o Kínder,613
+2,Clase Media Baja,4,15 to 19 years,1,Hombre,2,Primaria,46350
+2,Clase Media Baja,4,15 to 19 years,1,Hombre,3,Secundaria,235657
+2,Clase Media Baja,4,15 to 19 years,1,Hombre,4,Preparatoria o Bachillerato General,259783
+2,Clase Media Baja,4,15 to 19 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,8720
+2,Clase Media Baja,4,15 to 19 years,1,Hombre,11,Licenciatura,25917
+2,Clase Media Baja,4,15 to 19 years,2,Mujer,2,Primaria,18690
+2,Clase Media Baja,4,15 to 19 years,2,Mujer,3,Secundaria,117145
+2,Clase Media Baja,4,15 to 19 years,2,Mujer,4,Preparatoria o Bachillerato General,187876
+2,Clase Media Baja,4,15 to 19 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,5819
+2,Clase Media Baja,4,15 to 19 years,2,Mujer,10,Normal de Licenciatura,608
+2,Clase Media Baja,4,15 to 19 years,2,Mujer,11,Licenciatura,14536
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,0,Ninguno,7375
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,2,Primaria,171702
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,3,Secundaria,779605
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,4,Preparatoria o Bachillerato General,925467
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,66861
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,10,Normal de Licenciatura,5498
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,11,Licenciatura,396607
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,13,Maestría,695
+2,Clase Media Baja,5,20 to 24 years,1,Hombre,14,Doctorado,79
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,0,Ninguno,631
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,2,Primaria,54481
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,3,Secundaria,480193
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,4,Preparatoria o Bachillerato General,660795
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,45001
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,10,Normal de Licenciatura,4455
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,11,Licenciatura,371057
+2,Clase Media Baja,5,20 to 24 years,2,Mujer,13,Maestría,3788
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,0,Ninguno,14726
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,1,Preescolar o Kínder,49
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,2,Primaria,215782
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,3,Secundaria,919876
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,4,Preparatoria o Bachillerato General,845709
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,64185
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,10,Normal de Licenciatura,8861
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,11,Licenciatura,644014
+2,Clase Media Baja,6,25 to 29 years,1,Hombre,13,Maestría,13030
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,0,Ninguno,4614
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,1,Preescolar o Kínder,224
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,2,Primaria,112594
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,3,Secundaria,614055
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,4,Preparatoria o Bachillerato General,716688
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,68557
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,10,Normal de Licenciatura,15879
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,11,Licenciatura,616717
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,13,Maestría,28366
+2,Clase Media Baja,6,25 to 29 years,2,Mujer,14,Doctorado,806
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,0,Ninguno,19387
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,1,Preescolar o Kínder,805
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,2,Primaria,311004
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,3,Secundaria,1030979
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,4,Preparatoria o Bachillerato General,734789
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,104655
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,10,Normal de Licenciatura,9654
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,11,Licenciatura,534350
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,13,Maestría,30440
+2,Clase Media Baja,7,30 to 34 years,1,Hombre,14,Doctorado,6085
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,0,Ninguno,6159
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,2,Primaria,199528
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,3,Secundaria,808127
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,4,Preparatoria o Bachillerato General,649675
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,110036
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,10,Normal de Licenciatura,18236
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,11,Licenciatura,562889
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,13,Maestría,45561
+2,Clase Media Baja,7,30 to 34 years,2,Mujer,14,Doctorado,10192
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,0,Ninguno,28649
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,1,Preescolar o Kínder,529
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,2,Primaria,428434
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,3,Secundaria,1088107
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,4,Preparatoria o Bachillerato General,685336
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,103829
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,10,Normal de Licenciatura,10021
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,11,Licenciatura,412887
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,13,Maestría,30990
+2,Clase Media Baja,8,35 to 39 years,1,Hombre,14,Doctorado,5790
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,0,Ninguno,10336
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,1,Preescolar o Kínder,2067
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,2,Primaria,283708
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,3,Secundaria,833253
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,4,Preparatoria o Bachillerato General,452628
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,129999
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,10,Normal de Licenciatura,17188
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,11,Licenciatura,389141
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,13,Maestría,45997
+2,Clase Media Baja,8,35 to 39 years,2,Mujer,14,Doctorado,7117
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,0,Ninguno,34058
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,1,Preescolar o Kínder,830
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,2,Primaria,537313
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,3,Secundaria,1139227
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,4,Preparatoria o Bachillerato General,549981
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,100716
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,10,Normal de Licenciatura,7637
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,11,Licenciatura,343987
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,13,Maestría,36376
+2,Clase Media Baja,9,40 to 44 years,1,Hombre,14,Doctorado,7386
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,0,Ninguno,11296
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,1,Preescolar o Kínder,771
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,2,Primaria,331403
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,3,Secundaria,838714
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,4,Preparatoria o Bachillerato General,366898
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,190069
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,10,Normal de Licenciatura,20393
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,11,Licenciatura,310252
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,13,Maestría,28184
+2,Clase Media Baja,9,40 to 44 years,2,Mujer,14,Doctorado,5266
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,0,Ninguno,21211
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,1,Preescolar o Kínder,223
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,2,Primaria,559997
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,3,Secundaria,939262
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,4,Preparatoria o Bachillerato General,472903
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,80993
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,10,Normal de Licenciatura,10717
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,11,Licenciatura,257034
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,13,Maestría,32281
+2,Clase Media Baja,10,45 to 49 years,1,Hombre,14,Doctorado,9959
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,0,Ninguno,20337
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,1,Preescolar o Kínder,105
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,2,Primaria,318919
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,3,Secundaria,656329
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,4,Preparatoria o Bachillerato General,276085
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,192373
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,10,Normal de Licenciatura,23687
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,11,Licenciatura,189860
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,13,Maestría,21072
+2,Clase Media Baja,10,45 to 49 years,2,Mujer,14,Doctorado,5426
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,0,Ninguno,50467
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,1,Preescolar o Kínder,461
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,2,Primaria,560632
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,3,Secundaria,599547
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,4,Preparatoria o Bachillerato General,328005
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,79338
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,10,Normal de Licenciatura,21861
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,11,Licenciatura,228334
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,13,Maestría,26206
+2,Clase Media Baja,11,50 to 54 years,1,Hombre,14,Doctorado,5483
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,0,Ninguno,29908
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,2,Primaria,372734
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,3,Secundaria,421272
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,4,Preparatoria o Bachillerato General,146452
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,143926
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,10,Normal de Licenciatura,57807
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,11,Licenciatura,177651
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,13,Maestría,15506
+2,Clase Media Baja,11,50 to 54 years,2,Mujer,14,Doctorado,8615
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,0,Ninguno,54736
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,1,Preescolar o Kínder,375
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,2,Primaria,623021
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,3,Secundaria,481858
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,4,Preparatoria o Bachillerato General,222797
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,52732
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,10,Normal de Licenciatura,39332
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,11,Licenciatura,189745
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,13,Maestría,22356
+2,Clase Media Baja,12,55 to 59 years,1,Hombre,14,Doctorado,2418
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,0,Ninguno,32794
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,1,Preescolar o Kínder,1118
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,2,Primaria,338244
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,3,Secundaria,261788
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,4,Preparatoria o Bachillerato General,73655
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,108227
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,10,Normal de Licenciatura,50337
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,11,Licenciatura,117351
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,13,Maestría,13066
+2,Clase Media Baja,12,55 to 59 years,2,Mujer,14,Doctorado,1864
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,0,Ninguno,72569
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,1,Preescolar o Kínder,786
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,2,Primaria,659759
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,3,Secundaria,287965
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,4,Preparatoria o Bachillerato General,107744
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,34379
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,10,Normal de Licenciatura,27951
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,11,Licenciatura,144185
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,13,Maestría,14377
+2,Clase Media Baja,13,60 to 64 years,1,Hombre,14,Doctorado,4097
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,0,Ninguno,28204
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,2,Primaria,260148
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,3,Secundaria,95176
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,4,Preparatoria o Bachillerato General,32241
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,60683
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,10,Normal de Licenciatura,30355
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,11,Licenciatura,60750
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,13,Maestría,5938
+2,Clase Media Baja,13,60 to 64 years,2,Mujer,14,Doctorado,599
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,0,Ninguno,88070
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,2,Primaria,539226
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,3,Secundaria,161396
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,4,Preparatoria o Bachillerato General,44928
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,35589
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,10,Normal de Licenciatura,13946
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,11,Licenciatura,69823
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,13,Maestría,11983
+2,Clase Media Baja,14,65 to 69 years,1,Hombre,14,Doctorado,2302
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,0,Ninguno,25286
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,1,Preescolar o Kínder,820
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,2,Primaria,170112
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,3,Secundaria,68790
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,4,Preparatoria o Bachillerato General,13188
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,56901
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,10,Normal de Licenciatura,23232
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,11,Licenciatura,33181
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,13,Maestría,5177
+2,Clase Media Baja,14,65 to 69 years,2,Mujer,14,Doctorado,1044
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,0,Ninguno,82938
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,1,Preescolar o Kínder,3231
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,2,Primaria,428990
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,3,Secundaria,85075
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,4,Preparatoria o Bachillerato General,12205
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,13073
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,10,Normal de Licenciatura,15431
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,11,Licenciatura,32499
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,13,Maestría,2398
+2,Clase Media Baja,15,70 to 74 years,1,Hombre,14,Doctorado,329
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,0,Ninguno,21564
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,1,Preescolar o Kínder,354
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,2,Primaria,122997
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,3,Secundaria,25443
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,4,Preparatoria o Bachillerato General,2518
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,20910
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,10,Normal de Licenciatura,8412
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,11,Licenciatura,12044
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,13,Maestría,3775
+2,Clase Media Baja,15,70 to 74 years,2,Mujer,14,Doctorado,2010
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,0,Ninguno,95332
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,2,Primaria,282080
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,3,Secundaria,43419
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,4,Preparatoria o Bachillerato General,9190
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,3911
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,10,Normal de Licenciatura,4368
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,11,Licenciatura,11362
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,13,Maestría,1464
+2,Clase Media Baja,16,75 to 79 years,1,Hombre,14,Doctorado,348
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,0,Ninguno,14695
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,2,Primaria,59730
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,3,Secundaria,9816
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,4,Preparatoria o Bachillerato General,203
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,7393
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,10,Normal de Licenciatura,4312
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,11,Licenciatura,3754
+2,Clase Media Baja,16,75 to 79 years,2,Mujer,13,Maestría,407
+2,Clase Media Baja,17,80 or more years,1,Hombre,0,Ninguno,97943
+2,Clase Media Baja,17,80 or more years,1,Hombre,1,Preescolar o Kínder,1906
+2,Clase Media Baja,17,80 or more years,1,Hombre,2,Primaria,265334
+2,Clase Media Baja,17,80 or more years,1,Hombre,3,Secundaria,27431
+2,Clase Media Baja,17,80 or more years,1,Hombre,4,Preparatoria o Bachillerato General,11881
+2,Clase Media Baja,17,80 or more years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,1718
+2,Clase Media Baja,17,80 or more years,1,Hombre,10,Normal de Licenciatura,4556
+2,Clase Media Baja,17,80 or more years,1,Hombre,11,Licenciatura,12985
+2,Clase Media Baja,17,80 or more years,1,Hombre,13,Maestría,586
+2,Clase Media Baja,17,80 or more years,2,Mujer,0,Ninguno,16590
+2,Clase Media Baja,17,80 or more years,2,Mujer,2,Primaria,60375
+2,Clase Media Baja,17,80 or more years,2,Mujer,3,Secundaria,7312
+2,Clase Media Baja,17,80 or more years,2,Mujer,4,Preparatoria o Bachillerato General,3399
+2,Clase Media Baja,17,80 or more years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,6212
+2,Clase Media Baja,17,80 or more years,2,Mujer,10,Normal de Licenciatura,11000
+2,Clase Media Baja,17,80 or more years,2,Mujer,11,Licenciatura,2071
+3,Clase Media Alta,4,15 to 19 years,1,Hombre,2,Primaria,11579
+3,Clase Media Alta,4,15 to 19 years,1,Hombre,3,Secundaria,69721
+3,Clase Media Alta,4,15 to 19 years,1,Hombre,4,Preparatoria o Bachillerato General,128932
+3,Clase Media Alta,4,15 to 19 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,4069
+3,Clase Media Alta,4,15 to 19 years,1,Hombre,11,Licenciatura,8539
+3,Clase Media Alta,4,15 to 19 years,2,Mujer,2,Primaria,2662
+3,Clase Media Alta,4,15 to 19 years,2,Mujer,3,Secundaria,35987
+3,Clase Media Alta,4,15 to 19 years,2,Mujer,4,Preparatoria o Bachillerato General,107157
+3,Clase Media Alta,4,15 to 19 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,629
+3,Clase Media Alta,4,15 to 19 years,2,Mujer,11,Licenciatura,11637
+3,Clase Media Alta,5,20 to 24 years,1,Hombre,2,Primaria,27142
+3,Clase Media Alta,5,20 to 24 years,1,Hombre,3,Secundaria,272001
+3,Clase Media Alta,5,20 to 24 years,1,Hombre,4,Preparatoria o Bachillerato General,429305
+3,Clase Media Alta,5,20 to 24 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,41831
+3,Clase Media Alta,5,20 to 24 years,1,Hombre,10,Normal de Licenciatura,2867
+3,Clase Media Alta,5,20 to 24 years,1,Hombre,11,Licenciatura,340341
+3,Clase Media Alta,5,20 to 24 years,1,Hombre,13,Maestría,783
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,0,Ninguno,709
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,2,Primaria,10476
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,3,Secundaria,179713
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,4,Preparatoria o Bachillerato General,302483
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,29634
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,10,Normal de Licenciatura,3498
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,11,Licenciatura,335909
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,13,Maestría,1240
+3,Clase Media Alta,5,20 to 24 years,2,Mujer,14,Doctorado,648
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,0,Ninguno,536
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,2,Primaria,41369
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,3,Secundaria,267753
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,4,Preparatoria o Bachillerato General,382842
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,45308
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,10,Normal de Licenciatura,1527
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,11,Licenciatura,641043
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,13,Maestría,19314
+3,Clase Media Alta,6,25 to 29 years,1,Hombre,14,Doctorado,702
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,2,Primaria,19729
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,3,Secundaria,173494
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,4,Preparatoria o Bachillerato General,343126
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,67830
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,10,Normal de Licenciatura,6533
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,11,Licenciatura,593966
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,13,Maestría,24647
+3,Clase Media Alta,6,25 to 29 years,2,Mujer,14,Doctorado,6826
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,0,Ninguno,2826
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,2,Primaria,62164
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,3,Secundaria,272196
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,4,Preparatoria o Bachillerato General,362810
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,55376
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,10,Normal de Licenciatura,4532
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,11,Licenciatura,507605
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,13,Maestría,44305
+3,Clase Media Alta,7,30 to 34 years,1,Hombre,14,Doctorado,8122
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,0,Ninguno,825
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,2,Primaria,42912
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,3,Secundaria,231389
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,4,Preparatoria o Bachillerato General,299025
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,90251
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,10,Normal de Licenciatura,11887
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,11,Licenciatura,538309
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,13,Maestría,50247
+3,Clase Media Alta,7,30 to 34 years,2,Mujer,14,Doctorado,11510
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,0,Ninguno,2507
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,2,Primaria,72771
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,3,Secundaria,288539
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,4,Preparatoria o Bachillerato General,376523
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,78821
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,10,Normal de Licenciatura,4239
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,11,Licenciatura,393856
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,13,Maestría,45048
+3,Clase Media Alta,8,35 to 39 years,1,Hombre,14,Doctorado,9087
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,0,Ninguno,1660
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,2,Primaria,67874
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,3,Secundaria,291745
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,4,Preparatoria o Bachillerato General,272896
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,105990
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,10,Normal de Licenciatura,4038
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,11,Licenciatura,414257
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,13,Maestría,56460
+3,Clase Media Alta,8,35 to 39 years,2,Mujer,14,Doctorado,6720
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,0,Ninguno,4127
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,2,Primaria,105849
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,3,Secundaria,384572
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,4,Preparatoria o Bachillerato General,318807
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,72412
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,10,Normal de Licenciatura,2776
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,11,Licenciatura,351921
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,13,Maestría,43170
+3,Clase Media Alta,9,40 to 44 years,1,Hombre,14,Doctorado,7533
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,0,Ninguno,4372
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,2,Primaria,75561
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,3,Secundaria,400236
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,4,Preparatoria o Bachillerato General,264348
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,162501
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,10,Normal de Licenciatura,6865
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,11,Licenciatura,340600
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,13,Maestría,33793
+3,Clase Media Alta,9,40 to 44 years,2,Mujer,14,Doctorado,12745
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,0,Ninguno,4307
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,2,Primaria,105139
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,3,Secundaria,391014
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,4,Preparatoria o Bachillerato General,347326
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,94202
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,10,Normal de Licenciatura,3932
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,11,Licenciatura,291160
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,13,Maestría,39010
+3,Clase Media Alta,10,45 to 49 years,1,Hombre,14,Doctorado,6178
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,0,Ninguno,1576
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,2,Primaria,117909
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,3,Secundaria,328774
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,4,Preparatoria o Bachillerato General,266940
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,194212
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,10,Normal de Licenciatura,9484
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,11,Licenciatura,285002
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,13,Maestría,39333
+3,Clase Media Alta,10,45 to 49 years,2,Mujer,14,Doctorado,9565
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,0,Ninguno,7521
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,2,Primaria,147685
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,3,Secundaria,313521
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,4,Preparatoria o Bachillerato General,282142
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,76774
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,10,Normal de Licenciatura,7535
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,11,Licenciatura,295921
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,13,Maestría,44986
+3,Clase Media Alta,11,50 to 54 years,1,Hombre,14,Doctorado,7492
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,0,Ninguno,7292
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,2,Primaria,142124
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,3,Secundaria,259914
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,4,Preparatoria o Bachillerato General,215311
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,191239
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,10,Normal de Licenciatura,47055
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,11,Licenciatura,242945
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,13,Maestría,27886
+3,Clase Media Alta,11,50 to 54 years,2,Mujer,14,Doctorado,5023
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,0,Ninguno,7858
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,2,Primaria,178367
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,3,Secundaria,279135
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,4,Preparatoria o Bachillerato General,176825
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,61279
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,10,Normal de Licenciatura,12350
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,11,Licenciatura,259430
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,13,Maestría,41924
+3,Clase Media Alta,12,55 to 59 years,1,Hombre,14,Doctorado,7754
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,0,Ninguno,3290
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,1,Preescolar o Kínder,1695
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,2,Primaria,163615
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,3,Secundaria,181154
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,4,Preparatoria o Bachillerato General,123204
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,152296
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,10,Normal de Licenciatura,35911
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,11,Licenciatura,177155
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,13,Maestría,23391
+3,Clase Media Alta,12,55 to 59 years,2,Mujer,14,Doctorado,10639
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,0,Ninguno,17164
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,2,Primaria,241897
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,3,Secundaria,188355
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,4,Preparatoria o Bachillerato General,133444
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,47862
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,10,Normal de Licenciatura,11492
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,11,Licenciatura,192760
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,13,Maestría,27087
+3,Clase Media Alta,13,60 to 64 years,1,Hombre,14,Doctorado,10003
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,0,Ninguno,14531
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,2,Primaria,161310
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,3,Secundaria,142545
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,4,Preparatoria o Bachillerato General,75450
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,132597
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,10,Normal de Licenciatura,28432
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,11,Licenciatura,112271
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,13,Maestría,16723
+3,Clase Media Alta,13,60 to 64 years,2,Mujer,14,Doctorado,421
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,0,Ninguno,19163
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,2,Primaria,195330
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,3,Secundaria,127327
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,4,Preparatoria o Bachillerato General,59760
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,47035
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,10,Normal de Licenciatura,5605
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,11,Licenciatura,128087
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,13,Maestría,23028
+3,Clase Media Alta,14,65 to 69 years,1,Hombre,14,Doctorado,6255
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,0,Ninguno,8488
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,2,Primaria,145301
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,3,Secundaria,78492
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,4,Preparatoria o Bachillerato General,34928
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,104732
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,10,Normal de Licenciatura,16792
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,11,Licenciatura,54403
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,13,Maestría,6175
+3,Clase Media Alta,14,65 to 69 years,2,Mujer,14,Doctorado,2021
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,0,Ninguno,19267
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,2,Primaria,179735
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,3,Secundaria,69540
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,4,Preparatoria o Bachillerato General,48626
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,36534
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,10,Normal de Licenciatura,6417
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,11,Licenciatura,75077
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,13,Maestría,11898
+3,Clase Media Alta,15,70 to 74 years,1,Hombre,14,Doctorado,879
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,0,Ninguno,15984
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,1,Preescolar o Kínder,360
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,2,Primaria,92306
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,3,Secundaria,40100
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,4,Preparatoria o Bachillerato General,12328
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,44859
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,10,Normal de Licenciatura,15080
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,11,Licenciatura,38191
+3,Clase Media Alta,15,70 to 74 years,2,Mujer,13,Maestría,8008
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,0,Ninguno,21079
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,2,Primaria,143405
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,3,Secundaria,50308
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,4,Preparatoria o Bachillerato General,23329
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,14898
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,10,Normal de Licenciatura,4950
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,11,Licenciatura,37926
+3,Clase Media Alta,16,75 to 79 years,1,Hombre,13,Maestría,1424
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,0,Ninguno,8733
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,2,Primaria,62521
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,3,Secundaria,12836
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,4,Preparatoria o Bachillerato General,4665
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,23150
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,10,Normal de Licenciatura,11529
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,11,Licenciatura,18570
+3,Clase Media Alta,16,75 to 79 years,2,Mujer,13,Maestría,1830
+3,Clase Media Alta,17,80 or more years,1,Hombre,0,Ninguno,37713
+3,Clase Media Alta,17,80 or more years,1,Hombre,2,Primaria,162272
+3,Clase Media Alta,17,80 or more years,1,Hombre,3,Secundaria,29157
+3,Clase Media Alta,17,80 or more years,1,Hombre,4,Preparatoria o Bachillerato General,8952
+3,Clase Media Alta,17,80 or more years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,17020
+3,Clase Media Alta,17,80 or more years,1,Hombre,10,Normal de Licenciatura,3253
+3,Clase Media Alta,17,80 or more years,1,Hombre,11,Licenciatura,26706
+3,Clase Media Alta,17,80 or more years,1,Hombre,13,Maestría,1862
+3,Clase Media Alta,17,80 or more years,1,Hombre,14,Doctorado,3297
+3,Clase Media Alta,17,80 or more years,2,Mujer,0,Ninguno,10965
+3,Clase Media Alta,17,80 or more years,2,Mujer,2,Primaria,67961
+3,Clase Media Alta,17,80 or more years,2,Mujer,3,Secundaria,21692
+3,Clase Media Alta,17,80 or more years,2,Mujer,4,Preparatoria o Bachillerato General,4164
+3,Clase Media Alta,17,80 or more years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,24204
+3,Clase Media Alta,17,80 or more years,2,Mujer,10,Normal de Licenciatura,4556
+3,Clase Media Alta,17,80 or more years,2,Mujer,11,Licenciatura,7270
+3,Clase Media Alta,17,80 or more years,2,Mujer,13,Maestría,345
+4,Clase Alta,4,15 to 19 years,1,Hombre,2,Primaria,139
+4,Clase Alta,4,15 to 19 years,1,Hombre,3,Secundaria,11432
+4,Clase Alta,4,15 to 19 years,1,Hombre,4,Preparatoria o Bachillerato General,57659
+4,Clase Alta,4,15 to 19 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,1803
+4,Clase Alta,4,15 to 19 years,1,Hombre,11,Licenciatura,6311
+4,Clase Alta,4,15 to 19 years,2,Mujer,2,Primaria,606
+4,Clase Alta,4,15 to 19 years,2,Mujer,3,Secundaria,17610
+4,Clase Alta,4,15 to 19 years,2,Mujer,4,Preparatoria o Bachillerato General,30344
+4,Clase Alta,4,15 to 19 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,827
+4,Clase Alta,4,15 to 19 years,2,Mujer,11,Licenciatura,4948
+4,Clase Alta,5,20 to 24 years,1,Hombre,0,Ninguno,190
+4,Clase Alta,5,20 to 24 years,1,Hombre,1,Preescolar o Kínder,139
+4,Clase Alta,5,20 to 24 years,1,Hombre,2,Primaria,4770
+4,Clase Alta,5,20 to 24 years,1,Hombre,3,Secundaria,45545
+4,Clase Alta,5,20 to 24 years,1,Hombre,4,Preparatoria o Bachillerato General,136142
+4,Clase Alta,5,20 to 24 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,15171
+4,Clase Alta,5,20 to 24 years,1,Hombre,10,Normal de Licenciatura,651
+4,Clase Alta,5,20 to 24 years,1,Hombre,11,Licenciatura,204188
+4,Clase Alta,5,20 to 24 years,1,Hombre,13,Maestría,1298
+4,Clase Alta,5,20 to 24 years,2,Mujer,2,Primaria,1731
+4,Clase Alta,5,20 to 24 years,2,Mujer,3,Secundaria,26016
+4,Clase Alta,5,20 to 24 years,2,Mujer,4,Preparatoria o Bachillerato General,93205
+4,Clase Alta,5,20 to 24 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,2539
+4,Clase Alta,5,20 to 24 years,2,Mujer,10,Normal de Licenciatura,1486
+4,Clase Alta,5,20 to 24 years,2,Mujer,11,Licenciatura,171841
+4,Clase Alta,5,20 to 24 years,2,Mujer,13,Maestría,4391
+4,Clase Alta,6,25 to 29 years,1,Hombre,2,Primaria,6391
+4,Clase Alta,6,25 to 29 years,1,Hombre,3,Secundaria,58489
+4,Clase Alta,6,25 to 29 years,1,Hombre,4,Preparatoria o Bachillerato General,129232
+4,Clase Alta,6,25 to 29 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,14589
+4,Clase Alta,6,25 to 29 years,1,Hombre,10,Normal de Licenciatura,224
+4,Clase Alta,6,25 to 29 years,1,Hombre,11,Licenciatura,384284
+4,Clase Alta,6,25 to 29 years,1,Hombre,13,Maestría,23124
+4,Clase Alta,6,25 to 29 years,1,Hombre,14,Doctorado,355
+4,Clase Alta,6,25 to 29 years,2,Mujer,2,Primaria,8446
+4,Clase Alta,6,25 to 29 years,2,Mujer,3,Secundaria,49283
+4,Clase Alta,6,25 to 29 years,2,Mujer,4,Preparatoria o Bachillerato General,93538
+4,Clase Alta,6,25 to 29 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,12969
+4,Clase Alta,6,25 to 29 years,2,Mujer,10,Normal de Licenciatura,3719
+4,Clase Alta,6,25 to 29 years,2,Mujer,11,Licenciatura,355651
+4,Clase Alta,6,25 to 29 years,2,Mujer,13,Maestría,37506
+4,Clase Alta,6,25 to 29 years,2,Mujer,14,Doctorado,2055
+4,Clase Alta,7,30 to 34 years,1,Hombre,2,Primaria,10857
+4,Clase Alta,7,30 to 34 years,1,Hombre,3,Secundaria,63034
+4,Clase Alta,7,30 to 34 years,1,Hombre,4,Preparatoria o Bachillerato General,120482
+4,Clase Alta,7,30 to 34 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,21098
+4,Clase Alta,7,30 to 34 years,1,Hombre,10,Normal de Licenciatura,194
+4,Clase Alta,7,30 to 34 years,1,Hombre,11,Licenciatura,305706
+4,Clase Alta,7,30 to 34 years,1,Hombre,13,Maestría,54010
+4,Clase Alta,7,30 to 34 years,1,Hombre,14,Doctorado,10183
+4,Clase Alta,7,30 to 34 years,2,Mujer,0,Ninguno,145
+4,Clase Alta,7,30 to 34 years,2,Mujer,2,Primaria,5327
+4,Clase Alta,7,30 to 34 years,2,Mujer,3,Secundaria,48558
+4,Clase Alta,7,30 to 34 years,2,Mujer,4,Preparatoria o Bachillerato General,112577
+4,Clase Alta,7,30 to 34 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,18389
+4,Clase Alta,7,30 to 34 years,2,Mujer,10,Normal de Licenciatura,5431
+4,Clase Alta,7,30 to 34 years,2,Mujer,11,Licenciatura,333598
+4,Clase Alta,7,30 to 34 years,2,Mujer,13,Maestría,56065
+4,Clase Alta,7,30 to 34 years,2,Mujer,14,Doctorado,6325
+4,Clase Alta,8,35 to 39 years,1,Hombre,0,Ninguno,1244
+4,Clase Alta,8,35 to 39 years,1,Hombre,2,Primaria,8237
+4,Clase Alta,8,35 to 39 years,1,Hombre,3,Secundaria,78432
+4,Clase Alta,8,35 to 39 years,1,Hombre,4,Preparatoria o Bachillerato General,124262
+4,Clase Alta,8,35 to 39 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,33585
+4,Clase Alta,8,35 to 39 years,1,Hombre,10,Normal de Licenciatura,1581
+4,Clase Alta,8,35 to 39 years,1,Hombre,11,Licenciatura,326312
+4,Clase Alta,8,35 to 39 years,1,Hombre,13,Maestría,69636
+4,Clase Alta,8,35 to 39 years,1,Hombre,14,Doctorado,17656
+4,Clase Alta,8,35 to 39 years,2,Mujer,0,Ninguno,191
+4,Clase Alta,8,35 to 39 years,2,Mujer,2,Primaria,10842
+4,Clase Alta,8,35 to 39 years,2,Mujer,3,Secundaria,86651
+4,Clase Alta,8,35 to 39 years,2,Mujer,4,Preparatoria o Bachillerato General,153148
+4,Clase Alta,8,35 to 39 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,52872
+4,Clase Alta,8,35 to 39 years,2,Mujer,10,Normal de Licenciatura,4738
+4,Clase Alta,8,35 to 39 years,2,Mujer,11,Licenciatura,329608
+4,Clase Alta,8,35 to 39 years,2,Mujer,13,Maestría,63998
+4,Clase Alta,8,35 to 39 years,2,Mujer,14,Doctorado,13745
+4,Clase Alta,9,40 to 44 years,1,Hombre,0,Ninguno,567
+4,Clase Alta,9,40 to 44 years,1,Hombre,2,Primaria,16920
+4,Clase Alta,9,40 to 44 years,1,Hombre,3,Secundaria,99924
+4,Clase Alta,9,40 to 44 years,1,Hombre,4,Preparatoria o Bachillerato General,171734
+4,Clase Alta,9,40 to 44 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,38611
+4,Clase Alta,9,40 to 44 years,1,Hombre,10,Normal de Licenciatura,1251
+4,Clase Alta,9,40 to 44 years,1,Hombre,11,Licenciatura,337312
+4,Clase Alta,9,40 to 44 years,1,Hombre,13,Maestría,56179
+4,Clase Alta,9,40 to 44 years,1,Hombre,14,Doctorado,9208
+4,Clase Alta,9,40 to 44 years,2,Mujer,2,Primaria,21054
+4,Clase Alta,9,40 to 44 years,2,Mujer,3,Secundaria,101069
+4,Clase Alta,9,40 to 44 years,2,Mujer,4,Preparatoria o Bachillerato General,126219
+4,Clase Alta,9,40 to 44 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,86870
+4,Clase Alta,9,40 to 44 years,2,Mujer,10,Normal de Licenciatura,5934
+4,Clase Alta,9,40 to 44 years,2,Mujer,11,Licenciatura,341638
+4,Clase Alta,9,40 to 44 years,2,Mujer,13,Maestría,58940
+4,Clase Alta,9,40 to 44 years,2,Mujer,14,Doctorado,19282
+4,Clase Alta,10,45 to 49 years,1,Hombre,0,Ninguno,685
+4,Clase Alta,10,45 to 49 years,1,Hombre,2,Primaria,12242
+4,Clase Alta,10,45 to 49 years,1,Hombre,3,Secundaria,122576
+4,Clase Alta,10,45 to 49 years,1,Hombre,4,Preparatoria o Bachillerato General,131150
+4,Clase Alta,10,45 to 49 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,31840
+4,Clase Alta,10,45 to 49 years,1,Hombre,10,Normal de Licenciatura,2070
+4,Clase Alta,10,45 to 49 years,1,Hombre,11,Licenciatura,259213
+4,Clase Alta,10,45 to 49 years,1,Hombre,13,Maestría,56120
+4,Clase Alta,10,45 to 49 years,1,Hombre,14,Doctorado,13697
+4,Clase Alta,10,45 to 49 years,2,Mujer,0,Ninguno,1667
+4,Clase Alta,10,45 to 49 years,2,Mujer,2,Primaria,12667
+4,Clase Alta,10,45 to 49 years,2,Mujer,3,Secundaria,80562
+4,Clase Alta,10,45 to 49 years,2,Mujer,4,Preparatoria o Bachillerato General,91790
+4,Clase Alta,10,45 to 49 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,95856
+4,Clase Alta,10,45 to 49 years,2,Mujer,10,Normal de Licenciatura,8509
+4,Clase Alta,10,45 to 49 years,2,Mujer,11,Licenciatura,259182
+4,Clase Alta,10,45 to 49 years,2,Mujer,13,Maestría,55136
+4,Clase Alta,10,45 to 49 years,2,Mujer,14,Doctorado,6715
+4,Clase Alta,11,50 to 54 years,1,Hombre,0,Ninguno,1067
+4,Clase Alta,11,50 to 54 years,1,Hombre,2,Primaria,11211
+4,Clase Alta,11,50 to 54 years,1,Hombre,3,Secundaria,82773
+4,Clase Alta,11,50 to 54 years,1,Hombre,4,Preparatoria o Bachillerato General,117412
+4,Clase Alta,11,50 to 54 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,18998
+4,Clase Alta,11,50 to 54 years,1,Hombre,10,Normal de Licenciatura,4111
+4,Clase Alta,11,50 to 54 years,1,Hombre,11,Licenciatura,240014
+4,Clase Alta,11,50 to 54 years,1,Hombre,13,Maestría,66007
+4,Clase Alta,11,50 to 54 years,1,Hombre,14,Doctorado,17633
+4,Clase Alta,11,50 to 54 years,2,Mujer,0,Ninguno,1395
+4,Clase Alta,11,50 to 54 years,2,Mujer,2,Primaria,19517
+4,Clase Alta,11,50 to 54 years,2,Mujer,3,Secundaria,99621
+4,Clase Alta,11,50 to 54 years,2,Mujer,4,Preparatoria o Bachillerato General,80280
+4,Clase Alta,11,50 to 54 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,98657
+4,Clase Alta,11,50 to 54 years,2,Mujer,10,Normal de Licenciatura,17444
+4,Clase Alta,11,50 to 54 years,2,Mujer,11,Licenciatura,217952
+4,Clase Alta,11,50 to 54 years,2,Mujer,13,Maestría,43983
+4,Clase Alta,11,50 to 54 years,2,Mujer,14,Doctorado,8420
+4,Clase Alta,12,55 to 59 years,1,Hombre,0,Ninguno,1348
+4,Clase Alta,12,55 to 59 years,1,Hombre,2,Primaria,33851
+4,Clase Alta,12,55 to 59 years,1,Hombre,3,Secundaria,42803
+4,Clase Alta,12,55 to 59 years,1,Hombre,4,Preparatoria o Bachillerato General,80525
+4,Clase Alta,12,55 to 59 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,12696
+4,Clase Alta,12,55 to 59 years,1,Hombre,10,Normal de Licenciatura,10942
+4,Clase Alta,12,55 to 59 years,1,Hombre,11,Licenciatura,213746
+4,Clase Alta,12,55 to 59 years,1,Hombre,13,Maestría,36024
+4,Clase Alta,12,55 to 59 years,1,Hombre,14,Doctorado,10040
+4,Clase Alta,12,55 to 59 years,2,Mujer,0,Ninguno,1076
+4,Clase Alta,12,55 to 59 years,2,Mujer,2,Primaria,23753
+4,Clase Alta,12,55 to 59 years,2,Mujer,3,Secundaria,40808
+4,Clase Alta,12,55 to 59 years,2,Mujer,4,Preparatoria o Bachillerato General,44689
+4,Clase Alta,12,55 to 59 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,72326
+4,Clase Alta,12,55 to 59 years,2,Mujer,10,Normal de Licenciatura,22490
+4,Clase Alta,12,55 to 59 years,2,Mujer,11,Licenciatura,168198
+4,Clase Alta,12,55 to 59 years,2,Mujer,13,Maestría,45231
+4,Clase Alta,12,55 to 59 years,2,Mujer,14,Doctorado,5359
+4,Clase Alta,13,60 to 64 years,1,Hombre,2,Primaria,24375
+4,Clase Alta,13,60 to 64 years,1,Hombre,3,Secundaria,45062
+4,Clase Alta,13,60 to 64 years,1,Hombre,4,Preparatoria o Bachillerato General,46325
+4,Clase Alta,13,60 to 64 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,13929
+4,Clase Alta,13,60 to 64 years,1,Hombre,10,Normal de Licenciatura,1669
+4,Clase Alta,13,60 to 64 years,1,Hombre,11,Licenciatura,196464
+4,Clase Alta,13,60 to 64 years,1,Hombre,13,Maestría,29880
+4,Clase Alta,13,60 to 64 years,1,Hombre,14,Doctorado,10110
+4,Clase Alta,13,60 to 64 years,2,Mujer,0,Ninguno,216
+4,Clase Alta,13,60 to 64 years,2,Mujer,2,Primaria,24848
+4,Clase Alta,13,60 to 64 years,2,Mujer,3,Secundaria,26218
+4,Clase Alta,13,60 to 64 years,2,Mujer,4,Preparatoria o Bachillerato General,45307
+4,Clase Alta,13,60 to 64 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,67890
+4,Clase Alta,13,60 to 64 years,2,Mujer,10,Normal de Licenciatura,10358
+4,Clase Alta,13,60 to 64 years,2,Mujer,11,Licenciatura,118191
+4,Clase Alta,13,60 to 64 years,2,Mujer,13,Maestría,13319
+4,Clase Alta,13,60 to 64 years,2,Mujer,14,Doctorado,2779
+4,Clase Alta,14,65 to 69 years,1,Hombre,0,Ninguno,1694
+4,Clase Alta,14,65 to 69 years,1,Hombre,2,Primaria,42243
+4,Clase Alta,14,65 to 69 years,1,Hombre,3,Secundaria,23315
+4,Clase Alta,14,65 to 69 years,1,Hombre,4,Preparatoria o Bachillerato General,14542
+4,Clase Alta,14,65 to 69 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,18512
+4,Clase Alta,14,65 to 69 years,1,Hombre,10,Normal de Licenciatura,2000
+4,Clase Alta,14,65 to 69 years,1,Hombre,11,Licenciatura,137540
+4,Clase Alta,14,65 to 69 years,1,Hombre,13,Maestría,33215
+4,Clase Alta,14,65 to 69 years,1,Hombre,14,Doctorado,9451
+4,Clase Alta,14,65 to 69 years,2,Mujer,2,Primaria,17785
+4,Clase Alta,14,65 to 69 years,2,Mujer,3,Secundaria,27895
+4,Clase Alta,14,65 to 69 years,2,Mujer,4,Preparatoria o Bachillerato General,19081
+4,Clase Alta,14,65 to 69 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,77266
+4,Clase Alta,14,65 to 69 years,2,Mujer,10,Normal de Licenciatura,13521
+4,Clase Alta,14,65 to 69 years,2,Mujer,11,Licenciatura,58573
+4,Clase Alta,14,65 to 69 years,2,Mujer,13,Maestría,9611
+4,Clase Alta,14,65 to 69 years,2,Mujer,14,Doctorado,4948
+4,Clase Alta,15,70 to 74 years,1,Hombre,0,Ninguno,1333
+4,Clase Alta,15,70 to 74 years,1,Hombre,2,Primaria,24851
+4,Clase Alta,15,70 to 74 years,1,Hombre,3,Secundaria,25967
+4,Clase Alta,15,70 to 74 years,1,Hombre,4,Preparatoria o Bachillerato General,18075
+4,Clase Alta,15,70 to 74 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,16608
+4,Clase Alta,15,70 to 74 years,1,Hombre,10,Normal de Licenciatura,4180
+4,Clase Alta,15,70 to 74 years,1,Hombre,11,Licenciatura,68993
+4,Clase Alta,15,70 to 74 years,1,Hombre,13,Maestría,21525
+4,Clase Alta,15,70 to 74 years,1,Hombre,14,Doctorado,9813
+4,Clase Alta,15,70 to 74 years,2,Mujer,2,Primaria,19302
+4,Clase Alta,15,70 to 74 years,2,Mujer,3,Secundaria,14124
+4,Clase Alta,15,70 to 74 years,2,Mujer,4,Preparatoria o Bachillerato General,13538
+4,Clase Alta,15,70 to 74 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,39498
+4,Clase Alta,15,70 to 74 years,2,Mujer,10,Normal de Licenciatura,5325
+4,Clase Alta,15,70 to 74 years,2,Mujer,11,Licenciatura,44471
+4,Clase Alta,15,70 to 74 years,2,Mujer,13,Maestría,1287
+4,Clase Alta,15,70 to 74 years,2,Mujer,14,Doctorado,2526
+4,Clase Alta,16,75 to 79 years,1,Hombre,0,Ninguno,2336
+4,Clase Alta,16,75 to 79 years,1,Hombre,2,Primaria,21357
+4,Clase Alta,16,75 to 79 years,1,Hombre,3,Secundaria,11423
+4,Clase Alta,16,75 to 79 years,1,Hombre,4,Preparatoria o Bachillerato General,5642
+4,Clase Alta,16,75 to 79 years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,5784
+4,Clase Alta,16,75 to 79 years,1,Hombre,10,Normal de Licenciatura,1489
+4,Clase Alta,16,75 to 79 years,1,Hombre,11,Licenciatura,68239
+4,Clase Alta,16,75 to 79 years,1,Hombre,13,Maestría,6768
+4,Clase Alta,16,75 to 79 years,1,Hombre,14,Doctorado,385
+4,Clase Alta,16,75 to 79 years,2,Mujer,0,Ninguno,435
+4,Clase Alta,16,75 to 79 years,2,Mujer,2,Primaria,6813
+4,Clase Alta,16,75 to 79 years,2,Mujer,3,Secundaria,4248
+4,Clase Alta,16,75 to 79 years,2,Mujer,4,Preparatoria o Bachillerato General,7516
+4,Clase Alta,16,75 to 79 years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,25945
+4,Clase Alta,16,75 to 79 years,2,Mujer,10,Normal de Licenciatura,6787
+4,Clase Alta,16,75 to 79 years,2,Mujer,11,Licenciatura,20625
+4,Clase Alta,16,75 to 79 years,2,Mujer,13,Maestría,662
+4,Clase Alta,16,75 to 79 years,2,Mujer,14,Doctorado,8251
+4,Clase Alta,17,80 or more years,1,Hombre,0,Ninguno,979
+4,Clase Alta,17,80 or more years,1,Hombre,2,Primaria,28715
+4,Clase Alta,17,80 or more years,1,Hombre,3,Secundaria,22357
+4,Clase Alta,17,80 or more years,1,Hombre,4,Preparatoria o Bachillerato General,3743
+4,Clase Alta,17,80 or more years,1,Hombre,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,1827
+4,Clase Alta,17,80 or more years,1,Hombre,10,Normal de Licenciatura,2472
+4,Clase Alta,17,80 or more years,1,Hombre,11,Licenciatura,51461
+4,Clase Alta,17,80 or more years,1,Hombre,13,Maestría,1747
+4,Clase Alta,17,80 or more years,1,Hombre,14,Doctorado,11733
+4,Clase Alta,17,80 or more years,2,Mujer,0,Ninguno,277
+4,Clase Alta,17,80 or more years,2,Mujer,2,Primaria,27808
+4,Clase Alta,17,80 or more years,2,Mujer,3,Secundaria,6246
+4,Clase Alta,17,80 or more years,2,Mujer,4,Preparatoria o Bachillerato General,3902
+4,Clase Alta,17,80 or more years,2,Mujer,8,Estudios Técnicos o Comerciales con Preparatoria Terminada,21619
+4,Clase Alta,17,80 or more years,2,Mujer,10,Normal de Licenciatura,6060
+4,Clase Alta,17,80 or more years,2,Mujer,11,Licenciatura,17320
+4,Clase Alta,17,80 or more years,2,Mujer,14,Doctorado,2299

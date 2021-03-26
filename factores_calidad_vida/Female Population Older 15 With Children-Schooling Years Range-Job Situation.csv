@@ -1,0 +1,81 @@
+Female Population Older 15 With Children ID,Female Population Older 15 With Children,Schooling Years Range ID,Schooling Years Range,Sex ID,Sex,Job Situation ID,Job Situation,Workforce
+0,No Aplica,1,0 a 3 Años de Escolaridad,1,Hombre,1,Posee un Trabajo o Negocio,1430343
+0,No Aplica,1,0 a 3 Años de Escolaridad,1,Hombre,2,No,5371335
+0,No Aplica,2,4 a 6 Años de Escolaridad,1,Hombre,1,Posee un Trabajo o Negocio,4615177
+0,No Aplica,2,4 a 6 Años de Escolaridad,1,Hombre,2,No,6386799
+0,No Aplica,3,7 a 9 Años de Escolaridad,1,Hombre,1,Posee un Trabajo o Negocio,7571867
+0,No Aplica,3,7 a 9 Años de Escolaridad,1,Hombre,2,No,11460818
+0,No Aplica,4,10 a 12 Años de Escolaridad,1,Hombre,1,Posee un Trabajo o Negocio,6761752
+0,No Aplica,4,10 a 12 Años de Escolaridad,1,Hombre,2,No,9274105
+0,No Aplica,5,13 a 15 Años de Escolaridad,1,Hombre,1,Posee un Trabajo o Negocio,1129159
+0,No Aplica,5,13 a 15 Años de Escolaridad,1,Hombre,2,No,3403370
+0,No Aplica,6,16 a 18 Años de Escolaridad,1,Hombre,1,Posee un Trabajo o Negocio,3268949
+0,No Aplica,6,16 a 18 Años de Escolaridad,1,Hombre,2,No,3499820
+0,No Aplica,7,Más de 18 Años de Escolaridad,1,Hombre,1,Posee un Trabajo o Negocio,184091
+0,No Aplica,7,Más de 18 Años de Escolaridad,1,Hombre,2,No,214363
+0,No Aplica,8,No Especificado,1,Hombre,1,Posee un Trabajo o Negocio,8623
+0,No Aplica,8,No Especificado,1,Hombre,2,No,40721
+1,Sin Hijos,1,0 a 3 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,42283
+1,Sin Hijos,1,0 a 3 Años de Escolaridad,2,Mujer,2,No,1618836
+1,Sin Hijos,2,4 a 6 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,262930
+1,Sin Hijos,2,4 a 6 Años de Escolaridad,2,Mujer,2,No,1297369
+1,Sin Hijos,3,7 a 9 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,905341
+1,Sin Hijos,3,7 a 9 Años de Escolaridad,2,Mujer,2,No,6691340
+1,Sin Hijos,4,10 a 12 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,1588460
+1,Sin Hijos,4,10 a 12 Años de Escolaridad,2,Mujer,2,No,9643560
+1,Sin Hijos,5,13 a 15 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,535230
+1,Sin Hijos,5,13 a 15 Años de Escolaridad,2,Mujer,2,No,3109050
+1,Sin Hijos,6,16 a 18 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,1497746
+1,Sin Hijos,6,16 a 18 Años de Escolaridad,2,Mujer,2,No,1903040
+1,Sin Hijos,7,Más de 18 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,29869
+1,Sin Hijos,7,Más de 18 Años de Escolaridad,2,Mujer,2,No,15174
+1,Sin Hijos,8,No Especificado,2,Mujer,1,Posee un Trabajo o Negocio,2870
+1,Sin Hijos,8,No Especificado,2,Mujer,2,No,3984
+2,De 1 a 2 Hijos,1,0 a 3 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,213512
+2,De 1 a 2 Hijos,1,0 a 3 Años de Escolaridad,2,Mujer,2,No,1256867
+2,De 1 a 2 Hijos,2,4 a 6 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,1748618
+2,De 1 a 2 Hijos,2,4 a 6 Años de Escolaridad,2,Mujer,2,No,4906407
+2,De 1 a 2 Hijos,3,7 a 9 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,2930575
+2,De 1 a 2 Hijos,3,7 a 9 Años de Escolaridad,2,Mujer,2,No,7458372
+2,De 1 a 2 Hijos,4,10 a 12 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,2864043
+2,De 1 a 2 Hijos,4,10 a 12 Años de Escolaridad,2,Mujer,2,No,7494211
+2,De 1 a 2 Hijos,5,13 a 15 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,415069
+2,De 1 a 2 Hijos,5,13 a 15 Años de Escolaridad,2,Mujer,2,No,1133476
+2,De 1 a 2 Hijos,6,16 a 18 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,1883716
+2,De 1 a 2 Hijos,6,16 a 18 Años de Escolaridad,2,Mujer,2,No,2422085
+2,De 1 a 2 Hijos,7,Más de 18 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,241457
+2,De 1 a 2 Hijos,7,Más de 18 Años de Escolaridad,2,Mujer,2,No,53512
+2,De 1 a 2 Hijos,8,No Especificado,2,Mujer,1,Posee un Trabajo o Negocio,43311
+2,De 1 a 2 Hijos,8,No Especificado,2,Mujer,2,No,19716
+3,De 3 a 5 Hijos,1,0 a 3 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,475911
+3,De 3 a 5 Hijos,1,0 a 3 Años de Escolaridad,2,Mujer,2,No,3366452
+3,De 3 a 5 Hijos,2,4 a 6 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,2109311
+3,De 3 a 5 Hijos,2,4 a 6 Años de Escolaridad,2,Mujer,2,No,9483589
+3,De 3 a 5 Hijos,3,7 a 9 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,3367550
+3,De 3 a 5 Hijos,3,7 a 9 Años de Escolaridad,2,Mujer,2,No,7925768
+3,De 3 a 5 Hijos,4,10 a 12 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,1120497
+3,De 3 a 5 Hijos,4,10 a 12 Años de Escolaridad,2,Mujer,2,No,3891193
+3,De 3 a 5 Hijos,5,13 a 15 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,194059
+3,De 3 a 5 Hijos,5,13 a 15 Años de Escolaridad,2,Mujer,2,No,524988
+3,De 3 a 5 Hijos,6,16 a 18 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,378000
+3,De 3 a 5 Hijos,6,16 a 18 Años de Escolaridad,2,Mujer,2,No,982519
+3,De 3 a 5 Hijos,7,Más de 18 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,8965
+3,De 3 a 5 Hijos,7,Más de 18 Años de Escolaridad,2,Mujer,2,No,32368
+3,De 3 a 5 Hijos,8,No Especificado,2,Mujer,1,Posee un Trabajo o Negocio,327
+3,De 3 a 5 Hijos,8,No Especificado,2,Mujer,2,No,20340
+4,De 6 Hijos y más,1,0 a 3 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,301555
+4,De 6 Hijos y más,1,0 a 3 Años de Escolaridad,2,Mujer,2,No,4971899
+4,De 6 Hijos y más,2,4 a 6 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,362679
+4,De 6 Hijos y más,2,4 a 6 Años de Escolaridad,2,Mujer,2,No,2640336
+4,De 6 Hijos y más,3,7 a 9 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,44531
+4,De 6 Hijos y más,3,7 a 9 Años de Escolaridad,2,Mujer,2,No,925072
+4,De 6 Hijos y más,4,10 a 12 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,36114
+4,De 6 Hijos y más,4,10 a 12 Años de Escolaridad,2,Mujer,2,No,186004
+4,De 6 Hijos y más,5,13 a 15 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,3745
+4,De 6 Hijos y más,5,13 a 15 Años de Escolaridad,2,Mujer,2,No,5652
+4,De 6 Hijos y más,6,16 a 18 Años de Escolaridad,2,Mujer,1,Posee un Trabajo o Negocio,837
+4,De 6 Hijos y más,6,16 a 18 Años de Escolaridad,2,Mujer,2,No,13293
+4,De 6 Hijos y más,8,No Especificado,2,Mujer,1,Posee un Trabajo o Negocio,19638
+4,De 6 Hijos y más,8,No Especificado,2,Mujer,2,No,57422
+5,No Especificado,6,16 a 18 Años de Escolaridad,2,Mujer,2,No,523
+5,No Especificado,8,No Especificado,2,Mujer,2,No,105

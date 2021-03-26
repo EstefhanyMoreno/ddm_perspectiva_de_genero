@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -10,11 +12,21 @@ import Info
 
 df_sac= pd.read_csv('../factores_calidad_vida/ss_edu_per.csv')
 df_ns= pd.read_csv('../factores_calidad_vida/Near Children Support-Near Doctor Support-Near Work Support-Near Money Support-Age Range-Sex.csv')
+df_f15= pd.read_csv('../factores_calidad_vida/Female Population Older 15 With Children-Schooling Years Range-Job Situation.csv')
+df_sec= pd.read_csv('../factores_calidad_vida/City Perception at Home-City Perception at Work-City Perception Streets-City Perception at Public Transport-Age Range-Sex.csv')
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+
+# colors = {
+#     'background': '#F9EBEA',
+#     'text': '#34495E',
+#     'actived_nav':'#FA8072',
+#     'disabled_nav':'#FADBD8',
+#     'footer': '#212F3D'
+# }
 
 colors = {
     'background': '#E0D9F5',
@@ -23,6 +35,7 @@ colors = {
     'disabled_nav':'#9282EC',
     'footer': '#BEE5D9'
 }
+
 Info.fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
 Info.fig1.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
 Info.fig10.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
@@ -43,13 +56,12 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
     ),
 
     dcc.Tabs(
-        style={'font-family': 'Arial', 'font-size': '150%'},
-        #, '-webkit-box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)','-moz-box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)','box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)', 'margin-bottom': '2rem'},
+        style={'font-family': 'Arial', 'font-size': '150%', '-webkit-box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)','-moz-box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)','box-shadow': '0px 5px 9px 0px rgba(250,128,114,1)', 'margin-bottom': '2rem'},
         children=[
 
             dcc.Tab(
                 label='Educación',
-                selected_style={'background-color': colors['actived_nav'],'color':colors['text'],'border':'none'},
+                selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
                 style={'background-color': colors['disabled_nav'],'border':'none'},
                 children=[
 
@@ -96,7 +108,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
 
                                 
 
-                        ]),
+                        ]), #Cierra Div
 
 
                         html.Div(
@@ -326,33 +338,164 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
                     value='Master Degree'),
                 dcc.Graph(
                     id='status_edu',
-                            figure={}
-                            )
+                            figure={})
                 ]),
-                html.Div(style={'margin-left': '2rem', 'margin-top':'5rem', 'width': '40%' },children=[
-                    html.Div(
+                html.H3(
+                            style={'textAlign': 'center'},
+                            children='Acceso a apoyos'),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'ncs_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nc_s',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'nds_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nd_s',
+                                    figure={}
+                                )
+
+                        ])
+                        ]),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'nws_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nw_s',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'nms_dd',
+                                options= [{'label': i, 'value': i} for i in df_ns['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='nm_s',
+                                    figure={}
+                                )
+
+                        ])
+                        ]), #Cierra div general 2 y 2
+                html.H3(
+                    style={'textAlign': 'center'},
+                            children='Estatus laboral de mujeres mayores a 15 años con hijos por años de estudio'
+                    ),
+                html.Div(
                     style={'flex': '0 0 calc( 50% - 1rem )'},
                     children=[
-                        html.Label('Edad'),
-                        dcc.Dropdown(
-                        id = 'ncs_edad',
-                        options= [{'label': i, 'value': i} for i in data_ns['Age Range'].unique()],
-                        value='35 to 39 years'),
-                        dcc.Graph(
-                            id='nc_support',
-                            figure={})]),
-                    html.Div(
-                    style={'flex': '0 0 calc( 50% - 1rem )'},
-                    children=[
-                        html.Label('Edad'),
-                        dcc.Dropdown(
-                        id = 'nds_edad',
-                        options= [{'label': i, 'value': i} for i in data_ns['Age Range'].unique()],
-                        value='35 to 39 years'),
-                        dcc.Graph(
-                            id='nd_support',
-                            figure={})])
-                    ]),
+                    html.Label('Años de estudio'),
+                    dcc.Dropdown(
+                    id = 'sy_dd',
+                    options= [{'label': i, 'value': i} for i in df_f15['Schooling Years Range'].unique()],
+                    value='0 a 3 Años de Escolaridad'),
+                    dcc.Graph(
+                        id='f15_g',
+                        figure={}
+                        )
+                        ]),
+
+                html.H3(
+                            style={'textAlign': 'center'},
+                            children='Percepción de Seguridad en la Ciudad'
+                    ),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'sh_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='sh_g',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'sw_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='sw_g',
+                                    figure={}
+                                )
+
+                        ])
+                        ]),
+                html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'ss_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='ss_g',
+                                    figure={}
+                                )
+                                ]),
+                                
+                                html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.Label('Rango de Edad'),
+                                dcc.Dropdown(
+                                id = 'st_dd',
+                                options= [{'label': i, 'value': i} for i in df_sec['Age Range'].unique()],
+                                value='45 to 49 years'),
+                                dcc.Graph(style={'height': '40rem'},
+                                    id='st_g',
+                                    figure={}
+                                )
+
+                        ])
+                        ]), #Cierra div general 2 y 2
+               
+                ]), #Cierra tab
+                
 
                 dcc.Tab(
                 label='Propuesta',
@@ -362,14 +505,13 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
 
                 ])
 
-        ]),
+       ])])
 
 
 
-    ])
 
-#------------------------------------------------------------------------------------
 #2
+#___________________________________________________________________________________________________
 @app.callback(
     Output('pob_total_atv_clas', 'figure'),
     Input('pob_total_atv_clas_dopdown','value'))
@@ -377,6 +519,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
 def clas_Estado(value):
     fig2 = Info.clas_Estado(value)
     fig2.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+
     return fig2
 
 
@@ -390,6 +533,7 @@ def estado_Salario(value):
     fig4.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
 
     return fig4
+
 #6
 @app.callback(
     Output('ocup_ambos_graf', 'figure'),
@@ -436,22 +580,94 @@ def grafica_rango_edad(age_range, academic_degree):
     return fig10
 
 @app.callback(
-    Output('nc_support', 'figure'),
-    Input('ncs_edad', 'value'))
+    Output('nc_s', 'figure'),
+    Input('ncs_dd', 'value'))
 
 def near_cs(age_range):
-    dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Female')]
-    fig11 = px.pie(dff, values='Population', names='Near Children Support', title=f"Acceso a apoyos infantiles para mujeres de entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Mujer')]
+    fig11 = px.pie(dff, values='Population', names='Near Children Support', title=f"Acceso a apoyos infántiles para mujeres de entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig11.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
     return fig11
 
 @app.callback(
-    Output('nd_support', 'figure'),
-    Input('nds_edad', 'value'))
+    Output('nd_s', 'figure'),
+    Input('nds_dd', 'value'))
 
 def near_ds(age_range):
-    dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Female')]
+    dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Mujer')]
     fig12 = px.pie(dff, values='Population', names='Near Doctor Support', title=f"Acceso a apoyos médicos para mujeres de entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig12.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
     return fig12
-#_________________________________________________________________________________________
+
+@app.callback(
+    Output('nw_s', 'figure'),
+    Input('nws_dd', 'value'))
+
+def near_ws(age_range):
+    dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Mujer')]
+    fig = px.pie(dff, values='Population', names='Near Work Support', title=f"Acceso a apoyos laborales para mujeres de entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig
+
+@app.callback(
+    Output('nm_s', 'figure'),
+    Input('nms_dd', 'value'))
+
+def near_ms(age_range):
+    dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Mujer')]
+    fig = px.pie(dff, values='Population', names='Near Money Support', title=f"Acceso a apoyos monetarios para mujeres de entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig
+
+@app.callback(
+    Output('f15_g', 'figure'),
+    Input('sy_dd', 'value'))
+
+def child_school(s_years):
+    dff= df_f15[df_f15['Schooling Years Range']==s_years]
+    fig = px.bar(dff, y='Workforce', x='Female Population Older 15 With Children', color='Job Situation', barmode='group')
+    fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig
+
+@app.callback(
+    Output('sh_g', 'figure'),
+    Input('sh_dd', 'value'))
+
+def seg_home(age_range):
+    dff=df_sec[(df_sec['Age Range']== age_range)&(df_sec['Sex']=='Mujer')]
+    fig = px.pie(dff, values='Population', names='City Perception at Home', title=f"Desde de casa para mujeres entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig
+
+@app.callback(
+    Output('sw_g', 'figure'),
+    Input('sw_dd', 'value'))
+
+def seg_work(age_range):
+    dff=df_sec[(df_sec['Age Range']== age_range)&(df_sec['Sex']=='Mujer')]
+    fig = px.pie(dff, values='Population', names='City Perception at Work', title=f"Desde el trabajo para mujeres entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig
+
+@app.callback(
+    Output('ss_g', 'figure'),
+    Input('ss_dd', 'value'))
+
+def seg_streets(age_range):
+    dff=df_sec[(df_sec['Age Range']== age_range)&(df_sec['Sex']=='Mujer')]
+    fig = px.pie(dff, values='Population', names='City Perception Streets', title=f"En las calles para mujeres entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig
+
+@app.callback(
+    Output('st_g', 'figure'),
+    Input('st_dd', 'value'))
+
+def seg_trans(age_range):
+    dff=df_sec[(df_sec['Age Range']== age_range)&(df_sec['Sex']=='Mujer')]
+    fig = px.pie(dff, values='Population', names='City Perception at Public Transport', title=f"Desde el transporte público para mujeres entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig
+#________________________________________________________________________________________________________
 if __name__ == '__main__':
     app.run_server(debug=True)

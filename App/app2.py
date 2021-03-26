@@ -294,80 +294,34 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
                                 ])
                                
                     ]),
-
-
-
-
-                dcc.Tab(
-                label='Calidad de Vida',
-                selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
-                style={'background-color': colors['disabled_nav'],'border':'none'},
-                children=[
-                html.H3(
-                    style={'textAlign': 'center'},
-                            children='Estatus socioeconómico por grado acádemico'
-                    ),
-                html.Div(
-                    style={'flex': '0 0 calc( 50% - 1rem )'},
-                    children=[
-                    html.Label('Rango de edad'),
-                    dcc.Dropdown(
-                    id = 'range_age_dd',
-                    options= [{'label': i, 'value': i} for i in df_sac['Age Range'].unique()],
-                    value='30 to 34 years')
-                        ]),
-                html.Div(
-                style={'flex': '0 0 calc( 50% - 1rem )'},
-                children=[
-                html.Label('Grado Acádemico'),
-                dcc.Dropdown(
-                    id = 'academic_dd',
-                    options= [{'label': i, 'value': i} for i in df_sac['Academic Degree'].unique()],
-                    value='Master Degree'),
-                dcc.Graph(
-                    id='status_edu',
-                            figure={}
-                            )
-                ]),
-                html.Div(style={'margin-left': '2rem', 'margin-top':'5rem', 'width': '40%' },children=[
-                    html.Div(
-                    style={'flex': '0 0 calc( 50% - 1rem )'},
-                    children=[
-                        html.Label('Edad'),
-                        dcc.Dropdown(
-                        id = 'ncs_edad',
-                        options= [{'label': i, 'value': i} for i in data_ns['Age Range'].unique()],
-                        value='35 to 39 years'),
-                        dcc.Graph(
-                            id='nc_support',
-                            figure={})]),
-                    html.Div(
-                    style={'flex': '0 0 calc( 50% - 1rem )'},
-                    children=[
-                        html.Label('Edad'),
-                        dcc.Dropdown(
-                        id = 'nds_edad',
-                        options= [{'label': i, 'value': i} for i in data_ns['Age Range'].unique()],
-                        value='35 to 39 years'),
-                        dcc.Graph(
-                            id='nd_support',
-                            figure={})])
+        dcc.Tab(
+            label='Calidad de Vida',
+            selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
+            style={'background-color': colors['disabled_nav'],'border':'none'},
+            children=[
+            # html.H3(
+            #     style={'textAlign': 'center'},
+            #     children='Estatus socioeconómico por grado acádemico'),
+            # html.Div(
+            #     style={'flex': '0 0 calc( 50% - 1rem )'},
+            #     children=[
+            #     html.Label('Rango de edad'),
+            #     dcc.Dropdown(
+            #     id = 'range_age_dd',
+            #     options= [{'label': i, 'value': i} for i in df_sac['Age Range'].unique()],
+            #     value='30 to 34 years')
+            #             ]),
+            #     dcc.Graph(
+            #         id='status_edu',
+            #         figure={})
                     ]),
 
-                dcc.Tab(
-                label='Propuesta',
-                selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
-                style={'background-color': colors['disabled_nav'],'border':'none'},
-                children=[
-
-                ])
-
-        ]),
-
-
-
-    ])
-
+    dcc.Tab(
+        label='Propuesta',
+        selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
+        style={'background-color': colors['disabled_nav'],'border':'none'},
+        children=[
+         ])
 #------------------------------------------------------------------------------------
 #2
 @app.callback(
@@ -379,7 +333,6 @@ def clas_Estado(value):
     fig2.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
     return fig2
 
-
 #4
 @app.callback(
     Output('sal_pob_total_atv_clas', 'figure'),
@@ -388,7 +341,6 @@ def clas_Estado(value):
 def estado_Salario(value):
     fig4 = Info.estado_Salario(value)
     fig4.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
-
     return fig4
 #6
 @app.callback(
@@ -442,6 +394,7 @@ def grafica_rango_edad(age_range, academic_degree):
 def near_cs(age_range):
     dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Female')]
     fig11 = px.pie(dff, values='Population', names='Near Children Support', title=f"Acceso a apoyos infantiles para mujeres de entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    #fig11.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
     return fig11
 
 @app.callback(
@@ -451,6 +404,7 @@ def near_cs(age_range):
 def near_ds(age_range):
     dff=df_ns[(df_ns['Age Range']== age_range)&(df_ns['Sex']=='Female')]
     fig12 = px.pie(dff, values='Population', names='Near Doctor Support', title=f"Acceso a apoyos médicos para mujeres de entre {age_range.split()[0]} y {age_range.split()[-2]} años")
+    #fig12.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
     return fig12
 #_________________________________________________________________________________________
 if __name__ == '__main__':

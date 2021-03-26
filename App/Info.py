@@ -7,7 +7,7 @@ import json
 import requests
 import numpy as np
 
-TA = pd.read_csv(r'C:\Users\Milexis\Desktop\Nueva carpeta\Evolucion-de-la-poblacion-economicamente-activa-en-Mexico.csv')
+TA = pd.read_csv('Evolucion-de-la-poblacion-economicamente-activa-en-Mexico.csv')
 TA.drop(['Nation ID', 'Quarter', 'Nation', 'Time', 'Sex ID'], axis =1, inplace=True)
 TA.columns = ['Año', 'Sexo', 'Workforce', 'Workforce Total', 'porcentaje']
 
@@ -17,10 +17,10 @@ TA['porcentaje'] = TA['porcentaje'].apply(percent)
 fig = px.line(TA, x="Año", y="porcentaje", color='Sexo', title = 'Población Total activa en México')
 
 #Importo las coordenadas de los estados
-cord = pd.read_csv(r'C:\Users\Milexis\Desktop\Nueva carpeta\new.txt')
-cord.drop('Estado', axis = 1, inplace = True)
+#cord = pd.read_csv(r'C:\Users\Milexis\Desktop\Nueva carpeta\new.txt')
+#cord.drop('Estado', axis = 1, inplace = True)
 
-Data_Worker_Act = pd.read_csv(r'C:\Users\Milexis\Desktop\Nueva carpeta\Data_Worker_Act.csv')
+Data_Worker_Act = pd.read_csv('Data_Worker_Act.csv')
 
 #1
 df_salario_total = pd.pivot_table(Data_Worker_Act, 
