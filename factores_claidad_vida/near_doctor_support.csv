@@ -1,0 +1,1072 @@
+,Socioeconomic Status ID,Socioeconomic Status,Year,Sex ID,Sex,Age Range ID,Age Range,Near Doctor Support ID,Near Doctor Support,Population
+0,1,Lower Class,2016,1,Male,4,15 to 19 years,1,Imposible get/obtain,40
+1,1,Lower Class,2016,1,Male,4,15 to 19 years,2,Hard to get/obtain,4991
+2,1,Lower Class,2016,1,Male,4,15 to 19 years,3,Easy to get/obtain,34882
+3,1,Lower Class,2016,1,Male,4,15 to 19 years,4,Very easy to get/obtain,460
+4,1,Lower Class,2016,1,Male,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),685
+5,1,Lower Class,2016,1,Male,5,20 to 24 years,1,Imposible get/obtain,2841
+6,1,Lower Class,2016,1,Male,5,20 to 24 years,2,Hard to get/obtain,33731
+7,1,Lower Class,2016,1,Male,5,20 to 24 years,3,Easy to get/obtain,124222
+8,1,Lower Class,2016,1,Male,5,20 to 24 years,4,Very easy to get/obtain,6046
+9,1,Lower Class,2016,1,Male,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),165
+10,1,Lower Class,2016,1,Male,6,25 to 29 years,1,Imposible get/obtain,1233
+11,1,Lower Class,2016,1,Male,6,25 to 29 years,2,Hard to get/obtain,45752
+12,1,Lower Class,2016,1,Male,6,25 to 29 years,3,Easy to get/obtain,135624
+13,1,Lower Class,2016,1,Male,6,25 to 29 years,4,Very easy to get/obtain,6411
+14,1,Lower Class,2016,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),1951
+15,1,Lower Class,2016,1,Male,7,30 to 34 years,1,Imposible get/obtain,3873
+16,1,Lower Class,2016,1,Male,7,30 to 34 years,2,Hard to get/obtain,45990
+17,1,Lower Class,2016,1,Male,7,30 to 34 years,3,Easy to get/obtain,145844
+18,1,Lower Class,2016,1,Male,7,30 to 34 years,4,Very easy to get/obtain,5593
+19,1,Lower Class,2016,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),2366
+20,1,Lower Class,2016,1,Male,8,35 to 39 years,1,Imposible get/obtain,5613
+21,1,Lower Class,2016,1,Male,8,35 to 39 years,2,Hard to get/obtain,52336
+22,1,Lower Class,2016,1,Male,8,35 to 39 years,3,Easy to get/obtain,139131
+23,1,Lower Class,2016,1,Male,8,35 to 39 years,4,Very easy to get/obtain,5077
+24,1,Lower Class,2016,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),1805
+25,1,Lower Class,2016,1,Male,9,40 to 44 years,1,Imposible get/obtain,2135
+26,1,Lower Class,2016,1,Male,9,40 to 44 years,2,Hard to get/obtain,51688
+27,1,Lower Class,2016,1,Male,9,40 to 44 years,3,Easy to get/obtain,131473
+28,1,Lower Class,2016,1,Male,9,40 to 44 years,4,Very easy to get/obtain,3518
+29,1,Lower Class,2016,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),3358
+30,1,Lower Class,2016,1,Male,10,45 to 49 years,1,Imposible get/obtain,2715
+31,1,Lower Class,2016,1,Male,10,45 to 49 years,2,Hard to get/obtain,30078
+32,1,Lower Class,2016,1,Male,10,45 to 49 years,3,Easy to get/obtain,105184
+33,1,Lower Class,2016,1,Male,10,45 to 49 years,4,Very easy to get/obtain,3395
+34,1,Lower Class,2016,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),3860
+35,1,Lower Class,2016,1,Male,11,50 to 54 years,1,Imposible get/obtain,1208
+36,1,Lower Class,2016,1,Male,11,50 to 54 years,2,Hard to get/obtain,28841
+37,1,Lower Class,2016,1,Male,11,50 to 54 years,3,Easy to get/obtain,86198
+38,1,Lower Class,2016,1,Male,11,50 to 54 years,4,Very easy to get/obtain,1140
+39,1,Lower Class,2016,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),379
+40,1,Lower Class,2016,1,Male,12,55 to 59 years,1,Imposible get/obtain,1333
+41,1,Lower Class,2016,1,Male,12,55 to 59 years,2,Hard to get/obtain,20617
+42,1,Lower Class,2016,1,Male,12,55 to 59 years,3,Easy to get/obtain,63213
+43,1,Lower Class,2016,1,Male,12,55 to 59 years,4,Very easy to get/obtain,1566
+44,1,Lower Class,2016,1,Male,13,60 to 64 years,1,Imposible get/obtain,1602
+45,1,Lower Class,2016,1,Male,13,60 to 64 years,2,Hard to get/obtain,17606
+46,1,Lower Class,2016,1,Male,13,60 to 64 years,3,Easy to get/obtain,50949
+47,1,Lower Class,2016,1,Male,13,60 to 64 years,4,Very easy to get/obtain,782
+48,1,Lower Class,2016,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),301
+49,1,Lower Class,2016,1,Male,14,65 to 69 years,1,Imposible get/obtain,255
+50,1,Lower Class,2016,1,Male,14,65 to 69 years,2,Hard to get/obtain,16333
+51,1,Lower Class,2016,1,Male,14,65 to 69 years,3,Easy to get/obtain,41927
+52,1,Lower Class,2016,1,Male,14,65 to 69 years,4,Very easy to get/obtain,1115
+53,1,Lower Class,2016,1,Male,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),791
+54,1,Lower Class,2016,1,Male,15,70 to 74 years,1,Imposible get/obtain,1061
+55,1,Lower Class,2016,1,Male,15,70 to 74 years,2,Hard to get/obtain,9096
+56,1,Lower Class,2016,1,Male,15,70 to 74 years,3,Easy to get/obtain,28523
+57,1,Lower Class,2016,1,Male,15,70 to 74 years,4,Very easy to get/obtain,1229
+58,1,Lower Class,2016,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),120
+59,1,Lower Class,2016,1,Male,16,75 to 79 years,1,Imposible get/obtain,225
+60,1,Lower Class,2016,1,Male,16,75 to 79 years,2,Hard to get/obtain,6206
+61,1,Lower Class,2016,1,Male,16,75 to 79 years,3,Easy to get/obtain,16216
+62,1,Lower Class,2016,1,Male,16,75 to 79 years,4,Very easy to get/obtain,44
+63,1,Lower Class,2016,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),268
+64,1,Lower Class,2016,1,Male,17,80 or more years,1,Imposible get/obtain,583
+65,1,Lower Class,2016,1,Male,17,80 or more years,2,Hard to get/obtain,5172
+66,1,Lower Class,2016,1,Male,17,80 or more years,3,Easy to get/obtain,13879
+67,1,Lower Class,2016,1,Male,17,80 or more years,4,Very easy to get/obtain,693
+68,1,Lower Class,2016,2,Female,4,15 to 19 years,1,Imposible get/obtain,678
+69,1,Lower Class,2016,2,Female,4,15 to 19 years,2,Hard to get/obtain,3806
+70,1,Lower Class,2016,2,Female,4,15 to 19 years,3,Easy to get/obtain,14995
+71,1,Lower Class,2016,2,Female,4,15 to 19 years,4,Very easy to get/obtain,1194
+72,1,Lower Class,2016,2,Female,5,20 to 24 years,1,Imposible get/obtain,1645
+73,1,Lower Class,2016,2,Female,5,20 to 24 years,2,Hard to get/obtain,12014
+74,1,Lower Class,2016,2,Female,5,20 to 24 years,3,Easy to get/obtain,70856
+75,1,Lower Class,2016,2,Female,5,20 to 24 years,4,Very easy to get/obtain,2084
+76,1,Lower Class,2016,2,Female,6,25 to 29 years,1,Imposible get/obtain,2394
+77,1,Lower Class,2016,2,Female,6,25 to 29 years,2,Hard to get/obtain,28112
+78,1,Lower Class,2016,2,Female,6,25 to 29 years,3,Easy to get/obtain,101504
+79,1,Lower Class,2016,2,Female,6,25 to 29 years,4,Very easy to get/obtain,4120
+80,1,Lower Class,2016,2,Female,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),5156
+81,1,Lower Class,2016,2,Female,7,30 to 34 years,1,Imposible get/obtain,996
+82,1,Lower Class,2016,2,Female,7,30 to 34 years,2,Hard to get/obtain,32367
+83,1,Lower Class,2016,2,Female,7,30 to 34 years,3,Easy to get/obtain,90698
+84,1,Lower Class,2016,2,Female,7,30 to 34 years,4,Very easy to get/obtain,3750
+85,1,Lower Class,2016,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),1994
+86,1,Lower Class,2016,2,Female,8,35 to 39 years,1,Imposible get/obtain,3803
+87,1,Lower Class,2016,2,Female,8,35 to 39 years,2,Hard to get/obtain,33186
+88,1,Lower Class,2016,2,Female,8,35 to 39 years,3,Easy to get/obtain,73704
+89,1,Lower Class,2016,2,Female,8,35 to 39 years,4,Very easy to get/obtain,2837
+90,1,Lower Class,2016,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),916
+91,1,Lower Class,2016,2,Female,9,40 to 44 years,1,Imposible get/obtain,2670
+92,1,Lower Class,2016,2,Female,9,40 to 44 years,2,Hard to get/obtain,20136
+93,1,Lower Class,2016,2,Female,9,40 to 44 years,3,Easy to get/obtain,49326
+94,1,Lower Class,2016,2,Female,9,40 to 44 years,4,Very easy to get/obtain,1225
+95,1,Lower Class,2016,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),843
+96,1,Lower Class,2016,2,Female,10,45 to 49 years,1,Imposible get/obtain,1426
+97,1,Lower Class,2016,2,Female,10,45 to 49 years,2,Hard to get/obtain,23509
+98,1,Lower Class,2016,2,Female,10,45 to 49 years,3,Easy to get/obtain,42220
+99,1,Lower Class,2016,2,Female,10,45 to 49 years,4,Very easy to get/obtain,504
+100,1,Lower Class,2016,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),1014
+101,1,Lower Class,2016,2,Female,11,50 to 54 years,1,Imposible get/obtain,391
+102,1,Lower Class,2016,2,Female,11,50 to 54 years,2,Hard to get/obtain,14509
+103,1,Lower Class,2016,2,Female,11,50 to 54 years,3,Easy to get/obtain,33428
+104,1,Lower Class,2016,2,Female,11,50 to 54 years,4,Very easy to get/obtain,461
+105,1,Lower Class,2016,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),1474
+106,1,Lower Class,2016,2,Female,12,55 to 59 years,1,Imposible get/obtain,944
+107,1,Lower Class,2016,2,Female,12,55 to 59 years,2,Hard to get/obtain,7127
+108,1,Lower Class,2016,2,Female,12,55 to 59 years,3,Easy to get/obtain,19034
+109,1,Lower Class,2016,2,Female,12,55 to 59 years,4,Very easy to get/obtain,1834
+110,1,Lower Class,2016,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),369
+111,1,Lower Class,2016,2,Female,13,60 to 64 years,1,Imposible get/obtain,438
+112,1,Lower Class,2016,2,Female,13,60 to 64 years,2,Hard to get/obtain,4011
+113,1,Lower Class,2016,2,Female,13,60 to 64 years,3,Easy to get/obtain,9245
+114,1,Lower Class,2016,2,Female,13,60 to 64 years,4,Very easy to get/obtain,565
+115,1,Lower Class,2016,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),292
+116,1,Lower Class,2016,2,Female,14,65 to 69 years,2,Hard to get/obtain,2847
+117,1,Lower Class,2016,2,Female,14,65 to 69 years,3,Easy to get/obtain,5647
+118,1,Lower Class,2016,2,Female,14,65 to 69 years,4,Very easy to get/obtain,405
+119,1,Lower Class,2016,2,Female,15,70 to 74 years,2,Hard to get/obtain,684
+120,1,Lower Class,2016,2,Female,15,70 to 74 years,3,Easy to get/obtain,4606
+121,1,Lower Class,2016,2,Female,16,75 to 79 years,2,Hard to get/obtain,435
+122,1,Lower Class,2016,2,Female,16,75 to 79 years,3,Easy to get/obtain,2444
+123,1,Lower Class,2016,2,Female,16,75 to 79 years,4,Very easy to get/obtain,95
+124,1,Lower Class,2016,2,Female,17,80 or more years,2,Hard to get/obtain,119
+125,1,Lower Class,2016,2,Female,17,80 or more years,3,Easy to get/obtain,1113
+126,1,Lower Class,2016,2,Female,17,80 or more years,4,Very easy to get/obtain,29
+127,1,Lower Class,2018,1,Male,4,15 to 19 years,1,Imposible get/obtain,127
+128,1,Lower Class,2018,1,Male,4,15 to 19 years,2,Hard to get/obtain,8100
+129,1,Lower Class,2018,1,Male,4,15 to 19 years,3,Easy to get/obtain,36195
+130,1,Lower Class,2018,1,Male,4,15 to 19 years,4,Very easy to get/obtain,1986
+131,1,Lower Class,2018,1,Male,5,20 to 24 years,1,Imposible get/obtain,2946
+132,1,Lower Class,2018,1,Male,5,20 to 24 years,2,Hard to get/obtain,43228
+133,1,Lower Class,2018,1,Male,5,20 to 24 years,3,Easy to get/obtain,145951
+134,1,Lower Class,2018,1,Male,5,20 to 24 years,4,Very easy to get/obtain,7698
+135,1,Lower Class,2018,1,Male,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),1502
+136,1,Lower Class,2018,1,Male,6,25 to 29 years,1,Imposible get/obtain,3767
+137,1,Lower Class,2018,1,Male,6,25 to 29 years,2,Hard to get/obtain,34044
+138,1,Lower Class,2018,1,Male,6,25 to 29 years,3,Easy to get/obtain,166878
+139,1,Lower Class,2018,1,Male,6,25 to 29 years,4,Very easy to get/obtain,8699
+140,1,Lower Class,2018,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),1011
+141,1,Lower Class,2018,1,Male,7,30 to 34 years,1,Imposible get/obtain,3147
+142,1,Lower Class,2018,1,Male,7,30 to 34 years,2,Hard to get/obtain,58778
+143,1,Lower Class,2018,1,Male,7,30 to 34 years,3,Easy to get/obtain,159243
+144,1,Lower Class,2018,1,Male,7,30 to 34 years,4,Very easy to get/obtain,5156
+145,1,Lower Class,2018,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),3082
+146,1,Lower Class,2018,1,Male,8,35 to 39 years,1,Imposible get/obtain,2368
+147,1,Lower Class,2018,1,Male,8,35 to 39 years,2,Hard to get/obtain,52416
+148,1,Lower Class,2018,1,Male,8,35 to 39 years,3,Easy to get/obtain,158113
+149,1,Lower Class,2018,1,Male,8,35 to 39 years,4,Very easy to get/obtain,3497
+150,1,Lower Class,2018,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),5028
+151,1,Lower Class,2018,1,Male,9,40 to 44 years,1,Imposible get/obtain,1855
+152,1,Lower Class,2018,1,Male,9,40 to 44 years,2,Hard to get/obtain,42145
+153,1,Lower Class,2018,1,Male,9,40 to 44 years,3,Easy to get/obtain,156156
+154,1,Lower Class,2018,1,Male,9,40 to 44 years,4,Very easy to get/obtain,4172
+155,1,Lower Class,2018,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),3974
+156,1,Lower Class,2018,1,Male,10,45 to 49 years,1,Imposible get/obtain,2472
+157,1,Lower Class,2018,1,Male,10,45 to 49 years,2,Hard to get/obtain,45957
+158,1,Lower Class,2018,1,Male,10,45 to 49 years,3,Easy to get/obtain,123174
+159,1,Lower Class,2018,1,Male,10,45 to 49 years,4,Very easy to get/obtain,2637
+160,1,Lower Class,2018,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),2456
+161,1,Lower Class,2018,1,Male,11,50 to 54 years,1,Imposible get/obtain,3828
+162,1,Lower Class,2018,1,Male,11,50 to 54 years,2,Hard to get/obtain,26814
+163,1,Lower Class,2018,1,Male,11,50 to 54 years,3,Easy to get/obtain,101979
+164,1,Lower Class,2018,1,Male,11,50 to 54 years,4,Very easy to get/obtain,6072
+165,1,Lower Class,2018,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),1824
+166,1,Lower Class,2018,1,Male,12,55 to 59 years,1,Imposible get/obtain,5660
+167,1,Lower Class,2018,1,Male,12,55 to 59 years,2,Hard to get/obtain,33505
+168,1,Lower Class,2018,1,Male,12,55 to 59 years,3,Easy to get/obtain,90734
+169,1,Lower Class,2018,1,Male,12,55 to 59 years,4,Very easy to get/obtain,1209
+170,1,Lower Class,2018,1,Male,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),4061
+171,1,Lower Class,2018,1,Male,13,60 to 64 years,1,Imposible get/obtain,2224
+172,1,Lower Class,2018,1,Male,13,60 to 64 years,2,Hard to get/obtain,20019
+173,1,Lower Class,2018,1,Male,13,60 to 64 years,3,Easy to get/obtain,72841
+174,1,Lower Class,2018,1,Male,13,60 to 64 years,4,Very easy to get/obtain,1782
+175,1,Lower Class,2018,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),1402
+176,1,Lower Class,2018,1,Male,14,65 to 69 years,1,Imposible get/obtain,2051
+177,1,Lower Class,2018,1,Male,14,65 to 69 years,2,Hard to get/obtain,18185
+178,1,Lower Class,2018,1,Male,14,65 to 69 years,3,Easy to get/obtain,51749
+179,1,Lower Class,2018,1,Male,14,65 to 69 years,4,Very easy to get/obtain,1005
+180,1,Lower Class,2018,1,Male,15,70 to 74 years,1,Imposible get/obtain,847
+181,1,Lower Class,2018,1,Male,15,70 to 74 years,2,Hard to get/obtain,16031
+182,1,Lower Class,2018,1,Male,15,70 to 74 years,3,Easy to get/obtain,27089
+183,1,Lower Class,2018,1,Male,15,70 to 74 years,4,Very easy to get/obtain,2112
+184,1,Lower Class,2018,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),129
+185,1,Lower Class,2018,1,Male,16,75 to 79 years,1,Imposible get/obtain,1363
+186,1,Lower Class,2018,1,Male,16,75 to 79 years,2,Hard to get/obtain,6903
+187,1,Lower Class,2018,1,Male,16,75 to 79 years,3,Easy to get/obtain,21614
+188,1,Lower Class,2018,1,Male,16,75 to 79 years,4,Very easy to get/obtain,1149
+189,1,Lower Class,2018,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),109
+190,1,Lower Class,2018,1,Male,17,80 or more years,1,Imposible get/obtain,738
+191,1,Lower Class,2018,1,Male,17,80 or more years,2,Hard to get/obtain,7000
+192,1,Lower Class,2018,1,Male,17,80 or more years,3,Easy to get/obtain,22236
+193,1,Lower Class,2018,1,Male,17,80 or more years,4,Very easy to get/obtain,529
+194,1,Lower Class,2018,1,Male,17,80 or more years,5,No hard or easy get/obtain (spontaneous),210
+195,1,Lower Class,2018,2,Female,4,15 to 19 years,1,Imposible get/obtain,180
+196,1,Lower Class,2018,2,Female,4,15 to 19 years,2,Hard to get/obtain,3481
+197,1,Lower Class,2018,2,Female,4,15 to 19 years,3,Easy to get/obtain,23930
+198,1,Lower Class,2018,2,Female,4,15 to 19 years,4,Very easy to get/obtain,1435
+199,1,Lower Class,2018,2,Female,5,20 to 24 years,1,Imposible get/obtain,2472
+200,1,Lower Class,2018,2,Female,5,20 to 24 years,2,Hard to get/obtain,21812
+201,1,Lower Class,2018,2,Female,5,20 to 24 years,3,Easy to get/obtain,89437
+202,1,Lower Class,2018,2,Female,5,20 to 24 years,4,Very easy to get/obtain,2713
+203,1,Lower Class,2018,2,Female,6,25 to 29 years,1,Imposible get/obtain,1122
+204,1,Lower Class,2018,2,Female,6,25 to 29 years,2,Hard to get/obtain,32709
+205,1,Lower Class,2018,2,Female,6,25 to 29 years,3,Easy to get/obtain,110193
+206,1,Lower Class,2018,2,Female,6,25 to 29 years,4,Very easy to get/obtain,3714
+207,1,Lower Class,2018,2,Female,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),5894
+208,1,Lower Class,2018,2,Female,7,30 to 34 years,1,Imposible get/obtain,2367
+209,1,Lower Class,2018,2,Female,7,30 to 34 years,2,Hard to get/obtain,32774
+210,1,Lower Class,2018,2,Female,7,30 to 34 years,3,Easy to get/obtain,90198
+211,1,Lower Class,2018,2,Female,7,30 to 34 years,4,Very easy to get/obtain,3429
+212,1,Lower Class,2018,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),2476
+213,1,Lower Class,2018,2,Female,8,35 to 39 years,1,Imposible get/obtain,1326
+214,1,Lower Class,2018,2,Female,8,35 to 39 years,2,Hard to get/obtain,39556
+215,1,Lower Class,2018,2,Female,8,35 to 39 years,3,Easy to get/obtain,79767
+216,1,Lower Class,2018,2,Female,8,35 to 39 years,4,Very easy to get/obtain,3744
+217,1,Lower Class,2018,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),3843
+218,1,Lower Class,2018,2,Female,9,40 to 44 years,1,Imposible get/obtain,4089
+219,1,Lower Class,2018,2,Female,9,40 to 44 years,2,Hard to get/obtain,22075
+220,1,Lower Class,2018,2,Female,9,40 to 44 years,3,Easy to get/obtain,69007
+221,1,Lower Class,2018,2,Female,9,40 to 44 years,4,Very easy to get/obtain,1631
+222,1,Lower Class,2018,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),1282
+223,1,Lower Class,2018,2,Female,10,45 to 49 years,1,Imposible get/obtain,371
+224,1,Lower Class,2018,2,Female,10,45 to 49 years,2,Hard to get/obtain,12547
+225,1,Lower Class,2018,2,Female,10,45 to 49 years,3,Easy to get/obtain,41584
+226,1,Lower Class,2018,2,Female,10,45 to 49 years,4,Very easy to get/obtain,1005
+227,1,Lower Class,2018,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),3292
+228,1,Lower Class,2018,2,Female,11,50 to 54 years,1,Imposible get/obtain,469
+229,1,Lower Class,2018,2,Female,11,50 to 54 years,2,Hard to get/obtain,15485
+230,1,Lower Class,2018,2,Female,11,50 to 54 years,3,Easy to get/obtain,31070
+231,1,Lower Class,2018,2,Female,11,50 to 54 years,4,Very easy to get/obtain,1443
+232,1,Lower Class,2018,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),393
+233,1,Lower Class,2018,2,Female,12,55 to 59 years,1,Imposible get/obtain,60
+234,1,Lower Class,2018,2,Female,12,55 to 59 years,2,Hard to get/obtain,8707
+235,1,Lower Class,2018,2,Female,12,55 to 59 years,3,Easy to get/obtain,19708
+236,1,Lower Class,2018,2,Female,12,55 to 59 years,4,Very easy to get/obtain,2567
+237,1,Lower Class,2018,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),1000
+238,1,Lower Class,2018,2,Female,13,60 to 64 years,1,Imposible get/obtain,1078
+239,1,Lower Class,2018,2,Female,13,60 to 64 years,2,Hard to get/obtain,3770
+240,1,Lower Class,2018,2,Female,13,60 to 64 years,3,Easy to get/obtain,15760
+241,1,Lower Class,2018,2,Female,13,60 to 64 years,4,Very easy to get/obtain,525
+242,1,Lower Class,2018,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),37
+243,1,Lower Class,2018,2,Female,14,65 to 69 years,1,Imposible get/obtain,632
+244,1,Lower Class,2018,2,Female,14,65 to 69 years,2,Hard to get/obtain,1554
+245,1,Lower Class,2018,2,Female,14,65 to 69 years,3,Easy to get/obtain,10868
+246,1,Lower Class,2018,2,Female,14,65 to 69 years,4,Very easy to get/obtain,343
+247,1,Lower Class,2018,2,Female,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),1037
+248,1,Lower Class,2018,2,Female,15,70 to 74 years,1,Imposible get/obtain,895
+249,1,Lower Class,2018,2,Female,15,70 to 74 years,2,Hard to get/obtain,506
+250,1,Lower Class,2018,2,Female,15,70 to 74 years,3,Easy to get/obtain,4597
+251,1,Lower Class,2018,2,Female,15,70 to 74 years,4,Very easy to get/obtain,97
+252,1,Lower Class,2018,2,Female,16,75 to 79 years,1,Imposible get/obtain,215
+253,1,Lower Class,2018,2,Female,16,75 to 79 years,2,Hard to get/obtain,513
+254,1,Lower Class,2018,2,Female,16,75 to 79 years,3,Easy to get/obtain,1738
+255,1,Lower Class,2018,2,Female,17,80 or more years,1,Imposible get/obtain,260
+256,1,Lower Class,2018,2,Female,17,80 or more years,3,Easy to get/obtain,1387
+257,1,Lower Class,2018,2,Female,17,80 or more years,4,Very easy to get/obtain,310
+258,2,Lower Middle Class,2016,1,Male,4,15 to 19 years,1,Imposible get/obtain,2757
+259,2,Lower Middle Class,2016,1,Male,4,15 to 19 years,2,Hard to get/obtain,33685
+260,2,Lower Middle Class,2016,1,Male,4,15 to 19 years,3,Easy to get/obtain,178700
+261,2,Lower Middle Class,2016,1,Male,4,15 to 19 years,4,Very easy to get/obtain,15397
+262,2,Lower Middle Class,2016,1,Male,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),2058
+263,2,Lower Middle Class,2016,1,Male,5,20 to 24 years,1,Imposible get/obtain,11809
+264,2,Lower Middle Class,2016,1,Male,5,20 to 24 years,2,Hard to get/obtain,162195
+265,2,Lower Middle Class,2016,1,Male,5,20 to 24 years,3,Easy to get/obtain,723428
+266,2,Lower Middle Class,2016,1,Male,5,20 to 24 years,4,Very easy to get/obtain,60592
+267,2,Lower Middle Class,2016,1,Male,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),3767
+268,2,Lower Middle Class,2016,1,Male,6,25 to 29 years,1,Imposible get/obtain,11289
+269,2,Lower Middle Class,2016,1,Male,6,25 to 29 years,2,Hard to get/obtain,197385
+270,2,Lower Middle Class,2016,1,Male,6,25 to 29 years,3,Easy to get/obtain,710784
+271,2,Lower Middle Class,2016,1,Male,6,25 to 29 years,4,Very easy to get/obtain,53517
+272,2,Lower Middle Class,2016,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),12781
+273,2,Lower Middle Class,2016,1,Male,7,30 to 34 years,1,Imposible get/obtain,15809
+274,2,Lower Middle Class,2016,1,Male,7,30 to 34 years,2,Hard to get/obtain,234783
+275,2,Lower Middle Class,2016,1,Male,7,30 to 34 years,3,Easy to get/obtain,789012
+276,2,Lower Middle Class,2016,1,Male,7,30 to 34 years,4,Very easy to get/obtain,46915
+277,2,Lower Middle Class,2016,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),12227
+278,2,Lower Middle Class,2016,1,Male,8,35 to 39 years,1,Imposible get/obtain,13007
+279,2,Lower Middle Class,2016,1,Male,8,35 to 39 years,2,Hard to get/obtain,219546
+280,2,Lower Middle Class,2016,1,Male,8,35 to 39 years,3,Easy to get/obtain,782564
+281,2,Lower Middle Class,2016,1,Male,8,35 to 39 years,4,Very easy to get/obtain,39721
+282,2,Lower Middle Class,2016,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),9129
+283,2,Lower Middle Class,2016,1,Male,9,40 to 44 years,1,Imposible get/obtain,26803
+284,2,Lower Middle Class,2016,1,Male,9,40 to 44 years,2,Hard to get/obtain,220750
+285,2,Lower Middle Class,2016,1,Male,9,40 to 44 years,3,Easy to get/obtain,776861
+286,2,Lower Middle Class,2016,1,Male,9,40 to 44 years,4,Very easy to get/obtain,39031
+287,2,Lower Middle Class,2016,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),17945
+288,2,Lower Middle Class,2016,1,Male,10,45 to 49 years,1,Imposible get/obtain,12995
+289,2,Lower Middle Class,2016,1,Male,10,45 to 49 years,2,Hard to get/obtain,192160
+290,2,Lower Middle Class,2016,1,Male,10,45 to 49 years,3,Easy to get/obtain,669127
+291,2,Lower Middle Class,2016,1,Male,10,45 to 49 years,4,Very easy to get/obtain,36509
+292,2,Lower Middle Class,2016,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),18856
+293,2,Lower Middle Class,2016,1,Male,11,50 to 54 years,1,Imposible get/obtain,23027
+294,2,Lower Middle Class,2016,1,Male,11,50 to 54 years,2,Hard to get/obtain,176160
+295,2,Lower Middle Class,2016,1,Male,11,50 to 54 years,3,Easy to get/obtain,533360
+296,2,Lower Middle Class,2016,1,Male,11,50 to 54 years,4,Very easy to get/obtain,26114
+297,2,Lower Middle Class,2016,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),9125
+298,2,Lower Middle Class,2016,1,Male,12,55 to 59 years,1,Imposible get/obtain,20191
+299,2,Lower Middle Class,2016,1,Male,12,55 to 59 years,2,Hard to get/obtain,159135
+300,2,Lower Middle Class,2016,1,Male,12,55 to 59 years,3,Easy to get/obtain,442440
+301,2,Lower Middle Class,2016,1,Male,12,55 to 59 years,4,Very easy to get/obtain,24211
+302,2,Lower Middle Class,2016,1,Male,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),9712
+303,2,Lower Middle Class,2016,1,Male,13,60 to 64 years,1,Imposible get/obtain,7145
+304,2,Lower Middle Class,2016,1,Male,13,60 to 64 years,2,Hard to get/obtain,137105
+305,2,Lower Middle Class,2016,1,Male,13,60 to 64 years,3,Easy to get/obtain,393139
+306,2,Lower Middle Class,2016,1,Male,13,60 to 64 years,4,Very easy to get/obtain,20020
+307,2,Lower Middle Class,2016,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),6125
+308,2,Lower Middle Class,2016,1,Male,14,65 to 69 years,1,Imposible get/obtain,8777
+309,2,Lower Middle Class,2016,1,Male,14,65 to 69 years,2,Hard to get/obtain,107599
+310,2,Lower Middle Class,2016,1,Male,14,65 to 69 years,3,Easy to get/obtain,291393
+311,2,Lower Middle Class,2016,1,Male,14,65 to 69 years,4,Very easy to get/obtain,9268
+312,2,Lower Middle Class,2016,1,Male,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),5760
+313,2,Lower Middle Class,2016,1,Male,15,70 to 74 years,1,Imposible get/obtain,7369
+314,2,Lower Middle Class,2016,1,Male,15,70 to 74 years,2,Hard to get/obtain,74217
+315,2,Lower Middle Class,2016,1,Male,15,70 to 74 years,3,Easy to get/obtain,186205
+316,2,Lower Middle Class,2016,1,Male,15,70 to 74 years,4,Very easy to get/obtain,6217
+317,2,Lower Middle Class,2016,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),5329
+318,2,Lower Middle Class,2016,1,Male,16,75 to 79 years,1,Imposible get/obtain,3397
+319,2,Lower Middle Class,2016,1,Male,16,75 to 79 years,2,Hard to get/obtain,40064
+320,2,Lower Middle Class,2016,1,Male,16,75 to 79 years,3,Easy to get/obtain,142208
+321,2,Lower Middle Class,2016,1,Male,16,75 to 79 years,4,Very easy to get/obtain,5783
+322,2,Lower Middle Class,2016,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),1549
+323,2,Lower Middle Class,2016,1,Male,17,80 or more years,1,Imposible get/obtain,4231
+324,2,Lower Middle Class,2016,1,Male,17,80 or more years,2,Hard to get/obtain,49316
+325,2,Lower Middle Class,2016,1,Male,17,80 or more years,3,Easy to get/obtain,99787
+326,2,Lower Middle Class,2016,1,Male,17,80 or more years,4,Very easy to get/obtain,3477
+327,2,Lower Middle Class,2016,1,Male,17,80 or more years,5,No hard or easy get/obtain (spontaneous),1472
+328,2,Lower Middle Class,2016,2,Female,4,15 to 19 years,1,Imposible get/obtain,926
+329,2,Lower Middle Class,2016,2,Female,4,15 to 19 years,2,Hard to get/obtain,26464
+330,2,Lower Middle Class,2016,2,Female,4,15 to 19 years,3,Easy to get/obtain,104969
+331,2,Lower Middle Class,2016,2,Female,4,15 to 19 years,4,Very easy to get/obtain,9435
+332,2,Lower Middle Class,2016,2,Female,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),59
+333,2,Lower Middle Class,2016,2,Female,5,20 to 24 years,1,Imposible get/obtain,15355
+334,2,Lower Middle Class,2016,2,Female,5,20 to 24 years,2,Hard to get/obtain,121472
+335,2,Lower Middle Class,2016,2,Female,5,20 to 24 years,3,Easy to get/obtain,494666
+336,2,Lower Middle Class,2016,2,Female,5,20 to 24 years,4,Very easy to get/obtain,44333
+337,2,Lower Middle Class,2016,2,Female,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),5058
+338,2,Lower Middle Class,2016,2,Female,6,25 to 29 years,1,Imposible get/obtain,15150
+339,2,Lower Middle Class,2016,2,Female,6,25 to 29 years,2,Hard to get/obtain,209230
+340,2,Lower Middle Class,2016,2,Female,6,25 to 29 years,3,Easy to get/obtain,664319
+341,2,Lower Middle Class,2016,2,Female,6,25 to 29 years,4,Very easy to get/obtain,49545
+342,2,Lower Middle Class,2016,2,Female,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),7227
+343,2,Lower Middle Class,2016,2,Female,7,30 to 34 years,1,Imposible get/obtain,27202
+344,2,Lower Middle Class,2016,2,Female,7,30 to 34 years,2,Hard to get/obtain,267329
+345,2,Lower Middle Class,2016,2,Female,7,30 to 34 years,3,Easy to get/obtain,761575
+346,2,Lower Middle Class,2016,2,Female,7,30 to 34 years,4,Very easy to get/obtain,44685
+347,2,Lower Middle Class,2016,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),10243
+348,2,Lower Middle Class,2016,2,Female,8,35 to 39 years,1,Imposible get/obtain,18804
+349,2,Lower Middle Class,2016,2,Female,8,35 to 39 years,2,Hard to get/obtain,251186
+350,2,Lower Middle Class,2016,2,Female,8,35 to 39 years,3,Easy to get/obtain,688667
+351,2,Lower Middle Class,2016,2,Female,8,35 to 39 years,4,Very easy to get/obtain,39776
+352,2,Lower Middle Class,2016,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),9730
+353,2,Lower Middle Class,2016,2,Female,9,40 to 44 years,1,Imposible get/obtain,29395
+354,2,Lower Middle Class,2016,2,Female,9,40 to 44 years,2,Hard to get/obtain,230092
+355,2,Lower Middle Class,2016,2,Female,9,40 to 44 years,3,Easy to get/obtain,642738
+356,2,Lower Middle Class,2016,2,Female,9,40 to 44 years,4,Very easy to get/obtain,42208
+357,2,Lower Middle Class,2016,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),15367
+358,2,Lower Middle Class,2016,2,Female,10,45 to 49 years,1,Imposible get/obtain,8669
+359,2,Lower Middle Class,2016,2,Female,10,45 to 49 years,2,Hard to get/obtain,204150
+360,2,Lower Middle Class,2016,2,Female,10,45 to 49 years,3,Easy to get/obtain,493824
+361,2,Lower Middle Class,2016,2,Female,10,45 to 49 years,4,Very easy to get/obtain,26105
+362,2,Lower Middle Class,2016,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),9543
+363,2,Lower Middle Class,2016,2,Female,11,50 to 54 years,1,Imposible get/obtain,13502
+364,2,Lower Middle Class,2016,2,Female,11,50 to 54 years,2,Hard to get/obtain,182170
+365,2,Lower Middle Class,2016,2,Female,11,50 to 54 years,3,Easy to get/obtain,366020
+366,2,Lower Middle Class,2016,2,Female,11,50 to 54 years,4,Very easy to get/obtain,20849
+367,2,Lower Middle Class,2016,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),5758
+368,2,Lower Middle Class,2016,2,Female,12,55 to 59 years,1,Imposible get/obtain,9686
+369,2,Lower Middle Class,2016,2,Female,12,55 to 59 years,2,Hard to get/obtain,122854
+370,2,Lower Middle Class,2016,2,Female,12,55 to 59 years,3,Easy to get/obtain,275102
+371,2,Lower Middle Class,2016,2,Female,12,55 to 59 years,4,Very easy to get/obtain,14561
+372,2,Lower Middle Class,2016,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),7096
+373,2,Lower Middle Class,2016,2,Female,13,60 to 64 years,1,Imposible get/obtain,5260
+374,2,Lower Middle Class,2016,2,Female,13,60 to 64 years,2,Hard to get/obtain,69796
+375,2,Lower Middle Class,2016,2,Female,13,60 to 64 years,3,Easy to get/obtain,151568
+376,2,Lower Middle Class,2016,2,Female,13,60 to 64 years,4,Very easy to get/obtain,4906
+377,2,Lower Middle Class,2016,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),3452
+378,2,Lower Middle Class,2016,2,Female,14,65 to 69 years,1,Imposible get/obtain,4607
+379,2,Lower Middle Class,2016,2,Female,14,65 to 69 years,2,Hard to get/obtain,75031
+380,2,Lower Middle Class,2016,2,Female,14,65 to 69 years,3,Easy to get/obtain,92551
+381,2,Lower Middle Class,2016,2,Female,14,65 to 69 years,4,Very easy to get/obtain,5294
+382,2,Lower Middle Class,2016,2,Female,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),773
+383,2,Lower Middle Class,2016,2,Female,15,70 to 74 years,1,Imposible get/obtain,3018
+384,2,Lower Middle Class,2016,2,Female,15,70 to 74 years,2,Hard to get/obtain,30458
+385,2,Lower Middle Class,2016,2,Female,15,70 to 74 years,3,Easy to get/obtain,59594
+386,2,Lower Middle Class,2016,2,Female,15,70 to 74 years,4,Very easy to get/obtain,4696
+387,2,Lower Middle Class,2016,2,Female,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),1202
+388,2,Lower Middle Class,2016,2,Female,16,75 to 79 years,2,Hard to get/obtain,15027
+389,2,Lower Middle Class,2016,2,Female,16,75 to 79 years,3,Easy to get/obtain,18555
+390,2,Lower Middle Class,2016,2,Female,16,75 to 79 years,4,Very easy to get/obtain,2947
+391,2,Lower Middle Class,2016,2,Female,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),641
+392,2,Lower Middle Class,2016,2,Female,17,80 or more years,1,Imposible get/obtain,106
+393,2,Lower Middle Class,2016,2,Female,17,80 or more years,2,Hard to get/obtain,5596
+394,2,Lower Middle Class,2016,2,Female,17,80 or more years,3,Easy to get/obtain,31457
+395,2,Lower Middle Class,2016,2,Female,17,80 or more years,4,Very easy to get/obtain,1500
+396,2,Lower Middle Class,2018,1,Male,4,15 to 19 years,1,Imposible get/obtain,12630
+397,2,Lower Middle Class,2018,1,Male,4,15 to 19 years,2,Hard to get/obtain,30655
+398,2,Lower Middle Class,2018,1,Male,4,15 to 19 years,3,Easy to get/obtain,172536
+399,2,Lower Middle Class,2018,1,Male,4,15 to 19 years,4,Very easy to get/obtain,19537
+400,2,Lower Middle Class,2018,1,Male,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),2202
+401,2,Lower Middle Class,2018,1,Male,5,20 to 24 years,1,Imposible get/obtain,16236
+402,2,Lower Middle Class,2018,1,Male,5,20 to 24 years,2,Hard to get/obtain,145453
+403,2,Lower Middle Class,2018,1,Male,5,20 to 24 years,3,Easy to get/obtain,692121
+404,2,Lower Middle Class,2018,1,Male,5,20 to 24 years,4,Very easy to get/obtain,56525
+405,2,Lower Middle Class,2018,1,Male,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),13310
+406,2,Lower Middle Class,2018,1,Male,6,25 to 29 years,1,Imposible get/obtain,15045
+407,2,Lower Middle Class,2018,1,Male,6,25 to 29 years,2,Hard to get/obtain,201256
+408,2,Lower Middle Class,2018,1,Male,6,25 to 29 years,3,Easy to get/obtain,793351
+409,2,Lower Middle Class,2018,1,Male,6,25 to 29 years,4,Very easy to get/obtain,56187
+410,2,Lower Middle Class,2018,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),13056
+411,2,Lower Middle Class,2018,1,Male,7,30 to 34 years,1,Imposible get/obtain,26172
+412,2,Lower Middle Class,2018,1,Male,7,30 to 34 years,2,Hard to get/obtain,187248
+413,2,Lower Middle Class,2018,1,Male,7,30 to 34 years,3,Easy to get/obtain,788883
+414,2,Lower Middle Class,2018,1,Male,7,30 to 34 years,4,Very easy to get/obtain,50600
+415,2,Lower Middle Class,2018,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),14302
+416,2,Lower Middle Class,2018,1,Male,8,35 to 39 years,1,Imposible get/obtain,14680
+417,2,Lower Middle Class,2018,1,Male,8,35 to 39 years,2,Hard to get/obtain,232526
+418,2,Lower Middle Class,2018,1,Male,8,35 to 39 years,3,Easy to get/obtain,822140
+419,2,Lower Middle Class,2018,1,Male,8,35 to 39 years,4,Very easy to get/obtain,44233
+420,2,Lower Middle Class,2018,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),24969
+421,2,Lower Middle Class,2018,1,Male,9,40 to 44 years,1,Imposible get/obtain,23378
+422,2,Lower Middle Class,2018,1,Male,9,40 to 44 years,2,Hard to get/obtain,236592
+423,2,Lower Middle Class,2018,1,Male,9,40 to 44 years,3,Easy to get/obtain,798232
+424,2,Lower Middle Class,2018,1,Male,9,40 to 44 years,4,Very easy to get/obtain,46137
+425,2,Lower Middle Class,2018,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),14885
+426,2,Lower Middle Class,2018,1,Male,10,45 to 49 years,1,Imposible get/obtain,20401
+427,2,Lower Middle Class,2018,1,Male,10,45 to 49 years,2,Hard to get/obtain,236536
+428,2,Lower Middle Class,2018,1,Male,10,45 to 49 years,3,Easy to get/obtain,709473
+429,2,Lower Middle Class,2018,1,Male,10,45 to 49 years,4,Very easy to get/obtain,35552
+430,2,Lower Middle Class,2018,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),11664
+431,2,Lower Middle Class,2018,1,Male,11,50 to 54 years,1,Imposible get/obtain,12882
+432,2,Lower Middle Class,2018,1,Male,11,50 to 54 years,2,Hard to get/obtain,188508
+433,2,Lower Middle Class,2018,1,Male,11,50 to 54 years,3,Easy to get/obtain,572825
+434,2,Lower Middle Class,2018,1,Male,11,50 to 54 years,4,Very easy to get/obtain,32324
+435,2,Lower Middle Class,2018,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),14684
+436,2,Lower Middle Class,2018,1,Male,12,55 to 59 years,1,Imposible get/obtain,19815
+437,2,Lower Middle Class,2018,1,Male,12,55 to 59 years,2,Hard to get/obtain,163600
+438,2,Lower Middle Class,2018,1,Male,12,55 to 59 years,3,Easy to get/obtain,519702
+439,2,Lower Middle Class,2018,1,Male,12,55 to 59 years,4,Very easy to get/obtain,43366
+440,2,Lower Middle Class,2018,1,Male,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),23057
+441,2,Lower Middle Class,2018,1,Male,13,60 to 64 years,1,Imposible get/obtain,17344
+442,2,Lower Middle Class,2018,1,Male,13,60 to 64 years,2,Hard to get/obtain,164439
+443,2,Lower Middle Class,2018,1,Male,13,60 to 64 years,3,Easy to get/obtain,405397
+444,2,Lower Middle Class,2018,1,Male,13,60 to 64 years,4,Very easy to get/obtain,21774
+445,2,Lower Middle Class,2018,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),14717
+446,2,Lower Middle Class,2018,1,Male,14,65 to 69 years,1,Imposible get/obtain,7323
+447,2,Lower Middle Class,2018,1,Male,14,65 to 69 years,2,Hard to get/obtain,113238
+448,2,Lower Middle Class,2018,1,Male,14,65 to 69 years,3,Easy to get/obtain,302810
+449,2,Lower Middle Class,2018,1,Male,14,65 to 69 years,4,Very easy to get/obtain,10084
+450,2,Lower Middle Class,2018,1,Male,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),8914
+451,2,Lower Middle Class,2018,1,Male,15,70 to 74 years,1,Imposible get/obtain,12559
+452,2,Lower Middle Class,2018,1,Male,15,70 to 74 years,2,Hard to get/obtain,73834
+453,2,Lower Middle Class,2018,1,Male,15,70 to 74 years,3,Easy to get/obtain,220574
+454,2,Lower Middle Class,2018,1,Male,15,70 to 74 years,4,Very easy to get/obtain,7436
+455,2,Lower Middle Class,2018,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),4415
+456,2,Lower Middle Class,2018,1,Male,16,75 to 79 years,1,Imposible get/obtain,7353
+457,2,Lower Middle Class,2018,1,Male,16,75 to 79 years,2,Hard to get/obtain,46476
+458,2,Lower Middle Class,2018,1,Male,16,75 to 79 years,3,Easy to get/obtain,123988
+459,2,Lower Middle Class,2018,1,Male,16,75 to 79 years,4,Very easy to get/obtain,9811
+460,2,Lower Middle Class,2018,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),2898
+461,2,Lower Middle Class,2018,1,Male,17,80 or more years,1,Imposible get/obtain,6826
+462,2,Lower Middle Class,2018,1,Male,17,80 or more years,2,Hard to get/obtain,54566
+463,2,Lower Middle Class,2018,1,Male,17,80 or more years,3,Easy to get/obtain,108164
+464,2,Lower Middle Class,2018,1,Male,17,80 or more years,4,Very easy to get/obtain,7464
+465,2,Lower Middle Class,2018,1,Male,17,80 or more years,5,No hard or easy get/obtain (spontaneous),3597
+466,2,Lower Middle Class,2018,2,Female,4,15 to 19 years,1,Imposible get/obtain,3325
+467,2,Lower Middle Class,2018,2,Female,4,15 to 19 years,2,Hard to get/obtain,25366
+468,2,Lower Middle Class,2018,2,Female,4,15 to 19 years,3,Easy to get/obtain,109293
+469,2,Lower Middle Class,2018,2,Female,4,15 to 19 years,4,Very easy to get/obtain,12613
+470,2,Lower Middle Class,2018,2,Female,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),896
+471,2,Lower Middle Class,2018,2,Female,5,20 to 24 years,1,Imposible get/obtain,7333
+472,2,Lower Middle Class,2018,2,Female,5,20 to 24 years,2,Hard to get/obtain,132593
+473,2,Lower Middle Class,2018,2,Female,5,20 to 24 years,3,Easy to get/obtain,508644
+474,2,Lower Middle Class,2018,2,Female,5,20 to 24 years,4,Very easy to get/obtain,54466
+475,2,Lower Middle Class,2018,2,Female,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),7793
+476,2,Lower Middle Class,2018,2,Female,6,25 to 29 years,1,Imposible get/obtain,21637
+477,2,Lower Middle Class,2018,2,Female,6,25 to 29 years,2,Hard to get/obtain,216612
+478,2,Lower Middle Class,2018,2,Female,6,25 to 29 years,3,Easy to get/obtain,667088
+479,2,Lower Middle Class,2018,2,Female,6,25 to 29 years,4,Very easy to get/obtain,54107
+480,2,Lower Middle Class,2018,2,Female,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),7504
+481,2,Lower Middle Class,2018,2,Female,7,30 to 34 years,1,Imposible get/obtain,29561
+482,2,Lower Middle Class,2018,2,Female,7,30 to 34 years,2,Hard to get/obtain,240498
+483,2,Lower Middle Class,2018,2,Female,7,30 to 34 years,3,Easy to get/obtain,754168
+484,2,Lower Middle Class,2018,2,Female,7,30 to 34 years,4,Very easy to get/obtain,42791
+485,2,Lower Middle Class,2018,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),12106
+486,2,Lower Middle Class,2018,2,Female,8,35 to 39 years,1,Imposible get/obtain,23561
+487,2,Lower Middle Class,2018,2,Female,8,35 to 39 years,2,Hard to get/obtain,239886
+488,2,Lower Middle Class,2018,2,Female,8,35 to 39 years,3,Easy to get/obtain,683059
+489,2,Lower Middle Class,2018,2,Female,8,35 to 39 years,4,Very easy to get/obtain,41659
+490,2,Lower Middle Class,2018,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),11246
+491,2,Lower Middle Class,2018,2,Female,9,40 to 44 years,1,Imposible get/obtain,27083
+492,2,Lower Middle Class,2018,2,Female,9,40 to 44 years,2,Hard to get/obtain,249290
+493,2,Lower Middle Class,2018,2,Female,9,40 to 44 years,3,Easy to get/obtain,669041
+494,2,Lower Middle Class,2018,2,Female,9,40 to 44 years,4,Very easy to get/obtain,29793
+495,2,Lower Middle Class,2018,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),13978
+496,2,Lower Middle Class,2018,2,Female,10,45 to 49 years,1,Imposible get/obtain,23537
+497,2,Lower Middle Class,2018,2,Female,10,45 to 49 years,2,Hard to get/obtain,222140
+498,2,Lower Middle Class,2018,2,Female,10,45 to 49 years,3,Easy to get/obtain,559061
+499,2,Lower Middle Class,2018,2,Female,10,45 to 49 years,4,Very easy to get/obtain,27884
+500,2,Lower Middle Class,2018,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),11008
+501,2,Lower Middle Class,2018,2,Female,11,50 to 54 years,1,Imposible get/obtain,15231
+502,2,Lower Middle Class,2018,2,Female,11,50 to 54 years,2,Hard to get/obtain,177727
+503,2,Lower Middle Class,2018,2,Female,11,50 to 54 years,3,Easy to get/obtain,427918
+504,2,Lower Middle Class,2018,2,Female,11,50 to 54 years,4,Very easy to get/obtain,28442
+505,2,Lower Middle Class,2018,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),11886
+506,2,Lower Middle Class,2018,2,Female,12,55 to 59 years,1,Imposible get/obtain,23456
+507,2,Lower Middle Class,2018,2,Female,12,55 to 59 years,2,Hard to get/obtain,132321
+508,2,Lower Middle Class,2018,2,Female,12,55 to 59 years,3,Easy to get/obtain,304038
+509,2,Lower Middle Class,2018,2,Female,12,55 to 59 years,4,Very easy to get/obtain,8068
+510,2,Lower Middle Class,2018,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),6864
+511,2,Lower Middle Class,2018,2,Female,13,60 to 64 years,1,Imposible get/obtain,9576
+512,2,Lower Middle Class,2018,2,Female,13,60 to 64 years,2,Hard to get/obtain,88874
+513,2,Lower Middle Class,2018,2,Female,13,60 to 64 years,3,Easy to get/obtain,177516
+514,2,Lower Middle Class,2018,2,Female,13,60 to 64 years,4,Very easy to get/obtain,7905
+515,2,Lower Middle Class,2018,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),4882
+516,2,Lower Middle Class,2018,2,Female,14,65 to 69 years,1,Imposible get/obtain,3926
+517,2,Lower Middle Class,2018,2,Female,14,65 to 69 years,2,Hard to get/obtain,50830
+518,2,Lower Middle Class,2018,2,Female,14,65 to 69 years,3,Easy to get/obtain,127509
+519,2,Lower Middle Class,2018,2,Female,14,65 to 69 years,4,Very easy to get/obtain,6609
+520,2,Lower Middle Class,2018,2,Female,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),4326
+521,2,Lower Middle Class,2018,2,Female,15,70 to 74 years,1,Imposible get/obtain,3900
+522,2,Lower Middle Class,2018,2,Female,15,70 to 74 years,2,Hard to get/obtain,27264
+523,2,Lower Middle Class,2018,2,Female,15,70 to 74 years,3,Easy to get/obtain,60980
+524,2,Lower Middle Class,2018,2,Female,15,70 to 74 years,4,Very easy to get/obtain,5510
+525,2,Lower Middle Class,2018,2,Female,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),560
+526,2,Lower Middle Class,2018,2,Female,16,75 to 79 years,1,Imposible get/obtain,1024
+527,2,Lower Middle Class,2018,2,Female,16,75 to 79 years,2,Hard to get/obtain,9747
+528,2,Lower Middle Class,2018,2,Female,16,75 to 79 years,3,Easy to get/obtain,28555
+529,2,Lower Middle Class,2018,2,Female,16,75 to 79 years,4,Very easy to get/obtain,5845
+530,2,Lower Middle Class,2018,2,Female,17,80 or more years,1,Imposible get/obtain,2683
+531,2,Lower Middle Class,2018,2,Female,17,80 or more years,2,Hard to get/obtain,18666
+532,2,Lower Middle Class,2018,2,Female,17,80 or more years,3,Easy to get/obtain,22990
+533,2,Lower Middle Class,2018,2,Female,17,80 or more years,4,Very easy to get/obtain,2079
+534,2,Lower Middle Class,2018,2,Female,17,80 or more years,5,No hard or easy get/obtain (spontaneous),385
+535,3,Upper Middle Class,2016,1,Male,4,15 to 19 years,1,Imposible get/obtain,1411
+536,3,Upper Middle Class,2016,1,Male,4,15 to 19 years,2,Hard to get/obtain,8174
+537,3,Upper Middle Class,2016,1,Male,4,15 to 19 years,3,Easy to get/obtain,70876
+538,3,Upper Middle Class,2016,1,Male,4,15 to 19 years,4,Very easy to get/obtain,10122
+539,3,Upper Middle Class,2016,1,Male,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),1455
+540,3,Upper Middle Class,2016,1,Male,5,20 to 24 years,1,Imposible get/obtain,7322
+541,3,Upper Middle Class,2016,1,Male,5,20 to 24 years,2,Hard to get/obtain,68926
+542,3,Upper Middle Class,2016,1,Male,5,20 to 24 years,3,Easy to get/obtain,352238
+543,3,Upper Middle Class,2016,1,Male,5,20 to 24 years,4,Very easy to get/obtain,34884
+544,3,Upper Middle Class,2016,1,Male,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),5378
+545,3,Upper Middle Class,2016,1,Male,6,25 to 29 years,1,Imposible get/obtain,8590
+546,3,Upper Middle Class,2016,1,Male,6,25 to 29 years,2,Hard to get/obtain,86889
+547,3,Upper Middle Class,2016,1,Male,6,25 to 29 years,3,Easy to get/obtain,391374
+548,3,Upper Middle Class,2016,1,Male,6,25 to 29 years,4,Very easy to get/obtain,38441
+549,3,Upper Middle Class,2016,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),4399
+550,3,Upper Middle Class,2016,1,Male,7,30 to 34 years,1,Imposible get/obtain,8152
+551,3,Upper Middle Class,2016,1,Male,7,30 to 34 years,2,Hard to get/obtain,89736
+552,3,Upper Middle Class,2016,1,Male,7,30 to 34 years,3,Easy to get/obtain,377868
+553,3,Upper Middle Class,2016,1,Male,7,30 to 34 years,4,Very easy to get/obtain,30293
+554,3,Upper Middle Class,2016,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),4466
+555,3,Upper Middle Class,2016,1,Male,8,35 to 39 years,1,Imposible get/obtain,11726
+556,3,Upper Middle Class,2016,1,Male,8,35 to 39 years,2,Hard to get/obtain,98173
+557,3,Upper Middle Class,2016,1,Male,8,35 to 39 years,3,Easy to get/obtain,359657
+558,3,Upper Middle Class,2016,1,Male,8,35 to 39 years,4,Very easy to get/obtain,27840
+559,3,Upper Middle Class,2016,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),7163
+560,3,Upper Middle Class,2016,1,Male,9,40 to 44 years,1,Imposible get/obtain,3963
+561,3,Upper Middle Class,2016,1,Male,9,40 to 44 years,2,Hard to get/obtain,97729
+562,3,Upper Middle Class,2016,1,Male,9,40 to 44 years,3,Easy to get/obtain,413685
+563,3,Upper Middle Class,2016,1,Male,9,40 to 44 years,4,Very easy to get/obtain,29958
+564,3,Upper Middle Class,2016,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),2278
+565,3,Upper Middle Class,2016,1,Male,10,45 to 49 years,1,Imposible get/obtain,6078
+566,3,Upper Middle Class,2016,1,Male,10,45 to 49 years,2,Hard to get/obtain,96581
+567,3,Upper Middle Class,2016,1,Male,10,45 to 49 years,3,Easy to get/obtain,383768
+568,3,Upper Middle Class,2016,1,Male,10,45 to 49 years,4,Very easy to get/obtain,23826
+569,3,Upper Middle Class,2016,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),9813
+570,3,Upper Middle Class,2016,1,Male,11,50 to 54 years,1,Imposible get/obtain,7105
+571,3,Upper Middle Class,2016,1,Male,11,50 to 54 years,2,Hard to get/obtain,101214
+572,3,Upper Middle Class,2016,1,Male,11,50 to 54 years,3,Easy to get/obtain,373345
+573,3,Upper Middle Class,2016,1,Male,11,50 to 54 years,4,Very easy to get/obtain,18216
+574,3,Upper Middle Class,2016,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),4949
+575,3,Upper Middle Class,2016,1,Male,12,55 to 59 years,1,Imposible get/obtain,7979
+576,3,Upper Middle Class,2016,1,Male,12,55 to 59 years,2,Hard to get/obtain,80384
+577,3,Upper Middle Class,2016,1,Male,12,55 to 59 years,3,Easy to get/obtain,277934
+578,3,Upper Middle Class,2016,1,Male,12,55 to 59 years,4,Very easy to get/obtain,18437
+579,3,Upper Middle Class,2016,1,Male,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),5463
+580,3,Upper Middle Class,2016,1,Male,13,60 to 64 years,1,Imposible get/obtain,11389
+581,3,Upper Middle Class,2016,1,Male,13,60 to 64 years,2,Hard to get/obtain,71029
+582,3,Upper Middle Class,2016,1,Male,13,60 to 64 years,3,Easy to get/obtain,278538
+583,3,Upper Middle Class,2016,1,Male,13,60 to 64 years,4,Very easy to get/obtain,17988
+584,3,Upper Middle Class,2016,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),6814
+585,3,Upper Middle Class,2016,1,Male,14,65 to 69 years,1,Imposible get/obtain,6742
+586,3,Upper Middle Class,2016,1,Male,14,65 to 69 years,2,Hard to get/obtain,44143
+587,3,Upper Middle Class,2016,1,Male,14,65 to 69 years,3,Easy to get/obtain,181152
+588,3,Upper Middle Class,2016,1,Male,14,65 to 69 years,4,Very easy to get/obtain,8542
+589,3,Upper Middle Class,2016,1,Male,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),5395
+590,3,Upper Middle Class,2016,1,Male,15,70 to 74 years,1,Imposible get/obtain,2456
+591,3,Upper Middle Class,2016,1,Male,15,70 to 74 years,2,Hard to get/obtain,45926
+592,3,Upper Middle Class,2016,1,Male,15,70 to 74 years,3,Easy to get/obtain,101104
+593,3,Upper Middle Class,2016,1,Male,15,70 to 74 years,4,Very easy to get/obtain,9473
+594,3,Upper Middle Class,2016,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),2658
+595,3,Upper Middle Class,2016,1,Male,16,75 to 79 years,1,Imposible get/obtain,1058
+596,3,Upper Middle Class,2016,1,Male,16,75 to 79 years,2,Hard to get/obtain,24853
+597,3,Upper Middle Class,2016,1,Male,16,75 to 79 years,3,Easy to get/obtain,102545
+598,3,Upper Middle Class,2016,1,Male,16,75 to 79 years,4,Very easy to get/obtain,2974
+599,3,Upper Middle Class,2016,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),147
+600,3,Upper Middle Class,2016,1,Male,17,80 or more years,1,Imposible get/obtain,4920
+601,3,Upper Middle Class,2016,1,Male,17,80 or more years,2,Hard to get/obtain,31461
+602,3,Upper Middle Class,2016,1,Male,17,80 or more years,3,Easy to get/obtain,60418
+603,3,Upper Middle Class,2016,1,Male,17,80 or more years,4,Very easy to get/obtain,8481
+604,3,Upper Middle Class,2016,1,Male,17,80 or more years,5,No hard or easy get/obtain (spontaneous),609
+605,3,Upper Middle Class,2016,2,Female,4,15 to 19 years,2,Hard to get/obtain,4385
+606,3,Upper Middle Class,2016,2,Female,4,15 to 19 years,3,Easy to get/obtain,43480
+607,3,Upper Middle Class,2016,2,Female,4,15 to 19 years,4,Very easy to get/obtain,7703
+608,3,Upper Middle Class,2016,2,Female,5,20 to 24 years,1,Imposible get/obtain,1772
+609,3,Upper Middle Class,2016,2,Female,5,20 to 24 years,2,Hard to get/obtain,51668
+610,3,Upper Middle Class,2016,2,Female,5,20 to 24 years,3,Easy to get/obtain,292331
+611,3,Upper Middle Class,2016,2,Female,5,20 to 24 years,4,Very easy to get/obtain,26017
+612,3,Upper Middle Class,2016,2,Female,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),9342
+613,3,Upper Middle Class,2016,2,Female,6,25 to 29 years,1,Imposible get/obtain,12150
+614,3,Upper Middle Class,2016,2,Female,6,25 to 29 years,2,Hard to get/obtain,93234
+615,3,Upper Middle Class,2016,2,Female,6,25 to 29 years,3,Easy to get/obtain,398799
+616,3,Upper Middle Class,2016,2,Female,6,25 to 29 years,4,Very easy to get/obtain,35315
+617,3,Upper Middle Class,2016,2,Female,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),6270
+618,3,Upper Middle Class,2016,2,Female,7,30 to 34 years,1,Imposible get/obtain,10558
+619,3,Upper Middle Class,2016,2,Female,7,30 to 34 years,2,Hard to get/obtain,116366
+620,3,Upper Middle Class,2016,2,Female,7,30 to 34 years,3,Easy to get/obtain,376769
+621,3,Upper Middle Class,2016,2,Female,7,30 to 34 years,4,Very easy to get/obtain,32063
+622,3,Upper Middle Class,2016,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),7095
+623,3,Upper Middle Class,2016,2,Female,8,35 to 39 years,1,Imposible get/obtain,14115
+624,3,Upper Middle Class,2016,2,Female,8,35 to 39 years,2,Hard to get/obtain,118256
+625,3,Upper Middle Class,2016,2,Female,8,35 to 39 years,3,Easy to get/obtain,426244
+626,3,Upper Middle Class,2016,2,Female,8,35 to 39 years,4,Very easy to get/obtain,33994
+627,3,Upper Middle Class,2016,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),10018
+628,3,Upper Middle Class,2016,2,Female,9,40 to 44 years,1,Imposible get/obtain,15692
+629,3,Upper Middle Class,2016,2,Female,9,40 to 44 years,2,Hard to get/obtain,133763
+630,3,Upper Middle Class,2016,2,Female,9,40 to 44 years,3,Easy to get/obtain,453796
+631,3,Upper Middle Class,2016,2,Female,9,40 to 44 years,4,Very easy to get/obtain,23426
+632,3,Upper Middle Class,2016,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),8751
+633,3,Upper Middle Class,2016,2,Female,10,45 to 49 years,1,Imposible get/obtain,16335
+634,3,Upper Middle Class,2016,2,Female,10,45 to 49 years,2,Hard to get/obtain,145912
+635,3,Upper Middle Class,2016,2,Female,10,45 to 49 years,3,Easy to get/obtain,387298
+636,3,Upper Middle Class,2016,2,Female,10,45 to 49 years,4,Very easy to get/obtain,25934
+637,3,Upper Middle Class,2016,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),4802
+638,3,Upper Middle Class,2016,2,Female,11,50 to 54 years,1,Imposible get/obtain,12157
+639,3,Upper Middle Class,2016,2,Female,11,50 to 54 years,2,Hard to get/obtain,151518
+640,3,Upper Middle Class,2016,2,Female,11,50 to 54 years,3,Easy to get/obtain,307302
+641,3,Upper Middle Class,2016,2,Female,11,50 to 54 years,4,Very easy to get/obtain,19549
+642,3,Upper Middle Class,2016,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),8803
+643,3,Upper Middle Class,2016,2,Female,12,55 to 59 years,1,Imposible get/obtain,11253
+644,3,Upper Middle Class,2016,2,Female,12,55 to 59 years,2,Hard to get/obtain,92083
+645,3,Upper Middle Class,2016,2,Female,12,55 to 59 years,3,Easy to get/obtain,234480
+646,3,Upper Middle Class,2016,2,Female,12,55 to 59 years,4,Very easy to get/obtain,17688
+647,3,Upper Middle Class,2016,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),11868
+648,3,Upper Middle Class,2016,2,Female,13,60 to 64 years,1,Imposible get/obtain,5723
+649,3,Upper Middle Class,2016,2,Female,13,60 to 64 years,2,Hard to get/obtain,75328
+650,3,Upper Middle Class,2016,2,Female,13,60 to 64 years,3,Easy to get/obtain,183519
+651,3,Upper Middle Class,2016,2,Female,13,60 to 64 years,4,Very easy to get/obtain,16179
+652,3,Upper Middle Class,2016,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),929
+653,3,Upper Middle Class,2016,2,Female,14,65 to 69 years,1,Imposible get/obtain,4465
+654,3,Upper Middle Class,2016,2,Female,14,65 to 69 years,2,Hard to get/obtain,55253
+655,3,Upper Middle Class,2016,2,Female,14,65 to 69 years,3,Easy to get/obtain,113993
+656,3,Upper Middle Class,2016,2,Female,14,65 to 69 years,4,Very easy to get/obtain,13586
+657,3,Upper Middle Class,2016,2,Female,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),2300
+658,3,Upper Middle Class,2016,2,Female,15,70 to 74 years,1,Imposible get/obtain,2185
+659,3,Upper Middle Class,2016,2,Female,15,70 to 74 years,2,Hard to get/obtain,28844
+660,3,Upper Middle Class,2016,2,Female,15,70 to 74 years,3,Easy to get/obtain,65816
+661,3,Upper Middle Class,2016,2,Female,15,70 to 74 years,4,Very easy to get/obtain,7908
+662,3,Upper Middle Class,2016,2,Female,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),608
+663,3,Upper Middle Class,2016,2,Female,16,75 to 79 years,1,Imposible get/obtain,2206
+664,3,Upper Middle Class,2016,2,Female,16,75 to 79 years,2,Hard to get/obtain,11445
+665,3,Upper Middle Class,2016,2,Female,16,75 to 79 years,3,Easy to get/obtain,31860
+666,3,Upper Middle Class,2016,2,Female,16,75 to 79 years,4,Very easy to get/obtain,321
+667,3,Upper Middle Class,2016,2,Female,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),112
+668,3,Upper Middle Class,2016,2,Female,17,80 or more years,1,Imposible get/obtain,4706
+669,3,Upper Middle Class,2016,2,Female,17,80 or more years,2,Hard to get/obtain,15145
+670,3,Upper Middle Class,2016,2,Female,17,80 or more years,3,Easy to get/obtain,34494
+671,3,Upper Middle Class,2016,2,Female,17,80 or more years,4,Very easy to get/obtain,2899
+672,3,Upper Middle Class,2016,2,Female,17,80 or more years,5,No hard or easy get/obtain (spontaneous),2081
+673,3,Upper Middle Class,2018,1,Male,4,15 to 19 years,1,Imposible get/obtain,248
+674,3,Upper Middle Class,2018,1,Male,4,15 to 19 years,2,Hard to get/obtain,8512
+675,3,Upper Middle Class,2018,1,Male,4,15 to 19 years,3,Easy to get/obtain,70099
+676,3,Upper Middle Class,2018,1,Male,4,15 to 19 years,4,Very easy to get/obtain,8127
+677,3,Upper Middle Class,2018,1,Male,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),1070
+678,3,Upper Middle Class,2018,1,Male,5,20 to 24 years,1,Imposible get/obtain,1019
+679,3,Upper Middle Class,2018,1,Male,5,20 to 24 years,2,Hard to get/obtain,54285
+680,3,Upper Middle Class,2018,1,Male,5,20 to 24 years,3,Easy to get/obtain,283008
+681,3,Upper Middle Class,2018,1,Male,5,20 to 24 years,4,Very easy to get/obtain,39106
+682,3,Upper Middle Class,2018,1,Male,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),1808
+683,3,Upper Middle Class,2018,1,Male,6,25 to 29 years,1,Imposible get/obtain,6890
+684,3,Upper Middle Class,2018,1,Male,6,25 to 29 years,2,Hard to get/obtain,75788
+685,3,Upper Middle Class,2018,1,Male,6,25 to 29 years,3,Easy to get/obtain,384061
+686,3,Upper Middle Class,2018,1,Male,6,25 to 29 years,4,Very easy to get/obtain,52191
+687,3,Upper Middle Class,2018,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),5769
+688,3,Upper Middle Class,2018,1,Male,7,30 to 34 years,1,Imposible get/obtain,5553
+689,3,Upper Middle Class,2018,1,Male,7,30 to 34 years,2,Hard to get/obtain,77224
+690,3,Upper Middle Class,2018,1,Male,7,30 to 34 years,3,Easy to get/obtain,325101
+691,3,Upper Middle Class,2018,1,Male,7,30 to 34 years,4,Very easy to get/obtain,49113
+692,3,Upper Middle Class,2018,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),4827
+693,3,Upper Middle Class,2018,1,Male,8,35 to 39 years,1,Imposible get/obtain,8647
+694,3,Upper Middle Class,2018,1,Male,8,35 to 39 years,2,Hard to get/obtain,93495
+695,3,Upper Middle Class,2018,1,Male,8,35 to 39 years,3,Easy to get/obtain,333380
+696,3,Upper Middle Class,2018,1,Male,8,35 to 39 years,4,Very easy to get/obtain,34502
+697,3,Upper Middle Class,2018,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),970
+698,3,Upper Middle Class,2018,1,Male,9,40 to 44 years,1,Imposible get/obtain,7885
+699,3,Upper Middle Class,2018,1,Male,9,40 to 44 years,2,Hard to get/obtain,90470
+700,3,Upper Middle Class,2018,1,Male,9,40 to 44 years,3,Easy to get/obtain,326872
+701,3,Upper Middle Class,2018,1,Male,9,40 to 44 years,4,Very easy to get/obtain,35294
+702,3,Upper Middle Class,2018,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),7196
+703,3,Upper Middle Class,2018,1,Male,10,45 to 49 years,1,Imposible get/obtain,2613
+704,3,Upper Middle Class,2018,1,Male,10,45 to 49 years,2,Hard to get/obtain,103396
+705,3,Upper Middle Class,2018,1,Male,10,45 to 49 years,3,Easy to get/obtain,344823
+706,3,Upper Middle Class,2018,1,Male,10,45 to 49 years,4,Very easy to get/obtain,32646
+707,3,Upper Middle Class,2018,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),7965
+708,3,Upper Middle Class,2018,1,Male,11,50 to 54 years,1,Imposible get/obtain,6807
+709,3,Upper Middle Class,2018,1,Male,11,50 to 54 years,2,Hard to get/obtain,89853
+710,3,Upper Middle Class,2018,1,Male,11,50 to 54 years,3,Easy to get/obtain,303256
+711,3,Upper Middle Class,2018,1,Male,11,50 to 54 years,4,Very easy to get/obtain,27488
+712,3,Upper Middle Class,2018,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),5520
+713,3,Upper Middle Class,2018,1,Male,12,55 to 59 years,1,Imposible get/obtain,6925
+714,3,Upper Middle Class,2018,1,Male,12,55 to 59 years,2,Hard to get/obtain,106131
+715,3,Upper Middle Class,2018,1,Male,12,55 to 59 years,3,Easy to get/obtain,302608
+716,3,Upper Middle Class,2018,1,Male,12,55 to 59 years,4,Very easy to get/obtain,13480
+717,3,Upper Middle Class,2018,1,Male,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),6740
+718,3,Upper Middle Class,2018,1,Male,13,60 to 64 years,1,Imposible get/obtain,9060
+719,3,Upper Middle Class,2018,1,Male,13,60 to 64 years,2,Hard to get/obtain,74394
+720,3,Upper Middle Class,2018,1,Male,13,60 to 64 years,3,Easy to get/obtain,221955
+721,3,Upper Middle Class,2018,1,Male,13,60 to 64 years,4,Very easy to get/obtain,22674
+722,3,Upper Middle Class,2018,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),5338
+723,3,Upper Middle Class,2018,1,Male,14,65 to 69 years,1,Imposible get/obtain,3422
+724,3,Upper Middle Class,2018,1,Male,14,65 to 69 years,2,Hard to get/obtain,64407
+725,3,Upper Middle Class,2018,1,Male,14,65 to 69 years,3,Easy to get/obtain,182973
+726,3,Upper Middle Class,2018,1,Male,14,65 to 69 years,4,Very easy to get/obtain,16219
+727,3,Upper Middle Class,2018,1,Male,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),1959
+728,3,Upper Middle Class,2018,1,Male,15,70 to 74 years,1,Imposible get/obtain,4096
+729,3,Upper Middle Class,2018,1,Male,15,70 to 74 years,2,Hard to get/obtain,54193
+730,3,Upper Middle Class,2018,1,Male,15,70 to 74 years,3,Easy to get/obtain,136548
+731,3,Upper Middle Class,2018,1,Male,15,70 to 74 years,4,Very easy to get/obtain,15200
+732,3,Upper Middle Class,2018,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),4256
+733,3,Upper Middle Class,2018,1,Male,16,75 to 79 years,2,Hard to get/obtain,30487
+734,3,Upper Middle Class,2018,1,Male,16,75 to 79 years,3,Easy to get/obtain,82208
+735,3,Upper Middle Class,2018,1,Male,16,75 to 79 years,4,Very easy to get/obtain,3563
+736,3,Upper Middle Class,2018,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),222
+737,3,Upper Middle Class,2018,1,Male,17,80 or more years,1,Imposible get/obtain,293
+738,3,Upper Middle Class,2018,1,Male,17,80 or more years,2,Hard to get/obtain,24910
+739,3,Upper Middle Class,2018,1,Male,17,80 or more years,3,Easy to get/obtain,78748
+740,3,Upper Middle Class,2018,1,Male,17,80 or more years,4,Very easy to get/obtain,3316
+741,3,Upper Middle Class,2018,1,Male,17,80 or more years,5,No hard or easy get/obtain (spontaneous),2572
+742,3,Upper Middle Class,2018,2,Female,4,15 to 19 years,1,Imposible get/obtain,284
+743,3,Upper Middle Class,2018,2,Female,4,15 to 19 years,2,Hard to get/obtain,6688
+744,3,Upper Middle Class,2018,2,Female,4,15 to 19 years,3,Easy to get/obtain,60842
+745,3,Upper Middle Class,2018,2,Female,4,15 to 19 years,4,Very easy to get/obtain,6652
+746,3,Upper Middle Class,2018,2,Female,5,20 to 24 years,1,Imposible get/obtain,2103
+747,3,Upper Middle Class,2018,2,Female,5,20 to 24 years,2,Hard to get/obtain,46055
+748,3,Upper Middle Class,2018,2,Female,5,20 to 24 years,3,Easy to get/obtain,246901
+749,3,Upper Middle Class,2018,2,Female,5,20 to 24 years,4,Very easy to get/obtain,28679
+750,3,Upper Middle Class,2018,2,Female,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),5463
+751,3,Upper Middle Class,2018,2,Female,6,25 to 29 years,1,Imposible get/obtain,5199
+752,3,Upper Middle Class,2018,2,Female,6,25 to 29 years,2,Hard to get/obtain,85176
+753,3,Upper Middle Class,2018,2,Female,6,25 to 29 years,3,Easy to get/obtain,351930
+754,3,Upper Middle Class,2018,2,Female,6,25 to 29 years,4,Very easy to get/obtain,42059
+755,3,Upper Middle Class,2018,2,Female,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),3996
+756,3,Upper Middle Class,2018,2,Female,7,30 to 34 years,1,Imposible get/obtain,7521
+757,3,Upper Middle Class,2018,2,Female,7,30 to 34 years,2,Hard to get/obtain,115011
+758,3,Upper Middle Class,2018,2,Female,7,30 to 34 years,3,Easy to get/obtain,389003
+759,3,Upper Middle Class,2018,2,Female,7,30 to 34 years,4,Very easy to get/obtain,41738
+760,3,Upper Middle Class,2018,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),5352
+761,3,Upper Middle Class,2018,2,Female,8,35 to 39 years,1,Imposible get/obtain,12322
+762,3,Upper Middle Class,2018,2,Female,8,35 to 39 years,2,Hard to get/obtain,105266
+763,3,Upper Middle Class,2018,2,Female,8,35 to 39 years,3,Easy to get/obtain,344708
+764,3,Upper Middle Class,2018,2,Female,8,35 to 39 years,4,Very easy to get/obtain,29247
+765,3,Upper Middle Class,2018,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),6120
+766,3,Upper Middle Class,2018,2,Female,9,40 to 44 years,1,Imposible get/obtain,18497
+767,3,Upper Middle Class,2018,2,Female,9,40 to 44 years,2,Hard to get/obtain,146210
+768,3,Upper Middle Class,2018,2,Female,9,40 to 44 years,3,Easy to get/obtain,354511
+769,3,Upper Middle Class,2018,2,Female,9,40 to 44 years,4,Very easy to get/obtain,27961
+770,3,Upper Middle Class,2018,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),4363
+771,3,Upper Middle Class,2018,2,Female,10,45 to 49 years,1,Imposible get/obtain,7023
+772,3,Upper Middle Class,2018,2,Female,10,45 to 49 years,2,Hard to get/obtain,141954
+773,3,Upper Middle Class,2018,2,Female,10,45 to 49 years,3,Easy to get/obtain,378911
+774,3,Upper Middle Class,2018,2,Female,10,45 to 49 years,4,Very easy to get/obtain,38184
+775,3,Upper Middle Class,2018,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),9489
+776,3,Upper Middle Class,2018,2,Female,11,50 to 54 years,1,Imposible get/obtain,12695
+777,3,Upper Middle Class,2018,2,Female,11,50 to 54 years,2,Hard to get/obtain,122012
+778,3,Upper Middle Class,2018,2,Female,11,50 to 54 years,3,Easy to get/obtain,356205
+779,3,Upper Middle Class,2018,2,Female,11,50 to 54 years,4,Very easy to get/obtain,29162
+780,3,Upper Middle Class,2018,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),5994
+781,3,Upper Middle Class,2018,2,Female,12,55 to 59 years,1,Imposible get/obtain,11507
+782,3,Upper Middle Class,2018,2,Female,12,55 to 59 years,2,Hard to get/obtain,97918
+783,3,Upper Middle Class,2018,2,Female,12,55 to 59 years,3,Easy to get/obtain,288920
+784,3,Upper Middle Class,2018,2,Female,12,55 to 59 years,4,Very easy to get/obtain,23224
+785,3,Upper Middle Class,2018,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),9624
+786,3,Upper Middle Class,2018,2,Female,13,60 to 64 years,1,Imposible get/obtain,10795
+787,3,Upper Middle Class,2018,2,Female,13,60 to 64 years,2,Hard to get/obtain,93851
+788,3,Upper Middle Class,2018,2,Female,13,60 to 64 years,3,Easy to get/obtain,217934
+789,3,Upper Middle Class,2018,2,Female,13,60 to 64 years,4,Very easy to get/obtain,18291
+790,3,Upper Middle Class,2018,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),5319
+791,3,Upper Middle Class,2018,2,Female,14,65 to 69 years,1,Imposible get/obtain,2682
+792,3,Upper Middle Class,2018,2,Female,14,65 to 69 years,2,Hard to get/obtain,65129
+793,3,Upper Middle Class,2018,2,Female,14,65 to 69 years,3,Easy to get/obtain,137689
+794,3,Upper Middle Class,2018,2,Female,14,65 to 69 years,4,Very easy to get/obtain,7291
+795,3,Upper Middle Class,2018,2,Female,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),2023
+796,3,Upper Middle Class,2018,2,Female,15,70 to 74 years,1,Imposible get/obtain,6904
+797,3,Upper Middle Class,2018,2,Female,15,70 to 74 years,2,Hard to get/obtain,43198
+798,3,Upper Middle Class,2018,2,Female,15,70 to 74 years,3,Easy to get/obtain,73425
+799,3,Upper Middle Class,2018,2,Female,15,70 to 74 years,4,Very easy to get/obtain,7953
+800,3,Upper Middle Class,2018,2,Female,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),1353
+801,3,Upper Middle Class,2018,2,Female,16,75 to 79 years,1,Imposible get/obtain,1804
+802,3,Upper Middle Class,2018,2,Female,16,75 to 79 years,2,Hard to get/obtain,22107
+803,3,Upper Middle Class,2018,2,Female,16,75 to 79 years,3,Easy to get/obtain,46630
+804,3,Upper Middle Class,2018,2,Female,16,75 to 79 years,4,Very easy to get/obtain,5629
+805,3,Upper Middle Class,2018,2,Female,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),1726
+806,3,Upper Middle Class,2018,2,Female,17,80 or more years,1,Imposible get/obtain,1272
+807,3,Upper Middle Class,2018,2,Female,17,80 or more years,2,Hard to get/obtain,6751
+808,3,Upper Middle Class,2018,2,Female,17,80 or more years,3,Easy to get/obtain,35257
+809,3,Upper Middle Class,2018,2,Female,17,80 or more years,4,Very easy to get/obtain,1170
+810,3,Upper Middle Class,2018,2,Female,17,80 or more years,5,No hard or easy get/obtain (spontaneous),463
+811,4,Upper Class,2016,1,Male,4,15 to 19 years,2,Hard to get/obtain,2780
+812,4,Upper Class,2016,1,Male,4,15 to 19 years,3,Easy to get/obtain,27762
+813,4,Upper Class,2016,1,Male,4,15 to 19 years,4,Very easy to get/obtain,3094
+814,4,Upper Class,2016,1,Male,5,20 to 24 years,1,Imposible get/obtain,1545
+815,4,Upper Class,2016,1,Male,5,20 to 24 years,2,Hard to get/obtain,17117
+816,4,Upper Class,2016,1,Male,5,20 to 24 years,3,Easy to get/obtain,103024
+817,4,Upper Class,2016,1,Male,5,20 to 24 years,4,Very easy to get/obtain,15788
+818,4,Upper Class,2016,1,Male,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),1913
+819,4,Upper Class,2016,1,Male,6,25 to 29 years,1,Imposible get/obtain,4449
+820,4,Upper Class,2016,1,Male,6,25 to 29 years,2,Hard to get/obtain,38479
+821,4,Upper Class,2016,1,Male,6,25 to 29 years,3,Easy to get/obtain,168807
+822,4,Upper Class,2016,1,Male,6,25 to 29 years,4,Very easy to get/obtain,21851
+823,4,Upper Class,2016,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),1763
+824,4,Upper Class,2016,1,Male,7,30 to 34 years,1,Imposible get/obtain,833
+825,4,Upper Class,2016,1,Male,7,30 to 34 years,2,Hard to get/obtain,31468
+826,4,Upper Class,2016,1,Male,7,30 to 34 years,3,Easy to get/obtain,184486
+827,4,Upper Class,2016,1,Male,7,30 to 34 years,4,Very easy to get/obtain,20221
+828,4,Upper Class,2016,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),912
+829,4,Upper Class,2016,1,Male,8,35 to 39 years,1,Imposible get/obtain,3765
+830,4,Upper Class,2016,1,Male,8,35 to 39 years,2,Hard to get/obtain,34642
+831,4,Upper Class,2016,1,Male,8,35 to 39 years,3,Easy to get/obtain,216637
+832,4,Upper Class,2016,1,Male,8,35 to 39 years,4,Very easy to get/obtain,26354
+833,4,Upper Class,2016,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),5310
+834,4,Upper Class,2016,1,Male,9,40 to 44 years,1,Imposible get/obtain,6614
+835,4,Upper Class,2016,1,Male,9,40 to 44 years,2,Hard to get/obtain,69929
+836,4,Upper Class,2016,1,Male,9,40 to 44 years,3,Easy to get/obtain,223509
+837,4,Upper Class,2016,1,Male,9,40 to 44 years,4,Very easy to get/obtain,20234
+838,4,Upper Class,2016,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),1588
+839,4,Upper Class,2016,1,Male,10,45 to 49 years,1,Imposible get/obtain,1784
+840,4,Upper Class,2016,1,Male,10,45 to 49 years,2,Hard to get/obtain,50395
+841,4,Upper Class,2016,1,Male,10,45 to 49 years,3,Easy to get/obtain,179884
+842,4,Upper Class,2016,1,Male,10,45 to 49 years,4,Very easy to get/obtain,13843
+843,4,Upper Class,2016,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),774
+844,4,Upper Class,2016,1,Male,11,50 to 54 years,1,Imposible get/obtain,3050
+845,4,Upper Class,2016,1,Male,11,50 to 54 years,2,Hard to get/obtain,41496
+846,4,Upper Class,2016,1,Male,11,50 to 54 years,3,Easy to get/obtain,146441
+847,4,Upper Class,2016,1,Male,11,50 to 54 years,4,Very easy to get/obtain,13435
+848,4,Upper Class,2016,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),4683
+849,4,Upper Class,2016,1,Male,12,55 to 59 years,1,Imposible get/obtain,5928
+850,4,Upper Class,2016,1,Male,12,55 to 59 years,2,Hard to get/obtain,35734
+851,4,Upper Class,2016,1,Male,12,55 to 59 years,3,Easy to get/obtain,110122
+852,4,Upper Class,2016,1,Male,12,55 to 59 years,4,Very easy to get/obtain,11354
+853,4,Upper Class,2016,1,Male,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),2898
+854,4,Upper Class,2016,1,Male,13,60 to 64 years,1,Imposible get/obtain,1159
+855,4,Upper Class,2016,1,Male,13,60 to 64 years,2,Hard to get/obtain,20645
+856,4,Upper Class,2016,1,Male,13,60 to 64 years,3,Easy to get/obtain,99593
+857,4,Upper Class,2016,1,Male,13,60 to 64 years,4,Very easy to get/obtain,10112
+858,4,Upper Class,2016,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),6056
+859,4,Upper Class,2016,1,Male,14,65 to 69 years,1,Imposible get/obtain,3656
+860,4,Upper Class,2016,1,Male,14,65 to 69 years,2,Hard to get/obtain,25888
+861,4,Upper Class,2016,1,Male,14,65 to 69 years,3,Easy to get/obtain,73431
+862,4,Upper Class,2016,1,Male,14,65 to 69 years,4,Very easy to get/obtain,7974
+863,4,Upper Class,2016,1,Male,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),2607
+864,4,Upper Class,2016,1,Male,15,70 to 74 years,1,Imposible get/obtain,6224
+865,4,Upper Class,2016,1,Male,15,70 to 74 years,2,Hard to get/obtain,9419
+866,4,Upper Class,2016,1,Male,15,70 to 74 years,3,Easy to get/obtain,56013
+867,4,Upper Class,2016,1,Male,15,70 to 74 years,4,Very easy to get/obtain,4198
+868,4,Upper Class,2016,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),3244
+869,4,Upper Class,2016,1,Male,16,75 to 79 years,2,Hard to get/obtain,11881
+870,4,Upper Class,2016,1,Male,16,75 to 79 years,3,Easy to get/obtain,31650
+871,4,Upper Class,2016,1,Male,16,75 to 79 years,4,Very easy to get/obtain,1625
+872,4,Upper Class,2016,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),1207
+873,4,Upper Class,2016,1,Male,17,80 or more years,1,Imposible get/obtain,3524
+874,4,Upper Class,2016,1,Male,17,80 or more years,2,Hard to get/obtain,4840
+875,4,Upper Class,2016,1,Male,17,80 or more years,3,Easy to get/obtain,33807
+876,4,Upper Class,2016,1,Male,17,80 or more years,4,Very easy to get/obtain,4192
+877,4,Upper Class,2016,2,Female,4,15 to 19 years,2,Hard to get/obtain,1920
+878,4,Upper Class,2016,2,Female,4,15 to 19 years,3,Easy to get/obtain,14334
+879,4,Upper Class,2016,2,Female,4,15 to 19 years,4,Very easy to get/obtain,1011
+880,4,Upper Class,2016,2,Female,5,20 to 24 years,1,Imposible get/obtain,4907
+881,4,Upper Class,2016,2,Female,5,20 to 24 years,2,Hard to get/obtain,5445
+882,4,Upper Class,2016,2,Female,5,20 to 24 years,3,Easy to get/obtain,82634
+883,4,Upper Class,2016,2,Female,5,20 to 24 years,4,Very easy to get/obtain,17058
+884,4,Upper Class,2016,2,Female,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),3401
+885,4,Upper Class,2016,2,Female,6,25 to 29 years,1,Imposible get/obtain,3226
+886,4,Upper Class,2016,2,Female,6,25 to 29 years,2,Hard to get/obtain,31617
+887,4,Upper Class,2016,2,Female,6,25 to 29 years,3,Easy to get/obtain,154246
+888,4,Upper Class,2016,2,Female,6,25 to 29 years,4,Very easy to get/obtain,29775
+889,4,Upper Class,2016,2,Female,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),1816
+890,4,Upper Class,2016,2,Female,7,30 to 34 years,1,Imposible get/obtain,1006
+891,4,Upper Class,2016,2,Female,7,30 to 34 years,2,Hard to get/obtain,48168
+892,4,Upper Class,2016,2,Female,7,30 to 34 years,3,Easy to get/obtain,187844
+893,4,Upper Class,2016,2,Female,7,30 to 34 years,4,Very easy to get/obtain,24792
+894,4,Upper Class,2016,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),6207
+895,4,Upper Class,2016,2,Female,8,35 to 39 years,1,Imposible get/obtain,4825
+896,4,Upper Class,2016,2,Female,8,35 to 39 years,2,Hard to get/obtain,63610
+897,4,Upper Class,2016,2,Female,8,35 to 39 years,3,Easy to get/obtain,211847
+898,4,Upper Class,2016,2,Female,8,35 to 39 years,4,Very easy to get/obtain,31443
+899,4,Upper Class,2016,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),9703
+900,4,Upper Class,2016,2,Female,9,40 to 44 years,1,Imposible get/obtain,10305
+901,4,Upper Class,2016,2,Female,9,40 to 44 years,2,Hard to get/obtain,86697
+902,4,Upper Class,2016,2,Female,9,40 to 44 years,3,Easy to get/obtain,256578
+903,4,Upper Class,2016,2,Female,9,40 to 44 years,4,Very easy to get/obtain,20704
+904,4,Upper Class,2016,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),1912
+905,4,Upper Class,2016,2,Female,10,45 to 49 years,1,Imposible get/obtain,1535
+906,4,Upper Class,2016,2,Female,10,45 to 49 years,2,Hard to get/obtain,56624
+907,4,Upper Class,2016,2,Female,10,45 to 49 years,3,Easy to get/obtain,192435
+908,4,Upper Class,2016,2,Female,10,45 to 49 years,4,Very easy to get/obtain,12979
+909,4,Upper Class,2016,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),1383
+910,4,Upper Class,2016,2,Female,11,50 to 54 years,1,Imposible get/obtain,8965
+911,4,Upper Class,2016,2,Female,11,50 to 54 years,2,Hard to get/obtain,50686
+912,4,Upper Class,2016,2,Female,11,50 to 54 years,3,Easy to get/obtain,195538
+913,4,Upper Class,2016,2,Female,11,50 to 54 years,4,Very easy to get/obtain,13000
+914,4,Upper Class,2016,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),6011
+915,4,Upper Class,2016,2,Female,12,55 to 59 years,1,Imposible get/obtain,3665
+916,4,Upper Class,2016,2,Female,12,55 to 59 years,2,Hard to get/obtain,30180
+917,4,Upper Class,2016,2,Female,12,55 to 59 years,3,Easy to get/obtain,109647
+918,4,Upper Class,2016,2,Female,12,55 to 59 years,4,Very easy to get/obtain,5959
+919,4,Upper Class,2016,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),2955
+920,4,Upper Class,2016,2,Female,13,60 to 64 years,1,Imposible get/obtain,4185
+921,4,Upper Class,2016,2,Female,13,60 to 64 years,2,Hard to get/obtain,28095
+922,4,Upper Class,2016,2,Female,13,60 to 64 years,3,Easy to get/obtain,92009
+923,4,Upper Class,2016,2,Female,13,60 to 64 years,4,Very easy to get/obtain,3135
+924,4,Upper Class,2016,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),2169
+925,4,Upper Class,2016,2,Female,14,65 to 69 years,1,Imposible get/obtain,7318
+926,4,Upper Class,2016,2,Female,14,65 to 69 years,2,Hard to get/obtain,25422
+927,4,Upper Class,2016,2,Female,14,65 to 69 years,3,Easy to get/obtain,55208
+928,4,Upper Class,2016,2,Female,14,65 to 69 years,4,Very easy to get/obtain,10766
+929,4,Upper Class,2016,2,Female,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),988
+930,4,Upper Class,2016,2,Female,15,70 to 74 years,1,Imposible get/obtain,338
+931,4,Upper Class,2016,2,Female,15,70 to 74 years,2,Hard to get/obtain,19380
+932,4,Upper Class,2016,2,Female,15,70 to 74 years,3,Easy to get/obtain,40529
+933,4,Upper Class,2016,2,Female,15,70 to 74 years,4,Very easy to get/obtain,3003
+934,4,Upper Class,2016,2,Female,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),543
+935,4,Upper Class,2016,2,Female,16,75 to 79 years,1,Imposible get/obtain,3493
+936,4,Upper Class,2016,2,Female,16,75 to 79 years,2,Hard to get/obtain,14480
+937,4,Upper Class,2016,2,Female,16,75 to 79 years,3,Easy to get/obtain,22807
+938,4,Upper Class,2016,2,Female,16,75 to 79 years,4,Very easy to get/obtain,4974
+939,4,Upper Class,2016,2,Female,17,80 or more years,2,Hard to get/obtain,10634
+940,4,Upper Class,2016,2,Female,17,80 or more years,3,Easy to get/obtain,17043
+941,4,Upper Class,2016,2,Female,17,80 or more years,4,Very easy to get/obtain,128
+942,4,Upper Class,2018,1,Male,4,15 to 19 years,2,Hard to get/obtain,694
+943,4,Upper Class,2018,1,Male,4,15 to 19 years,3,Easy to get/obtain,23316
+944,4,Upper Class,2018,1,Male,4,15 to 19 years,4,Very easy to get/obtain,2646
+945,4,Upper Class,2018,1,Male,4,15 to 19 years,5,No hard or easy get/obtain (spontaneous),135
+946,4,Upper Class,2018,1,Male,5,20 to 24 years,1,Imposible get/obtain,1701
+947,4,Upper Class,2018,1,Male,5,20 to 24 years,2,Hard to get/obtain,16565
+948,4,Upper Class,2018,1,Male,5,20 to 24 years,3,Easy to get/obtain,113110
+949,4,Upper Class,2018,1,Male,5,20 to 24 years,4,Very easy to get/obtain,17870
+950,4,Upper Class,2018,1,Male,6,25 to 29 years,1,Imposible get/obtain,649
+951,4,Upper Class,2018,1,Male,6,25 to 29 years,2,Hard to get/obtain,29653
+952,4,Upper Class,2018,1,Male,6,25 to 29 years,3,Easy to get/obtain,167642
+953,4,Upper Class,2018,1,Male,6,25 to 29 years,4,Very easy to get/obtain,35058
+954,4,Upper Class,2018,1,Male,6,25 to 29 years,5,No hard or easy get/obtain (spontaneous),2592
+955,4,Upper Class,2018,1,Male,7,30 to 34 years,1,Imposible get/obtain,4646
+956,4,Upper Class,2018,1,Male,7,30 to 34 years,2,Hard to get/obtain,33782
+957,4,Upper Class,2018,1,Male,7,30 to 34 years,3,Easy to get/obtain,138572
+958,4,Upper Class,2018,1,Male,7,30 to 34 years,4,Very easy to get/obtain,21851
+959,4,Upper Class,2018,1,Male,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),5257
+960,4,Upper Class,2018,1,Male,8,35 to 39 years,1,Imposible get/obtain,2440
+961,4,Upper Class,2018,1,Male,8,35 to 39 years,2,Hard to get/obtain,44880
+962,4,Upper Class,2018,1,Male,8,35 to 39 years,3,Easy to get/obtain,152091
+963,4,Upper Class,2018,1,Male,8,35 to 39 years,4,Very easy to get/obtain,21578
+964,4,Upper Class,2018,1,Male,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),11436
+965,4,Upper Class,2018,1,Male,9,40 to 44 years,1,Imposible get/obtain,2600
+966,4,Upper Class,2018,1,Male,9,40 to 44 years,2,Hard to get/obtain,38775
+967,4,Upper Class,2018,1,Male,9,40 to 44 years,3,Easy to get/obtain,180689
+968,4,Upper Class,2018,1,Male,9,40 to 44 years,4,Very easy to get/obtain,18368
+969,4,Upper Class,2018,1,Male,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),17290
+970,4,Upper Class,2018,1,Male,10,45 to 49 years,1,Imposible get/obtain,2561
+971,4,Upper Class,2018,1,Male,10,45 to 49 years,2,Hard to get/obtain,37396
+972,4,Upper Class,2018,1,Male,10,45 to 49 years,3,Easy to get/obtain,190379
+973,4,Upper Class,2018,1,Male,10,45 to 49 years,4,Very easy to get/obtain,11733
+974,4,Upper Class,2018,1,Male,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),5600
+975,4,Upper Class,2018,1,Male,11,50 to 54 years,1,Imposible get/obtain,12849
+976,4,Upper Class,2018,1,Male,11,50 to 54 years,2,Hard to get/obtain,36612
+977,4,Upper Class,2018,1,Male,11,50 to 54 years,3,Easy to get/obtain,162417
+978,4,Upper Class,2018,1,Male,11,50 to 54 years,4,Very easy to get/obtain,16285
+979,4,Upper Class,2018,1,Male,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),1367
+980,4,Upper Class,2018,1,Male,12,55 to 59 years,1,Imposible get/obtain,2338
+981,4,Upper Class,2018,1,Male,12,55 to 59 years,2,Hard to get/obtain,34451
+982,4,Upper Class,2018,1,Male,12,55 to 59 years,3,Easy to get/obtain,129017
+983,4,Upper Class,2018,1,Male,12,55 to 59 years,4,Very easy to get/obtain,10512
+984,4,Upper Class,2018,1,Male,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),2083
+985,4,Upper Class,2018,1,Male,13,60 to 64 years,1,Imposible get/obtain,2640
+986,4,Upper Class,2018,1,Male,13,60 to 64 years,2,Hard to get/obtain,28491
+987,4,Upper Class,2018,1,Male,13,60 to 64 years,3,Easy to get/obtain,108363
+988,4,Upper Class,2018,1,Male,13,60 to 64 years,4,Very easy to get/obtain,11983
+989,4,Upper Class,2018,1,Male,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),16072
+990,4,Upper Class,2018,1,Male,14,65 to 69 years,1,Imposible get/obtain,1804
+991,4,Upper Class,2018,1,Male,14,65 to 69 years,2,Hard to get/obtain,25857
+992,4,Upper Class,2018,1,Male,14,65 to 69 years,3,Easy to get/obtain,92174
+993,4,Upper Class,2018,1,Male,14,65 to 69 years,4,Very easy to get/obtain,4413
+994,4,Upper Class,2018,1,Male,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),1840
+995,4,Upper Class,2018,1,Male,15,70 to 74 years,1,Imposible get/obtain,4579
+996,4,Upper Class,2018,1,Male,15,70 to 74 years,2,Hard to get/obtain,14415
+997,4,Upper Class,2018,1,Male,15,70 to 74 years,3,Easy to get/obtain,53685
+998,4,Upper Class,2018,1,Male,15,70 to 74 years,4,Very easy to get/obtain,2904
+999,4,Upper Class,2018,1,Male,15,70 to 74 years,5,No hard or easy get/obtain (spontaneous),6149
+1000,4,Upper Class,2018,1,Male,16,75 to 79 years,1,Imposible get/obtain,1521
+1001,4,Upper Class,2018,1,Male,16,75 to 79 years,2,Hard to get/obtain,18938
+1002,4,Upper Class,2018,1,Male,16,75 to 79 years,3,Easy to get/obtain,26757
+1003,4,Upper Class,2018,1,Male,16,75 to 79 years,4,Very easy to get/obtain,7760
+1004,4,Upper Class,2018,1,Male,16,75 to 79 years,5,No hard or easy get/obtain (spontaneous),678
+1005,4,Upper Class,2018,1,Male,17,80 or more years,2,Hard to get/obtain,5636
+1006,4,Upper Class,2018,1,Male,17,80 or more years,3,Easy to get/obtain,27640
+1007,4,Upper Class,2018,1,Male,17,80 or more years,4,Very easy to get/obtain,955
+1008,4,Upper Class,2018,2,Female,4,15 to 19 years,2,Hard to get/obtain,1374
+1009,4,Upper Class,2018,2,Female,4,15 to 19 years,3,Easy to get/obtain,17676
+1010,4,Upper Class,2018,2,Female,4,15 to 19 years,4,Very easy to get/obtain,2233
+1011,4,Upper Class,2018,2,Female,5,20 to 24 years,1,Imposible get/obtain,797
+1012,4,Upper Class,2018,2,Female,5,20 to 24 years,2,Hard to get/obtain,14632
+1013,4,Upper Class,2018,2,Female,5,20 to 24 years,3,Easy to get/obtain,92068
+1014,4,Upper Class,2018,2,Female,5,20 to 24 years,4,Very easy to get/obtain,9495
+1015,4,Upper Class,2018,2,Female,5,20 to 24 years,5,No hard or easy get/obtain (spontaneous),1046
+1016,4,Upper Class,2018,2,Female,6,25 to 29 years,1,Imposible get/obtain,2050
+1017,4,Upper Class,2018,2,Female,6,25 to 29 years,2,Hard to get/obtain,32990
+1018,4,Upper Class,2018,2,Female,6,25 to 29 years,3,Easy to get/obtain,150193
+1019,4,Upper Class,2018,2,Female,6,25 to 29 years,4,Very easy to get/obtain,34929
+1020,4,Upper Class,2018,2,Female,7,30 to 34 years,1,Imposible get/obtain,1074
+1021,4,Upper Class,2018,2,Female,7,30 to 34 years,2,Hard to get/obtain,34982
+1022,4,Upper Class,2018,2,Female,7,30 to 34 years,3,Easy to get/obtain,158163
+1023,4,Upper Class,2018,2,Female,7,30 to 34 years,4,Very easy to get/obtain,22584
+1024,4,Upper Class,2018,2,Female,7,30 to 34 years,5,No hard or easy get/obtain (spontaneous),1785
+1025,4,Upper Class,2018,2,Female,8,35 to 39 years,1,Imposible get/obtain,2940
+1026,4,Upper Class,2018,2,Female,8,35 to 39 years,2,Hard to get/obtain,50843
+1027,4,Upper Class,2018,2,Female,8,35 to 39 years,3,Easy to get/obtain,191614
+1028,4,Upper Class,2018,2,Female,8,35 to 39 years,4,Very easy to get/obtain,25344
+1029,4,Upper Class,2018,2,Female,8,35 to 39 years,5,No hard or easy get/obtain (spontaneous),8755
+1030,4,Upper Class,2018,2,Female,9,40 to 44 years,1,Imposible get/obtain,1610
+1031,4,Upper Class,2018,2,Female,9,40 to 44 years,2,Hard to get/obtain,64822
+1032,4,Upper Class,2018,2,Female,9,40 to 44 years,3,Easy to get/obtain,233133
+1033,4,Upper Class,2018,2,Female,9,40 to 44 years,4,Very easy to get/obtain,24093
+1034,4,Upper Class,2018,2,Female,9,40 to 44 years,5,No hard or easy get/obtain (spontaneous),1262
+1035,4,Upper Class,2018,2,Female,10,45 to 49 years,1,Imposible get/obtain,3454
+1036,4,Upper Class,2018,2,Female,10,45 to 49 years,2,Hard to get/obtain,73623
+1037,4,Upper Class,2018,2,Female,10,45 to 49 years,3,Easy to get/obtain,182339
+1038,4,Upper Class,2018,2,Female,10,45 to 49 years,4,Very easy to get/obtain,11383
+1039,4,Upper Class,2018,2,Female,10,45 to 49 years,5,No hard or easy get/obtain (spontaneous),6702
+1040,4,Upper Class,2018,2,Female,11,50 to 54 years,1,Imposible get/obtain,3020
+1041,4,Upper Class,2018,2,Female,11,50 to 54 years,2,Hard to get/obtain,70893
+1042,4,Upper Class,2018,2,Female,11,50 to 54 years,3,Easy to get/obtain,165484
+1043,4,Upper Class,2018,2,Female,11,50 to 54 years,4,Very easy to get/obtain,10145
+1044,4,Upper Class,2018,2,Female,11,50 to 54 years,5,No hard or easy get/obtain (spontaneous),3637
+1045,4,Upper Class,2018,2,Female,12,55 to 59 years,1,Imposible get/obtain,3325
+1046,4,Upper Class,2018,2,Female,12,55 to 59 years,2,Hard to get/obtain,57916
+1047,4,Upper Class,2018,2,Female,12,55 to 59 years,3,Easy to get/obtain,148773
+1048,4,Upper Class,2018,2,Female,12,55 to 59 years,4,Very easy to get/obtain,9597
+1049,4,Upper Class,2018,2,Female,12,55 to 59 years,5,No hard or easy get/obtain (spontaneous),3136
+1050,4,Upper Class,2018,2,Female,13,60 to 64 years,1,Imposible get/obtain,132
+1051,4,Upper Class,2018,2,Female,13,60 to 64 years,2,Hard to get/obtain,33841
+1052,4,Upper Class,2018,2,Female,13,60 to 64 years,3,Easy to get/obtain,90175
+1053,4,Upper Class,2018,2,Female,13,60 to 64 years,4,Very easy to get/obtain,5184
+1054,4,Upper Class,2018,2,Female,13,60 to 64 years,5,No hard or easy get/obtain (spontaneous),6275
+1055,4,Upper Class,2018,2,Female,14,65 to 69 years,2,Hard to get/obtain,12666
+1056,4,Upper Class,2018,2,Female,14,65 to 69 years,3,Easy to get/obtain,60866
+1057,4,Upper Class,2018,2,Female,14,65 to 69 years,4,Very easy to get/obtain,4520
+1058,4,Upper Class,2018,2,Female,14,65 to 69 years,5,No hard or easy get/obtain (spontaneous),7344
+1059,4,Upper Class,2018,2,Female,15,70 to 74 years,1,Imposible get/obtain,1551
+1060,4,Upper Class,2018,2,Female,15,70 to 74 years,2,Hard to get/obtain,9673
+1061,4,Upper Class,2018,2,Female,15,70 to 74 years,3,Easy to get/obtain,38305
+1062,4,Upper Class,2018,2,Female,15,70 to 74 years,4,Very easy to get/obtain,5968
+1063,4,Upper Class,2018,2,Female,16,75 to 79 years,1,Imposible get/obtain,369
+1064,4,Upper Class,2018,2,Female,16,75 to 79 years,2,Hard to get/obtain,5975
+1065,4,Upper Class,2018,2,Female,16,75 to 79 years,3,Easy to get/obtain,21263
+1066,4,Upper Class,2018,2,Female,16,75 to 79 years,4,Very easy to get/obtain,545
+1067,4,Upper Class,2018,2,Female,17,80 or more years,1,Imposible get/obtain,1973
+1068,4,Upper Class,2018,2,Female,17,80 or more years,2,Hard to get/obtain,9958
+1069,4,Upper Class,2018,2,Female,17,80 or more years,3,Easy to get/obtain,15268
+1070,4,Upper Class,2018,2,Female,17,80 or more years,4,Very easy to get/obtain,5402

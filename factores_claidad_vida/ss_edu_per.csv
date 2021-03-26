@@ -1,0 +1,953 @@
+Socioeconomic Status ID,Socioeconomic Status,Sex ID,Sex,Age Range ID,Age Range,Academic Degree ID,Academic Degree,Population,% Population
+1,Lower Class,1,Male,4,15 to 19 years,0,Undefined,127,0.000274914
+1,Lower Class,1,Male,4,15 to 19 years,2,Primary School,14517,0.031424626
+1,Lower Class,1,Male,4,15 to 19 years,3,Middle School,43729,0.09465919
+1,Lower Class,1,Male,4,15 to 19 years,4,High School  or General Baccalaureate,48267,0.104482498
+1,Lower Class,1,Male,4,15 to 19 years,8,"Technical or Comercial Studies, and Finished High School",453,0.000980599
+1,Lower Class,1,Male,4,15 to 19 years,11,Bachelor's Degree,2151,0.004656222
+1,Lower Class,1,Male,5,20 to 24 years,0,Undefined,6453,0.013968665
+1,Lower Class,1,Male,5,20 to 24 years,1,Preschool or Kindergarden,373,0.000807425
+1,Lower Class,1,Male,5,20 to 24 years,2,Primary School,59521,0.12884378
+1,Lower Class,1,Male,5,20 to 24 years,3,Middle School,173654,0.375904938
+1,Lower Class,1,Male,5,20 to 24 years,4,High School  or General Baccalaureate,152005,0.329041831
+1,Lower Class,1,Male,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",4416,0.009559217
+1,Lower Class,1,Male,5,20 to 24 years,10,Normal Bachelor's Degree,205,0.000443759
+1,Lower Class,1,Male,5,20 to 24 years,11,Bachelor's Degree,40864,0.088457389
+1,Lower Class,1,Male,5,20 to 24 years,13,Master Degree,2078,0.0044982
+1,Lower Class,1,Male,5,20 to 24 years,14,PhD,115,0.000248938
+1,Lower Class,1,Male,6,25 to 29 years,0,Undefined,4222,0.009139269
+1,Lower Class,1,Male,6,25 to 29 years,2,Primary School,78373,0.169652284
+1,Lower Class,1,Male,6,25 to 29 years,3,Middle School,216819,0.46934325
+1,Lower Class,1,Male,6,25 to 29 years,4,High School  or General Baccalaureate,140415,0.303953217
+1,Lower Class,1,Male,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",6375,0.01379982
+1,Lower Class,1,Male,6,25 to 29 years,10,Normal Bachelor's Degree,774,0.001675461
+1,Lower Class,1,Male,6,25 to 29 years,11,Bachelor's Degree,49267,0.106647175
+1,Lower Class,1,Male,6,25 to 29 years,13,Master Degree,546,0.001181914
+1,Lower Class,1,Male,6,25 to 29 years,14,PhD,74,0.000160186
+1,Lower Class,1,Male,7,30 to 34 years,0,Undefined,7926,0.017157235
+1,Lower Class,1,Male,7,30 to 34 years,2,Primary School,121030,0.26199094
+1,Lower Class,1,Male,7,30 to 34 years,3,Middle School,207009,0.448107762
+1,Lower Class,1,Male,7,30 to 34 years,4,High School  or General Baccalaureate,112116,0.242695003
+1,Lower Class,1,Male,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",4759,0.010301701
+1,Lower Class,1,Male,7,30 to 34 years,10,Normal Bachelor's Degree,452,0.000978434
+1,Lower Class,1,Male,7,30 to 34 years,11,Bachelor's Degree,40904,0.088543976
+1,Lower Class,1,Male,7,30 to 34 years,13,Master Degree,1066,0.002307546
+1,Lower Class,1,Male,7,30 to 34 years,14,PhD,1473,0.00318857
+1,Lower Class,1,Male,8,35 to 39 years,0,Undefined,13244,0.028668991
+1,Lower Class,1,Male,8,35 to 39 years,1,Preschool or Kindergarden,663,0.001435181
+1,Lower Class,1,Male,8,35 to 39 years,2,Primary School,181452,0.392785095
+1,Lower Class,1,Male,8,35 to 39 years,3,Middle School,194676,0.421410792
+1,Lower Class,1,Male,8,35 to 39 years,4,High School  or General Baccalaureate,61995,0.134199193
+1,Lower Class,1,Male,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",5737,0.012418756
+1,Lower Class,1,Male,8,35 to 39 years,10,Normal Bachelor's Degree,2338,0.005061016
+1,Lower Class,1,Male,8,35 to 39 years,11,Bachelor's Degree,32320,0.069962383
+1,Lower Class,1,Male,8,35 to 39 years,13,Master Degree,2201,0.004764456
+1,Lower Class,1,Male,9,40 to 44 years,0,Undefined,14294,0.030941903
+1,Lower Class,1,Male,9,40 to 44 years,1,Preschool or Kindergarden,99,0.000214303
+1,Lower Class,1,Male,9,40 to 44 years,2,Primary School,183722,0.397698913
+1,Lower Class,1,Male,9,40 to 44 years,3,Middle School,168466,0.36467459
+1,Lower Class,1,Male,9,40 to 44 years,4,High School  or General Baccalaureate,51379,0.111218975
+1,Lower Class,1,Male,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",8116,0.017568524
+1,Lower Class,1,Male,9,40 to 44 years,10,Normal Bachelor's Degree,3020,0.006537327
+1,Lower Class,1,Male,9,40 to 44 years,11,Bachelor's Degree,25349,0.054872415
+1,Lower Class,1,Male,9,40 to 44 years,13,Master Degree,2666,0.005771031
+1,Lower Class,1,Male,10,45 to 49 years,0,Undefined,14537,0.031467919
+1,Lower Class,1,Male,10,45 to 49 years,2,Primary School,153000,0.331195685
+1,Lower Class,1,Male,10,45 to 49 years,3,Middle School,137421,0.297472172
+1,Lower Class,1,Male,10,45 to 49 years,4,High School  or General Baccalaureate,44570,0.096479684
+1,Lower Class,1,Male,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",5034,0.010896987
+1,Lower Class,1,Male,10,45 to 49 years,10,Normal Bachelor's Degree,3211,0.00695078
+1,Lower Class,1,Male,10,45 to 49 years,11,Bachelor's Degree,18876,0.040860456
+1,Lower Class,1,Male,10,45 to 49 years,13,Master Degree,1969,0.00426225
+1,Lower Class,1,Male,11,50 to 54 years,0,Undefined,18849,0.04080201
+1,Lower Class,1,Male,11,50 to 54 years,1,Preschool or Kindergarden,846,0.001831317
+1,Lower Class,1,Male,11,50 to 54 years,2,Primary School,131009,0.283592258
+1,Lower Class,1,Male,11,50 to 54 years,3,Middle School,81306,0.176001284
+1,Lower Class,1,Male,11,50 to 54 years,4,High School  or General Baccalaureate,26913,0.05825797
+1,Lower Class,1,Male,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",3644,0.007888085
+1,Lower Class,1,Male,11,50 to 54 years,10,Normal Bachelor's Degree,4856,0.010511675
+1,Lower Class,1,Male,11,50 to 54 years,11,Bachelor's Degree,20941,0.045330515
+1,Lower Class,1,Male,11,50 to 54 years,13,Master Degree,474,0.001026057
+1,Lower Class,1,Male,11,50 to 54 years,14,PhD,1329,0.002876857
+1,Lower Class,1,Male,12,55 to 59 years,0,Undefined,22715,0.049170654
+1,Lower Class,1,Male,12,55 to 59 years,1,Preschool or Kindergarden,69,0.000149363
+1,Lower Class,1,Male,12,55 to 59 years,2,Primary School,127760,0.276559221
+1,Lower Class,1,Male,12,55 to 59 years,3,Middle School,43898,0.095025021
+1,Lower Class,1,Male,12,55 to 59 years,4,High School  or General Baccalaureate,17570,0.038033387
+1,Lower Class,1,Male,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",3278,0.007095813
+1,Lower Class,1,Male,12,55 to 59 years,10,Normal Bachelor's Degree,4156,0.0089964
+1,Lower Class,1,Male,12,55 to 59 years,11,Bachelor's Degree,15614,0.033799277
+1,Lower Class,1,Male,12,55 to 59 years,13,Master Degree,552,0.001194902
+1,Lower Class,1,Male,13,60 to 64 years,0,Undefined,23187,0.050192381
+1,Lower Class,1,Male,13,60 to 64 years,1,Preschool or Kindergarden,464,0.00100441
+1,Lower Class,1,Male,13,60 to 64 years,2,Primary School,106137,0.229752395
+1,Lower Class,1,Male,13,60 to 64 years,3,Middle School,24130,0.052233672
+1,Lower Class,1,Male,13,60 to 64 years,4,High School  or General Baccalaureate,7898,0.017096624
+1,Lower Class,1,Male,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",2485,0.005379224
+1,Lower Class,1,Male,13,60 to 64 years,10,Normal Bachelor's Degree,6238,0.013503259
+1,Lower Class,1,Male,13,60 to 64 years,11,Bachelor's Degree,8024,0.017369374
+1,Lower Class,1,Male,13,60 to 64 years,13,Master Degree,519,0.001123468
+1,Lower Class,1,Male,13,60 to 64 years,14,PhD,507,0.001097492
+1,Lower Class,1,Male,14,65 to 69 years,0,Undefined,23029,0.049850362
+1,Lower Class,1,Male,14,65 to 69 years,2,Primary School,89864,0.194526595
+1,Lower Class,1,Male,14,65 to 69 years,3,Middle School,14545,0.031485237
+1,Lower Class,1,Male,14,65 to 69 years,4,High School  or General Baccalaureate,4486,0.009710744
+1,Lower Class,1,Male,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",657,0.001422193
+1,Lower Class,1,Male,14,65 to 69 years,10,Normal Bachelor's Degree,3881,0.008401114
+1,Lower Class,1,Male,14,65 to 69 years,11,Bachelor's Degree,4586,0.009927212
+1,Lower Class,1,Male,14,65 to 69 years,14,PhD,92,0.00019915
+1,Lower Class,1,Male,15,70 to 74 years,0,Undefined,21644,0.046852284
+1,Lower Class,1,Male,15,70 to 74 years,2,Primary School,52261,0.11312822
+1,Lower Class,1,Male,15,70 to 74 years,3,Middle School,9148,0.019802471
+1,Lower Class,1,Male,15,70 to 74 years,4,High School  or General Baccalaureate,1182,0.002558649
+1,Lower Class,1,Male,15,70 to 74 years,10,Normal Bachelor's Degree,1265,0.002738317
+1,Lower Class,1,Male,15,70 to 74 years,11,Bachelor's Degree,2168,0.004693021
+1,Lower Class,1,Male,15,70 to 74 years,13,Master Degree,1128,0.002441756
+1,Lower Class,1,Male,16,75 to 79 years,0,Undefined,17873,0.038689284
+1,Lower Class,1,Male,16,75 to 79 years,1,Preschool or Kindergarden,591,0.001279325
+1,Lower Class,1,Male,16,75 to 79 years,2,Primary School,37040,0.080179661
+1,Lower Class,1,Male,16,75 to 79 years,3,Middle School,2343,0.00507184
+1,Lower Class,1,Male,16,75 to 79 years,11,Bachelor's Degree,997,0.002158184
+1,Lower Class,1,Male,17,80 or more years,0,Undefined,23868,0.051666527
+1,Lower Class,1,Male,17,80 or more years,2,Primary School,34467,0.074609946
+1,Lower Class,1,Male,17,80 or more years,3,Middle School,1077,0.002331358
+1,Lower Class,1,Male,17,80 or more years,10,Normal Bachelor's Degree,590,0.00127716
+1,Lower Class,1,Male,17,80 or more years,11,Bachelor's Degree,720,0.001558568
+1,Lower Class,2,Female,4,15 to 19 years,0,Undefined,1407,0.00408241
+1,Lower Class,2,Female,4,15 to 19 years,2,Primary School,4698,0.013631245
+1,Lower Class,2,Female,4,15 to 19 years,3,Middle School,19846,0.057583161
+1,Lower Class,2,Female,4,15 to 19 years,4,High School  or General Baccalaureate,27119,0.078685767
+1,Lower Class,2,Female,4,15 to 19 years,11,Bachelor's Degree,2727,0.007912389
+1,Lower Class,2,Female,5,20 to 24 years,0,Undefined,1186,0.003441178
+1,Lower Class,2,Female,5,20 to 24 years,2,Primary School,19913,0.057777561
+1,Lower Class,2,Female,5,20 to 24 years,3,Middle School,81464,0.236367761
+1,Lower Class,2,Female,5,20 to 24 years,4,High School  or General Baccalaureate,96135,0.278935661
+1,Lower Class,2,Female,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",3543,0.010280013
+1,Lower Class,2,Female,5,20 to 24 years,10,Normal Bachelor's Degree,1659,0.004813588
+1,Lower Class,2,Female,5,20 to 24 years,11,Bachelor's Degree,30835,0.089467739
+1,Lower Class,2,Female,5,20 to 24 years,13,Master Degree,895,0.002596842
+1,Lower Class,2,Female,6,25 to 29 years,0,Undefined,1483,0.004302924
+1,Lower Class,2,Female,6,25 to 29 years,1,Preschool or Kindergarden,376,0.001090964
+1,Lower Class,2,Female,6,25 to 29 years,2,Primary School,32144,0.093265802
+1,Lower Class,2,Female,6,25 to 29 years,3,Middle School,114672,0.332720759
+1,Lower Class,2,Female,6,25 to 29 years,4,High School  or General Baccalaureate,101091,0.293315493
+1,Lower Class,2,Female,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",7551,0.021909223
+1,Lower Class,2,Female,6,25 to 29 years,10,Normal Bachelor's Degree,2133,0.006188899
+1,Lower Class,2,Female,6,25 to 29 years,11,Bachelor's Degree,50924,0.147755964
+1,Lower Class,2,Female,6,25 to 29 years,13,Master Degree,2934,0.008513
+1,Lower Class,2,Female,7,30 to 34 years,0,Undefined,2377,0.006896864
+1,Lower Class,2,Female,7,30 to 34 years,2,Primary School,39949,0.115912006
+1,Lower Class,2,Female,7,30 to 34 years,3,Middle School,110452,0.320476431
+1,Lower Class,2,Female,7,30 to 34 years,4,High School  or General Baccalaureate,64172,0.186195031
+1,Lower Class,2,Female,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",7672,0.022260305
+1,Lower Class,2,Female,7,30 to 34 years,10,Normal Bachelor's Degree,307,0.00089076
+1,Lower Class,2,Female,7,30 to 34 years,11,Bachelor's Degree,47306,0.137258339
+1,Lower Class,2,Female,7,30 to 34 years,13,Master Degree,4737,0.013744403
+1,Lower Class,2,Female,8,35 to 39 years,0,Undefined,2713,0.007871768
+1,Lower Class,2,Female,8,35 to 39 years,2,Primary School,59984,0.17404355
+1,Lower Class,2,Female,8,35 to 39 years,3,Middle School,107055,0.310620037
+1,Lower Class,2,Female,8,35 to 39 years,4,High School  or General Baccalaureate,31771,0.092183543
+1,Lower Class,2,Female,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",7145,0.020731214
+1,Lower Class,2,Female,8,35 to 39 years,10,Normal Bachelor's Degree,2064,0.005988695
+1,Lower Class,2,Female,8,35 to 39 years,11,Bachelor's Degree,40319,0.116985561
+1,Lower Class,2,Female,8,35 to 39 years,13,Master Degree,3410,0.009894114
+1,Lower Class,2,Female,9,40 to 44 years,0,Undefined,2198,0.006377496
+1,Lower Class,2,Female,9,40 to 44 years,2,Primary School,48984,0.142127055
+1,Lower Class,2,Female,9,40 to 44 years,3,Middle School,75812,0.219968486
+1,Lower Class,2,Female,9,40 to 44 years,4,High School  or General Baccalaureate,17789,0.051614776
+1,Lower Class,2,Female,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",9952,0.028875724
+1,Lower Class,2,Female,9,40 to 44 years,10,Normal Bachelor's Degree,2871,0.008330205
+1,Lower Class,2,Female,9,40 to 44 years,11,Bachelor's Degree,19758,0.057327829
+1,Lower Class,2,Female,9,40 to 44 years,13,Master Degree,2202,0.006389102
+1,Lower Class,2,Female,9,40 to 44 years,14,PhD,1326,0.003847388
+1,Lower Class,2,Female,10,45 to 49 years,0,Undefined,4242,0.012308161
+1,Lower Class,2,Female,10,45 to 49 years,2,Primary School,35275,0.102350397
+1,Lower Class,2,Female,10,45 to 49 years,3,Middle School,51473,0.149348888
+1,Lower Class,2,Female,10,45 to 49 years,4,High School  or General Baccalaureate,9066,0.026304995
+1,Lower Class,2,Female,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",7208,0.020914009
+1,Lower Class,2,Female,10,45 to 49 years,10,Normal Bachelor's Degree,2450,0.007108674
+1,Lower Class,2,Female,10,45 to 49 years,11,Bachelor's Degree,15613,0.045301113
+1,Lower Class,2,Female,10,45 to 49 years,13,Master Degree,4393,0.012746288
+1,Lower Class,2,Female,11,50 to 54 years,0,Undefined,2839,0.008237357
+1,Lower Class,2,Female,11,50 to 54 years,2,Primary School,27053,0.078494268
+1,Lower Class,2,Female,11,50 to 54 years,3,Middle School,29343,0.085138702
+1,Lower Class,2,Female,11,50 to 54 years,4,High School  or General Baccalaureate,11661,0.033834387
+1,Lower Class,2,Female,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",7563,0.021944041
+1,Lower Class,2,Female,11,50 to 54 years,10,Normal Bachelor's Degree,8439,0.024485755
+1,Lower Class,2,Female,11,50 to 54 years,11,Bachelor's Degree,13801,0.040043596
+1,Lower Class,2,Female,11,50 to 54 years,13,Master Degree,776,0.002251564
+1,Lower Class,2,Female,11,50 to 54 years,14,PhD,1211,0.003513716
+1,Lower Class,2,Female,12,55 to 59 years,0,Undefined,4923,0.014284082
+1,Lower Class,2,Female,12,55 to 59 years,1,Preschool or Kindergarden,120,0.00034818
+1,Lower Class,2,Female,12,55 to 59 years,2,Primary School,24977,0.072470755
+1,Lower Class,2,Female,12,55 to 59 years,3,Middle School,12647,0.036695265
+1,Lower Class,2,Female,12,55 to 59 years,4,High School  or General Baccalaureate,4839,0.014040356
+1,Lower Class,2,Female,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",4641,0.01346586
+1,Lower Class,2,Female,12,55 to 59 years,10,Normal Bachelor's Degree,6891,0.019994234
+1,Lower Class,2,Female,12,55 to 59 years,11,Bachelor's Degree,5095,0.01478314
+1,Lower Class,2,Female,12,55 to 59 years,13,Master Degree,144,0.000417816
+1,Lower Class,2,Female,13,60 to 64 years,0,Undefined,5110,0.014826663
+1,Lower Class,2,Female,13,60 to 64 years,2,Primary School,18014,0.052267613
+1,Lower Class,2,Female,13,60 to 64 years,3,Middle School,3876,0.011246212
+1,Lower Class,2,Female,13,60 to 64 years,4,High School  or General Baccalaureate,2184,0.006336875
+1,Lower Class,2,Female,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",2639,0.007657057
+1,Lower Class,2,Female,13,60 to 64 years,10,Normal Bachelor's Degree,979,0.002840568
+1,Lower Class,2,Female,13,60 to 64 years,11,Bachelor's Degree,3464,0.010050795
+1,Lower Class,2,Female,13,60 to 64 years,13,Master Degree,1158,0.003359937
+1,Lower Class,2,Female,14,65 to 69 years,0,Undefined,4320,0.012534478
+1,Lower Class,2,Female,14,65 to 69 years,2,Primary School,12643,0.036683659
+1,Lower Class,2,Female,14,65 to 69 years,3,Middle School,4026,0.011681437
+1,Lower Class,2,Female,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",1791,0.005196586
+1,Lower Class,2,Female,14,65 to 69 years,10,Normal Bachelor's Degree,1441,0.004181061
+1,Lower Class,2,Female,14,65 to 69 years,11,Bachelor's Degree,705,0.002045557
+1,Lower Class,2,Female,14,65 to 69 years,13,Master Degree,29,8.41435E-05
+1,Lower Class,2,Female,15,70 to 74 years,0,Undefined,2159,0.006264338
+1,Lower Class,2,Female,15,70 to 74 years,1,Preschool or Kindergarden,949,0.002753523
+1,Lower Class,2,Female,15,70 to 74 years,2,Primary School,6760,0.019614137
+1,Lower Class,2,Female,15,70 to 74 years,3,Middle School,1398,0.004056296
+1,Lower Class,2,Female,15,70 to 74 years,4,High School  or General Baccalaureate,59,0.000171188
+1,Lower Class,2,Female,15,70 to 74 years,8,"Technical or Comercial Studies, and Finished High School",567,0.00164515
+1,Lower Class,2,Female,15,70 to 74 years,10,Normal Bachelor's Degree,39,0.000113158
+1,Lower Class,2,Female,15,70 to 74 years,11,Bachelor's Degree,110,0.000319165
+1,Lower Class,2,Female,16,75 to 79 years,0,Undefined,2863,0.008306993
+1,Lower Class,2,Female,16,75 to 79 years,1,Preschool or Kindergarden,71,0.000206006
+1,Lower Class,2,Female,16,75 to 79 years,2,Primary School,2412,0.006998417
+1,Lower Class,2,Female,16,75 to 79 years,3,Middle School,1140,0.00330771
+1,Lower Class,2,Female,16,75 to 79 years,10,Normal Bachelor's Degree,606,0.001758309
+1,Lower Class,2,Female,16,75 to 79 years,11,Bachelor's Degree,283,0.000821124
+1,Lower Class,2,Female,17,80 or more years,0,Undefined,1832,0.005315547
+1,Lower Class,2,Female,17,80 or more years,2,Primary School,3420,0.009923129
+1,Lower Class,2,Female,17,80 or more years,3,Middle School,150,0.000435225
+1,Lower Class,2,Female,17,80 or more years,10,Normal Bachelor's Degree,64,0.000185696
+1,Lower Class,2,Female,17,80 or more years,11,Bachelor's Degree,446,0.001294069
+2,Lower Middle Class,1,Male,4,15 to 19 years,0,Undefined,561,0.001214384
+2,Lower Middle Class,1,Male,4,15 to 19 years,1,Preschool or Kindergarden,613,0.001326947
+2,Lower Middle Class,1,Male,4,15 to 19 years,2,Primary School,46350,0.100332811
+2,Lower Middle Class,1,Male,4,15 to 19 years,3,Middle School,235657,0.510121448
+2,Lower Middle Class,1,Male,4,15 to 19 years,4,High School  or General Baccalaureate,259783,0.562346462
+2,Lower Middle Class,1,Male,4,15 to 19 years,8,"Technical or Comercial Studies, and Finished High School",8720,0.018875989
+2,Lower Middle Class,1,Male,4,15 to 19 years,11,Bachelor's Degree,25917,0.056101951
+2,Lower Middle Class,1,Male,5,20 to 24 years,0,Undefined,7375,0.015964498
+2,Lower Middle Class,1,Male,5,20 to 24 years,2,Primary School,171702,0.371679487
+2,Lower Middle Class,1,Male,5,20 to 24 years,3,Middle School,779605,1.687593544
+2,Lower Middle Class,1,Male,5,20 to 24 years,4,High School  or General Baccalaureate,925467,2.00333776
+2,Lower Middle Class,1,Male,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",66861,0.144732514
+2,Lower Middle Class,1,Male,5,20 to 24 years,10,Normal Bachelor's Degree,5498,0.011901398
+2,Lower Middle Class,1,Male,5,20 to 24 years,11,Bachelor's Degree,396607,0.858526321
+2,Lower Middle Class,1,Male,5,20 to 24 years,13,Master Degree,695,0.001504451
+2,Lower Middle Class,1,Male,5,20 to 24 years,14,PhD,79,0.00017101
+2,Lower Middle Class,1,Male,6,25 to 29 years,0,Undefined,14726,0.031877044
+2,Lower Middle Class,1,Male,6,25 to 29 years,1,Preschool or Kindergarden,49,0.000106069
+2,Lower Middle Class,1,Male,6,25 to 29 years,2,Primary School,215782,0.467098479
+2,Lower Middle Class,1,Male,6,25 to 29 years,3,Middle School,919876,1.991235047
+2,Lower Middle Class,1,Male,6,25 to 29 years,4,High School  or General Baccalaureate,845709,1.830687397
+2,Lower Middle Class,1,Male,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",64185,0.138939837
+2,Lower Middle Class,1,Male,6,25 to 29 years,10,Normal Bachelor's Degree,8861,0.019181209
+2,Lower Middle Class,1,Male,6,25 to 29 years,11,Bachelor's Degree,644014,1.394082732
+2,Lower Middle Class,1,Male,6,25 to 29 years,13,Master Degree,13030,0.02820575
+2,Lower Middle Class,1,Male,7,30 to 34 years,0,Undefined,19387,0.041966606
+2,Lower Middle Class,1,Male,7,30 to 34 years,1,Preschool or Kindergarden,805,0.001742566
+2,Lower Middle Class,1,Male,7,30 to 34 years,2,Primary School,311004,0.673223418
+2,Lower Middle Class,1,Male,7,30 to 34 years,3,Middle School,1030979,2.231737231
+2,Lower Middle Class,1,Male,7,30 to 34 years,4,High School  or General Baccalaureate,734789,1.590581349
+2,Lower Middle Class,1,Male,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",104655,0.226544343
+2,Lower Middle Class,1,Male,7,30 to 34 years,10,Normal Bachelor's Degree,9654,0.020897798
+2,Lower Middle Class,1,Male,7,30 to 34 years,11,Bachelor's Degree,534350,1.156695519
+2,Lower Middle Class,1,Male,7,30 to 34 years,13,Master Degree,30440,0.065892789
+2,Lower Middle Class,1,Male,7,30 to 34 years,14,PhD,6085,0.013172064
+2,Lower Middle Class,1,Male,8,35 to 39 years,0,Undefined,28649,0.062015851
+2,Lower Middle Class,1,Male,8,35 to 39 years,1,Preschool or Kindergarden,529,0.001145114
+2,Lower Middle Class,1,Male,8,35 to 39 years,2,Primary School,428434,0.927421518
+2,Lower Middle Class,1,Male,8,35 to 39 years,3,Middle School,1088107,2.355400938
+2,Lower Middle Class,1,Male,8,35 to 39 years,4,High School  or General Baccalaureate,685336,1.483531543
+2,Lower Middle Class,1,Male,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",103829,0.224756319
+2,Lower Middle Class,1,Male,8,35 to 39 years,10,Normal Bachelor's Degree,10021,0.021692235
+2,Lower Middle Class,1,Male,8,35 to 39 years,11,Bachelor's Degree,412887,0.893767274
+2,Lower Middle Class,1,Male,8,35 to 39 years,13,Master Degree,30990,0.067083361
+2,Lower Middle Class,1,Male,8,35 to 39 years,14,PhD,5790,0.012533484
+2,Lower Middle Class,1,Male,9,40 to 44 years,0,Undefined,34058,0.073724592
+2,Lower Middle Class,1,Male,9,40 to 44 years,1,Preschool or Kindergarden,830,0.001796682
+2,Lower Middle Class,1,Male,9,40 to 44 years,2,Primary School,537313,1.163109459
+2,Lower Middle Class,1,Male,9,40 to 44 years,3,Middle School,1139227,2.466059261
+2,Lower Middle Class,1,Male,9,40 to 44 years,4,High School  or General Baccalaureate,549981,1.190531596
+2,Lower Middle Class,1,Male,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",100716,0.218017677
+2,Lower Middle Class,1,Male,9,40 to 44 years,10,Normal Bachelor's Degree,7637,0.016531643
+2,Lower Middle Class,1,Male,9,40 to 44 years,11,Bachelor's Degree,343987,0.744620982
+2,Lower Middle Class,1,Male,9,40 to 44 years,13,Master Degree,36376,0.078742315
+2,Lower Middle Class,1,Male,9,40 to 44 years,14,PhD,7386,0.015988309
+2,Lower Middle Class,1,Male,10,45 to 49 years,0,Undefined,21211,0.045914978
+2,Lower Middle Class,1,Male,10,45 to 49 years,1,Preschool or Kindergarden,223,0.000482723
+2,Lower Middle Class,1,Male,10,45 to 49 years,2,Primary School,559997,1.212213008
+2,Lower Middle Class,1,Male,10,45 to 49 years,3,Middle School,939262,2.033199488
+2,Lower Middle Class,1,Male,10,45 to 49 years,4,High School  or General Baccalaureate,472903,1.02368257
+2,Lower Middle Class,1,Male,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",80993,0.175323739
+2,Lower Middle Class,1,Male,10,45 to 49 years,10,Normal Bachelor's Degree,10717,0.023198851
+2,Lower Middle Class,1,Male,10,45 to 49 years,11,Bachelor's Degree,257034,0.556395763
+2,Lower Middle Class,1,Male,10,45 to 49 years,13,Master Degree,32281,0.06987796
+2,Lower Middle Class,1,Male,10,45 to 49 years,14,PhD,9959,0.021558025
+2,Lower Middle Class,1,Male,11,50 to 54 years,0,Undefined,50467,0.109244789
+2,Lower Middle Class,1,Male,11,50 to 54 years,1,Preschool or Kindergarden,461,0.000997916
+2,Lower Middle Class,1,Male,11,50 to 54 years,2,Primary School,560632,1.213587578
+2,Lower Middle Class,1,Male,11,50 to 54 years,3,Middle School,599547,1.29782601
+2,Lower Middle Class,1,Male,11,50 to 54 years,4,High School  or General Baccalaureate,328005,0.710025103
+2,Lower Middle Class,1,Male,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",79338,0.171741198
+2,Lower Middle Class,1,Male,11,50 to 54 years,10,Normal Bachelor's Degree,21861,0.047322019
+2,Lower Middle Class,1,Male,11,50 to 54 years,11,Bachelor's Degree,228334,0.494269514
+2,Lower Middle Class,1,Male,11,50 to 54 years,13,Master Degree,26206,0.056727543
+2,Lower Middle Class,1,Male,11,50 to 54 years,14,PhD,5483,0.011868928
+2,Lower Middle Class,1,Male,12,55 to 59 years,0,Undefined,54736,0.118485798
+2,Lower Middle Class,1,Male,12,55 to 59 years,1,Preschool or Kindergarden,375,0.000811754
+2,Lower Middle Class,1,Male,12,55 to 59 years,2,Primary School,623021,1.348639654
+2,Lower Middle Class,1,Male,12,55 to 59 years,3,Middle School,481858,1.043067258
+2,Lower Middle Class,1,Male,12,55 to 59 years,4,High School  or General Baccalaureate,222797,0.482283693
+2,Lower Middle Class,1,Male,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",52732,0.114147783
+2,Lower Middle Class,1,Male,12,55 to 59 years,10,Normal Bachelor's Degree,39332,0.085141103
+2,Lower Middle Class,1,Male,12,55 to 59 years,11,Bachelor's Degree,189745,0.410736767
+2,Lower Middle Class,1,Male,12,55 to 59 years,13,Master Degree,22356,0.048393534
+2,Lower Middle Class,1,Male,12,55 to 59 years,14,PhD,2418,0.005234191
+2,Lower Middle Class,1,Male,13,60 to 64 years,0,Undefined,72569,0.157088495
+2,Lower Middle Class,1,Male,13,60 to 64 years,1,Preschool or Kindergarden,786,0.001701437
+2,Lower Middle Class,1,Male,13,60 to 64 years,2,Primary School,659759,1.428165582
+2,Lower Middle Class,1,Male,13,60 to 64 years,3,Middle School,287965,0.623351409
+2,Lower Middle Class,1,Male,13,60 to 64 years,4,High School  or General Baccalaureate,107744,0.233231032
+2,Lower Middle Class,1,Male,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",34379,0.074419454
+2,Lower Middle Class,1,Male,13,60 to 64 years,10,Normal Bachelor's Degree,27951,0.060504906
+2,Lower Middle Class,1,Male,13,60 to 64 years,11,Bachelor's Degree,144185,0.312114051
+2,Lower Middle Class,1,Male,13,60 to 64 years,13,Master Degree,14377,0.031121571
+2,Lower Middle Class,1,Male,13,60 to 64 years,14,PhD,4097,0.008868684
+2,Lower Middle Class,1,Male,14,65 to 69 years,0,Undefined,88070,0.190643163
+2,Lower Middle Class,1,Male,14,65 to 69 years,2,Primary School,539226,1.167250487
+2,Lower Middle Class,1,Male,14,65 to 69 years,3,Middle School,161396,0.349370319
+2,Lower Middle Class,1,Male,14,65 to 69 years,4,High School  or General Baccalaureate,44928,0.097254639
+2,Lower Middle Class,1,Male,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",35589,0.077038714
+2,Lower Middle Class,1,Male,14,65 to 69 years,10,Normal Bachelor's Degree,13946,0.030188595
+2,Lower Middle Class,1,Male,14,65 to 69 years,11,Bachelor's Degree,69823,0.15114429
+2,Lower Middle Class,1,Male,14,65 to 69 years,13,Master Degree,11983,0.025939333
+2,Lower Middle Class,1,Male,14,65 to 69 years,14,PhD,2302,0.004983088
+2,Lower Middle Class,1,Male,15,70 to 74 years,0,Undefined,82938,0.179534038
+2,Lower Middle Class,1,Male,15,70 to 74 years,1,Preschool or Kindergarden,3231,0.006994074
+2,Lower Middle Class,1,Male,15,70 to 74 years,2,Primary School,428990,0.928625079
+2,Lower Middle Class,1,Male,15,70 to 74 years,3,Middle School,85075,0.184159954
+2,Lower Middle Class,1,Male,15,70 to 74 years,4,High School  or General Baccalaureate,12205,0.026419891
+2,Lower Middle Class,1,Male,15,70 to 74 years,8,"Technical or Comercial Studies, and Finished High School",13073,0.028298831
+2,Lower Middle Class,1,Male,15,70 to 74 years,10,Normal Bachelor's Degree,15431,0.033403141
+2,Lower Middle Class,1,Male,15,70 to 74 years,11,Bachelor's Degree,32499,0.07034986
+2,Lower Middle Class,1,Male,15,70 to 74 years,13,Master Degree,2398,0.005190897
+2,Lower Middle Class,1,Male,15,70 to 74 years,14,PhD,329,0.000712179
+2,Lower Middle Class,1,Male,16,75 to 79 years,0,Undefined,95332,0.206363053
+2,Lower Middle Class,1,Male,16,75 to 79 years,2,Primary School,282080,0.61061228
+2,Lower Middle Class,1,Male,16,75 to 79 years,3,Middle School,43419,0.09398814
+2,Lower Middle Class,1,Male,16,75 to 79 years,4,High School  or General Baccalaureate,9190,0.019893388
+2,Lower Middle Class,1,Male,16,75 to 79 years,8,"Technical or Comercial Studies, and Finished High School",3911,0.008466054
+2,Lower Middle Class,1,Male,16,75 to 79 years,10,Normal Bachelor's Degree,4368,0.009455312
+2,Lower Middle Class,1,Male,16,75 to 79 years,11,Bachelor's Degree,11362,0.024595068
+2,Lower Middle Class,1,Male,16,75 to 79 years,13,Master Degree,1464,0.003169088
+2,Lower Middle Class,1,Male,16,75 to 79 years,14,PhD,348,0.000753308
+2,Lower Middle Class,1,Male,17,80 or more years,0,Undefined,97943,0.212015026
+2,Lower Middle Class,1,Male,17,80 or more years,1,Preschool or Kindergarden,1906,0.004125876
+2,Lower Middle Class,1,Male,17,80 or more years,2,Primary School,265334,0.574362588
+2,Lower Middle Class,1,Male,17,80 or more years,3,Middle School,27431,0.059379273
+2,Lower Middle Class,1,Male,17,80 or more years,4,High School  or General Baccalaureate,11881,0.025718536
+2,Lower Middle Class,1,Male,17,80 or more years,8,"Technical or Comercial Studies, and Finished High School",1718,0.003718916
+2,Lower Middle Class,1,Male,17,80 or more years,10,Normal Bachelor's Degree,4556,0.009862272
+2,Lower Middle Class,1,Male,17,80 or more years,11,Bachelor's Degree,12985,0.02810834
+2,Lower Middle Class,1,Male,17,80 or more years,13,Master Degree,586,0.001268501
+2,Lower Middle Class,2,Female,4,15 to 19 years,2,Primary School,18690,0.054229027
+2,Lower Middle Class,2,Female,4,15 to 19 years,3,Middle School,117145,0.339896168
+2,Lower Middle Class,2,Female,4,15 to 19 years,4,High School  or General Baccalaureate,187876,0.545122134
+2,Lower Middle Class,2,Female,4,15 to 19 years,8,"Technical or Comercial Studies, and Finished High School",5819,0.016883826
+2,Lower Middle Class,2,Female,4,15 to 19 years,10,Normal Bachelor's Degree,608,0.001764112
+2,Lower Middle Class,2,Female,4,15 to 19 years,11,Bachelor's Degree,14536,0.042176198
+2,Lower Middle Class,2,Female,5,20 to 24 years,0,Undefined,631,0.001830846
+2,Lower Middle Class,2,Female,5,20 to 24 years,2,Primary School,54481,0.158076598
+2,Lower Middle Class,2,Female,5,20 to 24 years,3,Middle School,480193,1.393279785
+2,Lower Middle Class,2,Female,5,20 to 24 years,4,High School  or General Baccalaureate,660795,1.917296411
+2,Lower Middle Class,2,Female,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",45001,0.130570382
+2,Lower Middle Class,2,Female,5,20 to 24 years,10,Normal Bachelor's Degree,4455,0.012926181
+2,Lower Middle Class,2,Female,5,20 to 24 years,11,Bachelor's Degree,371057,1.076621727
+2,Lower Middle Class,2,Female,5,20 to 24 years,13,Master Degree,3788,0.01099088
+2,Lower Middle Class,2,Female,6,25 to 29 years,0,Undefined,4614,0.013387519
+2,Lower Middle Class,2,Female,6,25 to 29 years,1,Preschool or Kindergarden,224,0.000649936
+2,Lower Middle Class,2,Female,6,25 to 29 years,2,Primary School,112594,0.326691443
+2,Lower Middle Class,2,Female,6,25 to 29 years,3,Middle School,614055,1.78168032
+2,Lower Middle Class,2,Female,6,25 to 29 years,4,High School  or General Baccalaureate,716688,2.079469926
+2,Lower Middle Class,2,Female,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",68557,0.198918106
+2,Lower Middle Class,2,Female,6,25 to 29 years,10,Normal Bachelor's Degree,15879,0.046072912
+2,Lower Middle Class,2,Female,6,25 to 29 years,11,Bachelor's Degree,616717,1.789404112
+2,Lower Middle Class,2,Female,6,25 to 29 years,13,Master Degree,28366,0.082303937
+2,Lower Middle Class,2,Female,6,25 to 29 years,14,PhD,806,0.002338609
+2,Lower Middle Class,2,Female,7,30 to 34 years,0,Undefined,6159,0.017870336
+2,Lower Middle Class,2,Female,7,30 to 34 years,2,Primary School,199528,0.578930407
+2,Lower Middle Class,2,Female,7,30 to 34 years,3,Middle School,808127,2.344780146
+2,Lower Middle Class,2,Female,7,30 to 34 years,4,High School  or General Baccalaureate,649675,1.885031735
+2,Lower Middle Class,2,Female,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",110036,0.319269407
+2,Lower Middle Class,2,Female,7,30 to 34 years,10,Normal Bachelor's Degree,18236,0.052911746
+2,Lower Middle Class,2,Female,7,30 to 34 years,11,Bachelor's Degree,562889,1.633222193
+2,Lower Middle Class,2,Female,7,30 to 34 years,13,Master Degree,45561,0.132195222
+2,Lower Middle Class,2,Female,7,30 to 34 years,14,PhD,10192,0.029572084
+2,Lower Middle Class,2,Female,8,35 to 39 years,0,Undefined,10336,0.0299899
+2,Lower Middle Class,2,Female,8,35 to 39 years,1,Preschool or Kindergarden,2067,0.0059974
+2,Lower Middle Class,2,Female,8,35 to 39 years,2,Primary School,283708,0.823178641
+2,Lower Middle Class,2,Female,8,35 to 39 years,3,Middle School,833253,2.417683224
+2,Lower Middle Class,2,Female,8,35 to 39 years,4,High School  or General Baccalaureate,452628,1.313299949
+2,Lower Middle Class,2,Female,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",129999,0.377192043
+2,Lower Middle Class,2,Female,8,35 to 39 years,10,Normal Bachelor's Degree,17188,0.049870975
+2,Lower Middle Class,2,Female,8,35 to 39 years,11,Bachelor's Degree,389141,1.129092445
+2,Lower Middle Class,2,Female,8,35 to 39 years,13,Master Degree,45997,0.133460276
+2,Lower Middle Class,2,Female,8,35 to 39 years,14,PhD,7117,0.020649972
+2,Lower Middle Class,2,Female,9,40 to 44 years,0,Undefined,11296,0.032775339
+2,Lower Middle Class,2,Female,9,40 to 44 years,1,Preschool or Kindergarden,771,0.002237056
+2,Lower Middle Class,2,Female,9,40 to 44 years,2,Primary School,331403,0.961565663
+2,Lower Middle Class,2,Female,9,40 to 44 years,3,Middle School,838714,2.433528313
+2,Lower Middle Class,2,Female,9,40 to 44 years,4,High School  or General Baccalaureate,366898,1.06455439
+2,Lower Middle Class,2,Female,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",190069,0.551485122
+2,Lower Middle Class,2,Female,9,40 to 44 years,10,Normal Bachelor's Degree,20393,0.059170281
+2,Lower Middle Class,2,Female,9,40 to 44 years,11,Bachelor's Degree,310252,0.900196046
+2,Lower Middle Class,2,Female,9,40 to 44 years,13,Master Degree,28184,0.081775864
+2,Lower Middle Class,2,Female,9,40 to 44 years,14,PhD,5266,0.015279297
+2,Lower Middle Class,2,Female,10,45 to 49 years,0,Undefined,20337,0.059007797
+2,Lower Middle Class,2,Female,10,45 to 49 years,1,Preschool or Kindergarden,105,0.000304657
+2,Lower Middle Class,2,Female,10,45 to 49 years,2,Primary School,318919,0.925343342
+2,Lower Middle Class,2,Female,10,45 to 49 years,3,Middle School,656329,1.904338313
+2,Lower Middle Class,2,Female,10,45 to 49 years,4,High School  or General Baccalaureate,276085,0.80106051
+2,Lower Middle Class,2,Female,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",192373,0.558170177
+2,Lower Middle Class,2,Female,10,45 to 49 years,10,Normal Bachelor's Degree,23687,0.06872782
+2,Lower Middle Class,2,Female,10,45 to 49 years,11,Bachelor's Degree,189860,0.550878709
+2,Lower Middle Class,2,Female,10,45 to 49 years,13,Master Degree,21072,0.061140399
+2,Lower Middle Class,2,Female,10,45 to 49 years,14,PhD,5426,0.015743537
+2,Lower Middle Class,2,Female,11,50 to 54 years,0,Undefined,29908,0.086778049
+2,Lower Middle Class,2,Female,11,50 to 54 years,2,Primary School,372734,1.081487542
+2,Lower Middle Class,2,Female,11,50 to 54 years,3,Middle School,421272,1.222320528
+2,Lower Middle Class,2,Female,11,50 to 54 years,4,High School  or General Baccalaureate,146452,0.424930416
+2,Lower Middle Class,2,Female,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",143926,0.417601228
+2,Lower Middle Class,2,Female,11,50 to 54 years,10,Normal Bachelor's Degree,57807,0.167726986
+2,Lower Middle Class,2,Female,11,50 to 54 years,11,Bachelor's Degree,177651,0.515454301
+2,Lower Middle Class,2,Female,11,50 to 54 years,13,Master Degree,15506,0.044990652
+2,Lower Middle Class,2,Female,11,50 to 54 years,14,PhD,8615,0.024996419
+2,Lower Middle Class,2,Female,12,55 to 59 years,0,Undefined,32794,0.095151777
+2,Lower Middle Class,2,Female,12,55 to 59 years,1,Preschool or Kindergarden,1118,0.003243877
+2,Lower Middle Class,2,Female,12,55 to 59 years,2,Primary School,338244,0.981414822
+2,Lower Middle Class,2,Female,12,55 to 59 years,3,Middle School,261788,0.75957777
+2,Lower Middle Class,2,Female,12,55 to 59 years,4,High School  or General Baccalaureate,73655,0.213709951
+2,Lower Middle Class,2,Female,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",108227,0.314020594
+2,Lower Middle Class,2,Female,12,55 to 59 years,10,Normal Bachelor's Degree,50337,0.146052784
+2,Lower Middle Class,2,Female,12,55 to 59 years,11,Bachelor's Degree,117351,0.340493876
+2,Lower Middle Class,2,Female,12,55 to 59 years,13,Master Degree,13066,0.037910993
+2,Lower Middle Class,2,Female,12,55 to 59 years,14,PhD,1864,0.005408395
+2,Lower Middle Class,2,Female,13,60 to 64 years,0,Undefined,28204,0.081833894
+2,Lower Middle Class,2,Female,13,60 to 64 years,2,Primary School,260148,0.754819311
+2,Lower Middle Class,2,Female,13,60 to 64 years,3,Middle School,95176,0.276153123
+2,Lower Middle Class,2,Female,13,60 to 64 years,4,High School  or General Baccalaureate,32241,0.093547248
+2,Lower Middle Class,2,Female,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",60683,0.176071699
+2,Lower Middle Class,2,Female,13,60 to 64 years,10,Normal Bachelor's Degree,30355,0.08807502
+2,Lower Middle Class,2,Female,13,60 to 64 years,11,Bachelor's Degree,60750,0.176266099
+2,Lower Middle Class,2,Female,13,60 to 64 years,13,Master Degree,5938,0.017229104
+2,Lower Middle Class,2,Female,13,60 to 64 years,14,PhD,599,0.001737998
+2,Lower Middle Class,2,Female,14,65 to 69 years,0,Undefined,25286,0.073367318
+2,Lower Middle Class,2,Female,14,65 to 69 years,1,Preschool or Kindergarden,820,0.00237923
+2,Lower Middle Class,2,Female,14,65 to 69 years,2,Primary School,170112,0.493579895
+2,Lower Middle Class,2,Female,14,65 to 69 years,3,Middle School,68790,0.199594156
+2,Lower Middle Class,2,Female,14,65 to 69 years,4,High School  or General Baccalaureate,13188,0.038264976
+2,Lower Middle Class,2,Female,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",56901,0.165098227
+2,Lower Middle Class,2,Female,14,65 to 69 years,10,Normal Bachelor's Degree,23232,0.067407638
+2,Lower Middle Class,2,Female,14,65 to 69 years,11,Bachelor's Degree,33181,0.096274657
+2,Lower Middle Class,2,Female,14,65 to 69 years,13,Master Degree,5177,0.015021063
+2,Lower Middle Class,2,Female,14,65 to 69 years,14,PhD,1044,0.003029166
+2,Lower Middle Class,2,Female,15,70 to 74 years,0,Undefined,21564,0.062567937
+2,Lower Middle Class,2,Female,15,70 to 74 years,1,Preschool or Kindergarden,354,0.001027131
+2,Lower Middle Class,2,Female,15,70 to 74 years,2,Primary School,122997,0.356875743
+2,Lower Middle Class,2,Female,15,70 to 74 years,3,Middle School,25443,0.073822854
+2,Lower Middle Class,2,Female,15,70 to 74 years,4,High School  or General Baccalaureate,2518,0.007305976
+2,Lower Middle Class,2,Female,15,70 to 74 years,8,"Technical or Comercial Studies, and Finished High School",20910,0.060670356
+2,Lower Middle Class,2,Female,15,70 to 74 years,10,Normal Bachelor's Degree,8412,0.024407414
+2,Lower Middle Class,2,Female,15,70 to 74 years,11,Bachelor's Degree,12044,0.034945661
+2,Lower Middle Class,2,Female,15,70 to 74 years,13,Master Degree,3775,0.010953161
+2,Lower Middle Class,2,Female,15,70 to 74 years,14,PhD,2010,0.005832014
+2,Lower Middle Class,2,Female,16,75 to 79 years,0,Undefined,14695,0.042637536
+2,Lower Middle Class,2,Female,16,75 to 79 years,2,Primary School,59730,0.17330657
+2,Lower Middle Class,2,Female,16,75 to 79 years,3,Middle School,9816,0.02848112
+2,Lower Middle Class,2,Female,16,75 to 79 years,4,High School  or General Baccalaureate,203,0.000589004
+2,Lower Middle Class,2,Female,16,75 to 79 years,8,"Technical or Comercial Studies, and Finished High School",7393,0.021450786
+2,Lower Middle Class,2,Female,16,75 to 79 years,10,Normal Bachelor's Degree,4312,0.012511266
+2,Lower Middle Class,2,Female,16,75 to 79 years,11,Bachelor's Degree,3754,0.010892229
+2,Lower Middle Class,2,Female,16,75 to 79 years,13,Master Degree,407,0.00118091
+2,Lower Middle Class,2,Female,17,80 or more years,0,Undefined,16590,0.048135878
+2,Lower Middle Class,2,Female,17,80 or more years,2,Primary School,60375,0.175178037
+2,Lower Middle Class,2,Female,17,80 or more years,3,Middle School,7312,0.021215765
+2,Lower Middle Class,2,Female,17,80 or more years,4,High School  or General Baccalaureate,3399,0.009862197
+2,Lower Middle Class,2,Female,17,80 or more years,8,"Technical or Comercial Studies, and Finished High School",6212,0.018024115
+2,Lower Middle Class,2,Female,17,80 or more years,10,Normal Bachelor's Degree,11000,0.031916495
+2,Lower Middle Class,2,Female,17,80 or more years,11,Bachelor's Degree,2071,0.006009006
+3,Upper Middle Class,1,Male,4,15 to 19 years,2,Primary School,11579,0.025064803
+3,Upper Middle Class,1,Male,4,15 to 19 years,3,Middle School,69721,0.150923493
+3,Upper Middle Class,1,Male,4,15 to 19 years,4,High School  or General Baccalaureate,128932,0.279096223
+3,Upper Middle Class,1,Male,4,15 to 19 years,8,"Technical or Comercial Studies, and Finished High School",4069,0.008808073
+3,Upper Middle Class,1,Male,4,15 to 19 years,11,Bachelor's Degree,8539,0.018484183
+3,Upper Middle Class,1,Male,5,20 to 24 years,2,Primary School,27142,0.058753682
+3,Upper Middle Class,1,Male,5,20 to 24 years,3,Middle School,272001,0.588794494
+3,Upper Middle Class,1,Male,5,20 to 24 years,4,High School  or General Baccalaureate,429305,0.929306952
+3,Upper Middle Class,1,Male,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",41831,0.090550632
+3,Upper Middle Class,1,Male,5,20 to 24 years,10,Normal Bachelor's Degree,2867,0.006206131
+3,Upper Middle Class,1,Male,5,20 to 24 years,11,Bachelor's Degree,340341,0.736728567
+3,Upper Middle Class,1,Male,5,20 to 24 years,13,Master Degree,783,0.001694943
+3,Upper Middle Class,1,Male,6,25 to 29 years,0,Undefined,536,0.001160267
+3,Upper Middle Class,1,Male,6,25 to 29 years,2,Primary School,41369,0.089550551
+3,Upper Middle Class,1,Male,6,25 to 29 years,3,Middle School,267753,0.579598943
+3,Upper Middle Class,1,Male,6,25 to 29 years,4,High School  or General Baccalaureate,382842,0.828729533
+3,Upper Middle Class,1,Male,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",45308,0.098077216
+3,Upper Middle Class,1,Male,6,25 to 29 years,10,Normal Bachelor's Degree,1527,0.003305463
+3,Upper Middle Class,1,Male,6,25 to 29 years,11,Bachelor's Degree,641043,1.387651475
+3,Upper Middle Class,1,Male,6,25 to 29 years,13,Master Degree,19314,0.041808585
+3,Upper Middle Class,1,Male,6,25 to 29 years,14,PhD,702,0.001519604
+3,Upper Middle Class,1,Male,7,30 to 34 years,0,Undefined,2826,0.006117379
+3,Upper Middle Class,1,Male,7,30 to 34 years,2,Primary School,62164,0.134565023
+3,Upper Middle Class,1,Male,7,30 to 34 years,3,Middle School,272196,0.589216606
+3,Upper Middle Class,1,Male,7,30 to 34 years,4,High School  or General Baccalaureate,362810,0.78536671
+3,Upper Middle Class,1,Male,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",55376,0.119871191
+3,Upper Middle Class,1,Male,7,30 to 34 years,10,Normal Bachelor's Degree,4532,0.009810319
+3,Upper Middle Class,1,Male,7,30 to 34 years,11,Bachelor's Degree,507605,1.098801214
+3,Upper Middle Class,1,Male,7,30 to 34 years,13,Master Degree,44305,0.095906045
+3,Upper Middle Class,1,Male,7,30 to 34 years,14,PhD,8122,0.017581512
+3,Upper Middle Class,1,Male,8,35 to 39 years,0,Undefined,2507,0.005426847
+3,Upper Middle Class,1,Male,8,35 to 39 years,2,Primary School,72771,0.15752576
+3,Upper Middle Class,1,Male,8,35 to 39 years,3,Middle School,288539,0.624593934
+3,Upper Middle Class,1,Male,8,35 to 39 years,4,High School  or General Baccalaureate,376523,0.815050935
+3,Upper Middle Class,1,Male,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",78821,0.17062206
+3,Upper Middle Class,1,Male,8,35 to 39 years,10,Normal Bachelor's Degree,4239,0.009176069
+3,Upper Middle Class,1,Male,8,35 to 39 years,11,Bachelor's Degree,393856,0.852571293
+3,Upper Middle Class,1,Male,8,35 to 39 years,13,Master Degree,45048,0.0975144
+3,Upper Middle Class,1,Male,8,35 to 39 years,14,PhD,9087,0.019670426
+3,Upper Middle Class,1,Male,9,40 to 44 years,0,Undefined,4127,0.008933625
+3,Upper Middle Class,1,Male,9,40 to 44 years,2,Primary School,105849,0.229128968
+3,Upper Middle Class,1,Male,9,40 to 44 years,3,Middle School,384572,0.832474425
+3,Upper Middle Class,1,Male,9,40 to 44 years,4,High School  or General Baccalaureate,318807,0.690114398
+3,Upper Middle Class,1,Male,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",72412,0.15674864
+3,Upper Middle Class,1,Male,9,40 to 44 years,10,Normal Bachelor's Degree,2776,0.006009145
+3,Upper Middle Class,1,Male,9,40 to 44 years,11,Bachelor's Degree,351921,0.761795534
+3,Upper Middle Class,1,Male,9,40 to 44 years,13,Master Degree,43170,0.093449136
+3,Upper Middle Class,1,Male,9,40 to 44 years,14,PhD,7533,0.016306517
+3,Upper Middle Class,1,Male,10,45 to 49 years,0,Undefined,4307,0.009323267
+3,Upper Middle Class,1,Male,10,45 to 49 years,2,Primary School,105139,0.227592047
+3,Upper Middle Class,1,Male,10,45 to 49 years,3,Middle School,391014,0.846419279
+3,Upper Middle Class,1,Male,10,45 to 49 years,4,High School  or General Baccalaureate,347326,0.75184884
+3,Upper Middle Class,1,Male,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",94202,0.203916967
+3,Upper Middle Class,1,Male,10,45 to 49 years,10,Normal Bachelor's Degree,3932,0.008511513
+3,Upper Middle Class,1,Male,10,45 to 49 years,11,Bachelor's Degree,291160,0.630267554
+3,Upper Middle Class,1,Male,10,45 to 49 years,13,Master Degree,39010,0.084444076
+3,Upper Middle Class,1,Male,10,45 to 49 years,14,PhD,6178,0.013373379
+3,Upper Middle Class,1,Male,11,50 to 54 years,0,Undefined,7521,0.016280541
+3,Upper Middle Class,1,Male,11,50 to 54 years,2,Primary School,147685,0.319690423
+3,Upper Middle Class,1,Male,11,50 to 54 years,3,Middle School,313521,0.678671911
+3,Upper Middle Class,1,Male,11,50 to 54 years,4,High School  or General Baccalaureate,282142,0.61074649
+3,Upper Middle Class,1,Male,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",76774,0.166190964
+3,Upper Middle Class,1,Male,11,50 to 54 years,10,Normal Bachelor's Degree,7535,0.016310846
+3,Upper Middle Class,1,Male,11,50 to 54 years,11,Bachelor's Degree,295921,0.640573584
+3,Upper Middle Class,1,Male,11,50 to 54 years,13,Master Degree,44986,0.09738019
+3,Upper Middle Class,1,Male,11,50 to 54 years,14,PhD,7492,0.016217765
+3,Upper Middle Class,1,Male,12,55 to 59 years,0,Undefined,7858,0.017010037
+3,Upper Middle Class,1,Male,12,55 to 59 years,2,Primary School,178367,0.386107064
+3,Upper Middle Class,1,Male,12,55 to 59 years,3,Middle School,279135,0.604237305
+3,Upper Middle Class,1,Male,12,55 to 59 years,4,High School  or General Baccalaureate,176825,0.382769131
+3,Upper Middle Class,1,Male,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",61279,0.132649284
+3,Upper Middle Class,1,Male,12,55 to 59 years,10,Normal Bachelor's Degree,12350,0.026733769
+3,Upper Middle Class,1,Male,12,55 to 59 years,11,Bachelor's Degree,259430,0.561582331
+3,Upper Middle Class,1,Male,12,55 to 59 years,13,Master Degree,41924,0.090751947
+3,Upper Middle Class,1,Male,12,55 to 59 years,14,PhD,7754,0.016784911
+3,Upper Middle Class,1,Male,13,60 to 64 years,0,Undefined,17164,0.037154528
+3,Upper Middle Class,1,Male,13,60 to 64 years,2,Primary School,241897,0.523629037
+3,Upper Middle Class,1,Male,13,60 to 64 years,3,Middle School,188355,0.407727865
+3,Upper Middle Class,1,Male,13,60 to 64 years,4,High School  or General Baccalaureate,133444,0.288863249
+3,Upper Middle Class,1,Male,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",47862,0.103605803
+3,Upper Middle Class,1,Male,13,60 to 64 years,10,Normal Bachelor's Degree,11492,0.024876476
+3,Upper Middle Class,1,Male,13,60 to 64 years,11,Bachelor's Degree,192760,0.41726327
+3,Upper Middle Class,1,Male,13,60 to 64 years,13,Master Degree,27087,0.058634624
+3,Upper Middle Class,1,Male,13,60 to 64 years,14,PhD,10003,0.021653271
+3,Upper Middle Class,1,Male,14,65 to 69 years,0,Undefined,19163,0.041481718
+3,Upper Middle Class,1,Male,14,65 to 69 years,2,Primary School,195330,0.422826492
+3,Upper Middle Class,1,Male,14,65 to 69 years,3,Middle School,127327,0.275621915
+3,Upper Middle Class,1,Male,14,65 to 69 years,4,High School  or General Baccalaureate,59760,0.129361138
+3,Upper Middle Class,1,Male,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",47035,0.101815615
+3,Upper Middle Class,1,Male,14,65 to 69 years,10,Normal Bachelor's Degree,5605,0.012133018
+3,Upper Middle Class,1,Male,14,65 to 69 years,11,Bachelor's Degree,128087,0.27726707
+3,Upper Middle Class,1,Male,14,65 to 69 years,13,Master Degree,23028,0.049848198
+3,Upper Middle Class,1,Male,14,65 to 69 years,14,PhD,6255,0.013540059
+3,Upper Middle Class,1,Male,15,70 to 74 years,0,Undefined,19267,0.041706845
+3,Upper Middle Class,1,Male,15,70 to 74 years,2,Primary School,179735,0.389068343
+3,Upper Middle Class,1,Male,15,70 to 74 years,3,Middle School,69540,0.150531686
+3,Upper Middle Class,1,Male,15,70 to 74 years,4,High School  or General Baccalaureate,48626,0.105259617
+3,Upper Middle Class,1,Male,15,70 to 74 years,8,"Technical or Comercial Studies, and Finished High School",36534,0.079084334
+3,Upper Middle Class,1,Male,15,70 to 74 years,10,Normal Bachelor's Degree,6417,0.013890737
+3,Upper Middle Class,1,Male,15,70 to 74 years,11,Bachelor's Degree,75077,0.162517506
+3,Upper Middle Class,1,Male,15,70 to 74 years,13,Master Degree,11898,0.025755335
+3,Upper Middle Class,1,Male,15,70 to 74 years,14,PhD,879,0.001902752
+3,Upper Middle Class,1,Male,16,75 to 79 years,0,Undefined,21079,0.045629241
+3,Upper Middle Class,1,Male,16,75 to 79 years,2,Primary School,143405,0.310425603
+3,Upper Middle Class,1,Male,16,75 to 79 years,3,Middle School,50308,0.108900605
+3,Upper Middle Class,1,Male,16,75 to 79 years,4,High School  or General Baccalaureate,23329,0.050499766
+3,Upper Middle Class,1,Male,16,75 to 79 years,8,"Technical or Comercial Studies, and Finished High School",14898,0.032249368
+3,Upper Middle Class,1,Male,16,75 to 79 years,10,Normal Bachelor's Degree,4950,0.010715155
+3,Upper Middle Class,1,Male,16,75 to 79 years,11,Bachelor's Degree,37926,0.082097566
+3,Upper Middle Class,1,Male,16,75 to 79 years,13,Master Degree,1424,0.003082501
+3,Upper Middle Class,1,Male,17,80 or more years,0,Undefined,37713,0.081636489
+3,Upper Middle Class,1,Male,17,80 or more years,2,Primary School,162272,0.351266577
+3,Upper Middle Class,1,Male,17,80 or more years,3,Middle School,29157,0.063115507
+3,Upper Middle Class,1,Male,17,80 or more years,4,High School  or General Baccalaureate,8952,0.019378195
+3,Upper Middle Class,1,Male,17,80 or more years,8,"Technical or Comercial Studies, and Finished High School",17020,0.036842814
+3,Upper Middle Class,1,Male,17,80 or more years,10,Normal Bachelor's Degree,3253,0.007041696
+3,Upper Middle Class,1,Male,17,80 or more years,11,Bachelor's Degree,26706,0.057809882
+3,Upper Middle Class,1,Male,17,80 or more years,13,Master Degree,1862,0.00403063
+3,Upper Middle Class,1,Male,17,80 or more years,14,PhD,3297,0.007136942
+3,Upper Middle Class,2,Female,4,15 to 19 years,2,Primary School,2662,0.007723792
+3,Upper Middle Class,2,Female,4,15 to 19 years,3,Middle School,35987,0.104416265
+3,Upper Middle Class,2,Female,4,15 to 19 years,4,High School  or General Baccalaureate,107157,0.31091599
+3,Upper Middle Class,2,Female,4,15 to 19 years,8,"Technical or Comercial Studies, and Finished High School",629,0.001825043
+3,Upper Middle Class,2,Female,4,15 to 19 years,11,Bachelor's Degree,11637,0.033764751
+3,Upper Middle Class,2,Female,5,20 to 24 years,0,Undefined,709,0.002057163
+3,Upper Middle Class,2,Female,5,20 to 24 years,2,Primary School,10476,0.03039611
+3,Upper Middle Class,2,Female,5,20 to 24 years,3,Middle School,179713,0.521437193
+3,Upper Middle Class,2,Female,5,20 to 24 years,4,High School  or General Baccalaureate,302483,0.877654295
+3,Upper Middle Class,2,Female,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",29634,0.085983038
+3,Upper Middle Class,2,Female,5,20 to 24 years,10,Normal Bachelor's Degree,3498,0.010149446
+3,Upper Middle Class,2,Female,5,20 to 24 years,11,Bachelor's Degree,335909,0.97463982
+3,Upper Middle Class,2,Female,5,20 to 24 years,13,Master Degree,1240,0.003597859
+3,Upper Middle Class,2,Female,5,20 to 24 years,14,PhD,648,0.001880172
+3,Upper Middle Class,2,Female,6,25 to 29 years,2,Primary School,19729,0.057243685
+3,Upper Middle Class,2,Female,6,25 to 29 years,3,Middle School,173494,0.503392767
+3,Upper Middle Class,2,Female,6,25 to 29 years,4,High School  or General Baccalaureate,343126,0.995579943
+3,Upper Middle Class,2,Female,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",67830,0.196808716
+3,Upper Middle Class,2,Female,6,25 to 29 years,10,Normal Bachelor's Degree,6533,0.018955497
+3,Upper Middle Class,2,Female,6,25 to 29 years,11,Bachelor's Degree,593966,1.723392096
+3,Upper Middle Class,2,Female,6,25 to 29 years,13,Master Degree,24647,0.07151326
+3,Upper Middle Class,2,Female,6,25 to 29 years,14,PhD,6826,0.019805636
+3,Upper Middle Class,2,Female,7,30 to 34 years,0,Undefined,825,0.002393737
+3,Upper Middle Class,2,Female,7,30 to 34 years,2,Primary School,42912,0.12450915
+3,Upper Middle Class,2,Female,7,30 to 34 years,3,Middle School,231389,0.671375085
+3,Upper Middle Class,2,Female,7,30 to 34 years,4,High School  or General Baccalaureate,299025,0.86762091
+3,Upper Middle Class,2,Female,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",90251,0.261863238
+3,Upper Middle Class,2,Female,7,30 to 34 years,10,Normal Bachelor's Degree,11887,0.034490125
+3,Upper Middle Class,2,Female,7,30 to 34 years,11,Bachelor's Degree,538309,1.561903334
+3,Upper Middle Class,2,Female,7,30 to 34 years,13,Master Degree,50247,0.145791649
+3,Upper Middle Class,2,Female,7,30 to 34 years,14,PhD,11510,0.03339626
+3,Upper Middle Class,2,Female,8,35 to 39 years,0,Undefined,1660,0.004816489
+3,Upper Middle Class,2,Female,8,35 to 39 years,2,Primary School,67874,0.196936382
+3,Upper Middle Class,2,Female,8,35 to 39 years,3,Middle School,291745,0.846497993
+3,Upper Middle Class,2,Female,8,35 to 39 years,4,High School  or General Baccalaureate,272896,0.791807628
+3,Upper Middle Class,2,Female,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",105990,0.30752994
+3,Upper Middle Class,2,Female,8,35 to 39 years,10,Normal Bachelor's Degree,4038,0.011716255
+3,Upper Middle Class,2,Female,8,35 to 39 years,11,Bachelor's Degree,414257,1.201966509
+3,Upper Middle Class,2,Female,8,35 to 39 years,13,Master Degree,56460,0.163818666
+3,Upper Middle Class,2,Female,8,35 to 39 years,14,PhD,6720,0.019498077
+3,Upper Middle Class,2,Female,9,40 to 44 years,0,Undefined,4372,0.012685356
+3,Upper Middle Class,2,Female,9,40 to 44 years,2,Primary School,75561,0.219240209
+3,Upper Middle Class,2,Female,9,40 to 44 years,3,Middle School,400236,1.161284583
+3,Upper Middle Class,2,Female,9,40 to 44 years,4,High School  or General Baccalaureate,264348,0.767005609
+3,Upper Middle Class,2,Female,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",162501,0.471496582
+3,Upper Middle Class,2,Female,9,40 to 44 years,10,Normal Bachelor's Degree,6865,0.019918795
+3,Upper Middle Class,2,Female,9,40 to 44 years,11,Bachelor's Degree,340600,0.988250755
+3,Upper Middle Class,2,Female,9,40 to 44 years,13,Master Degree,33793,0.098050375
+3,Upper Middle Class,2,Female,9,40 to 44 years,14,PhD,12745,0.036979612
+3,Upper Middle Class,2,Female,10,45 to 49 years,0,Undefined,1576,0.004572763
+3,Upper Middle Class,2,Female,10,45 to 49 years,2,Primary School,117909,0.342112913
+3,Upper Middle Class,2,Female,10,45 to 49 years,3,Middle School,328774,0.953937621
+3,Upper Middle Class,2,Female,10,45 to 49 years,4,High School  or General Baccalaureate,266940,0.774526296
+3,Upper Middle Class,2,Female,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",194212,0.563506035
+3,Upper Middle Class,2,Female,10,45 to 49 years,10,Normal Bachelor's Degree,9484,0.027517822
+3,Upper Middle Class,2,Female,10,45 to 49 years,11,Bachelor's Degree,285002,0.826933181
+3,Upper Middle Class,2,Female,10,45 to 49 years,13,Master Degree,39333,0.114124683
+3,Upper Middle Class,2,Female,10,45 to 49 years,14,PhD,9565,0.027752843
+3,Upper Middle Class,2,Female,11,50 to 54 years,0,Undefined,7292,0.021157735
+3,Upper Middle Class,2,Female,11,50 to 54 years,2,Primary School,142124,0.412372725
+3,Upper Middle Class,2,Female,11,50 to 54 years,3,Middle School,259914,0.75414036
+3,Upper Middle Class,2,Female,11,50 to 54 years,4,High School  or General Baccalaureate,215311,0.624724775
+3,Upper Middle Class,2,Female,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",191239,0.554879877
+3,Upper Middle Class,2,Female,11,50 to 54 years,10,Normal Bachelor's Degree,47055,0.136530062
+3,Upper Middle Class,2,Female,11,50 to 54 years,11,Bachelor's Degree,242945,0.704904814
+3,Upper Middle Class,2,Female,11,50 to 54 years,13,Master Degree,27886,0.080911217
+3,Upper Middle Class,2,Female,11,50 to 54 years,14,PhD,5023,0.014574232
+3,Upper Middle Class,2,Female,12,55 to 59 years,0,Undefined,3290,0.009545934
+3,Upper Middle Class,2,Female,12,55 to 59 years,1,Preschool or Kindergarden,1695,0.004918042
+3,Upper Middle Class,2,Female,12,55 to 59 years,2,Primary School,163615,0.474728853
+3,Upper Middle Class,2,Female,12,55 to 59 years,3,Middle School,181154,0.525618254
+3,Upper Middle Class,2,Female,12,55 to 59 years,4,High School  or General Baccalaureate,123204,0.357476353
+3,Upper Middle Class,2,Female,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",152296,0.441886779
+3,Upper Middle Class,2,Female,12,55 to 59 years,10,Normal Bachelor's Degree,35911,0.104195751
+3,Upper Middle Class,2,Female,12,55 to 59 years,11,Bachelor's Degree,177155,0.514015157
+3,Upper Middle Class,2,Female,12,55 to 59 years,13,Master Degree,23391,0.067868977
+3,Upper Middle Class,2,Female,12,55 to 59 years,14,PhD,10639,0.030869054
+3,Upper Middle Class,2,Female,13,60 to 64 years,0,Undefined,14531,0.04216169
+3,Upper Middle Class,2,Female,13,60 to 64 years,2,Primary School,161310,0.468040896
+3,Upper Middle Class,2,Female,13,60 to 64 years,3,Middle School,142545,0.413594257
+3,Upper Middle Class,2,Female,13,60 to 64 years,4,High School  or General Baccalaureate,75450,0.218918143
+3,Upper Middle Class,2,Female,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",132597,0.384730139
+3,Upper Middle Class,2,Female,13,60 to 64 years,10,Normal Bachelor's Degree,28432,0.082495436
+3,Upper Middle Class,2,Female,13,60 to 64 years,11,Bachelor's Degree,112271,0.325754259
+3,Upper Middle Class,2,Female,13,60 to 64 years,13,Master Degree,16723,0.048521777
+3,Upper Middle Class,2,Female,13,60 to 64 years,14,PhD,421,0.001221531
+3,Upper Middle Class,2,Female,14,65 to 69 years,0,Undefined,8488,0.024627928
+3,Upper Middle Class,2,Female,14,65 to 69 years,2,Primary School,145301,0.42159079
+3,Upper Middle Class,2,Female,14,65 to 69 years,3,Middle School,78492,0.227744505
+3,Upper Middle Class,2,Female,14,65 to 69 years,4,High School  or General Baccalaureate,34928,0.101343577
+3,Upper Middle Class,2,Female,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",104732,0.303879853
+3,Upper Middle Class,2,Female,14,65 to 69 years,10,Normal Bachelor's Degree,16792,0.048721981
+3,Upper Middle Class,2,Female,14,65 to 69 years,11,Bachelor's Degree,54403,0.157850281
+3,Upper Middle Class,2,Female,14,65 to 69 years,13,Master Degree,6175,0.01791676
+3,Upper Middle Class,2,Female,14,65 to 69 years,14,PhD,2021,0.005863931
+3,Upper Middle Class,2,Female,15,70 to 74 years,0,Undefined,15984,0.046377569
+3,Upper Middle Class,2,Female,15,70 to 74 years,1,Preschool or Kindergarden,360,0.00104454
+3,Upper Middle Class,2,Female,15,70 to 74 years,2,Primary School,92306,0.26782582
+3,Upper Middle Class,2,Female,15,70 to 74 years,3,Middle School,40100,0.116350133
+3,Upper Middle Class,2,Female,15,70 to 74 years,4,High School  or General Baccalaureate,12328,0.035769687
+3,Upper Middle Class,2,Female,15,70 to 74 years,8,"Technical or Comercial Studies, and Finished High School",44859,0.130158369
+3,Upper Middle Class,2,Female,15,70 to 74 years,10,Normal Bachelor's Degree,15080,0.043754614
+3,Upper Middle Class,2,Female,15,70 to 74 years,11,Bachelor's Degree,38191,0.11081117
+3,Upper Middle Class,2,Female,15,70 to 74 years,13,Master Degree,8008,0.023235209
+3,Upper Middle Class,2,Female,16,75 to 79 years,0,Undefined,8733,0.025338796
+3,Upper Middle Class,2,Female,16,75 to 79 years,2,Primary School,62521,0.181404655
+3,Upper Middle Class,2,Female,16,75 to 79 years,3,Middle School,12836,0.037243649
+3,Upper Middle Class,2,Female,16,75 to 79 years,4,High School  or General Baccalaureate,4665,0.013535496
+3,Upper Middle Class,2,Female,16,75 to 79 years,8,"Technical or Comercial Studies, and Finished High School",23150,0.067169715
+3,Upper Middle Class,2,Female,16,75 to 79 years,10,Normal Bachelor's Degree,11529,0.033451389
+3,Upper Middle Class,2,Female,16,75 to 79 years,11,Bachelor's Degree,18570,0.053880847
+3,Upper Middle Class,2,Female,16,75 to 79 years,13,Master Degree,1830,0.005309744
+3,Upper Middle Class,2,Female,17,80 or more years,0,Undefined,10965,0.031814943
+3,Upper Middle Class,2,Female,17,80 or more years,2,Primary School,67961,0.197188813
+3,Upper Middle Class,2,Female,17,80 or more years,3,Middle School,21692,0.062939329
+3,Upper Middle Class,2,Female,17,80 or more years,4,High School  or General Baccalaureate,4164,0.012081844
+3,Upper Middle Class,2,Female,17,80 or more years,8,"Technical or Comercial Studies, and Finished High School",24204,0.070227896
+3,Upper Middle Class,2,Female,17,80 or more years,10,Normal Bachelor's Degree,4556,0.013219232
+3,Upper Middle Class,2,Female,17,80 or more years,11,Bachelor's Degree,7270,0.021093902
+3,Upper Middle Class,2,Female,17,80 or more years,13,Master Degree,345,0.001001017
+4,Upper Class,1,Male,4,15 to 19 years,2,Primary School,139,0.00030089
+4,Upper Class,1,Male,4,15 to 19 years,3,Middle School,11432,0.024746595
+4,Upper Class,1,Male,4,15 to 19 years,4,High School  or General Baccalaureate,57659,0.12481315
+4,Upper Class,1,Male,4,15 to 19 years,8,"Technical or Comercial Studies, and Finished High School",1803,0.003902914
+4,Upper Class,1,Male,4,15 to 19 years,11,Bachelor's Degree,6311,0.013661281
+4,Upper Class,1,Male,5,20 to 24 years,0,Undefined,190,0.000411289
+4,Upper Class,1,Male,5,20 to 24 years,1,Preschool or Kindergarden,139,0.00030089
+4,Upper Class,1,Male,5,20 to 24 years,2,Primary School,4770,0.010325513
+4,Upper Class,1,Male,5,20 to 24 years,3,Middle School,45545,0.098590245
+4,Upper Class,1,Male,5,20 to 24 years,4,High School  or General Baccalaureate,136142,0.294703549
+4,Upper Class,1,Male,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",15171,0.032840325
+4,Upper Class,1,Male,5,20 to 24 years,10,Normal Bachelor's Degree,651,0.001409205
+4,Upper Class,1,Male,5,20 to 24 years,11,Bachelor's Degree,204188,0.442001206
+4,Upper Class,1,Male,5,20 to 24 years,13,Master Degree,1298,0.002809752
+4,Upper Class,1,Male,6,25 to 29 years,2,Primary School,6391,0.013834455
+4,Upper Class,1,Male,6,25 to 29 years,3,Middle School,58489,0.126609833
+4,Upper Class,1,Male,6,25 to 29 years,4,High School  or General Baccalaureate,129232,0.279745626
+4,Upper Class,1,Male,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",14589,0.031580483
+4,Upper Class,1,Male,6,25 to 29 years,10,Normal Bachelor's Degree,224,0.000484888
+4,Upper Class,1,Male,6,25 to 29 years,11,Bachelor's Degree,384284,0.831850998
+4,Upper Class,1,Male,6,25 to 29 years,13,Master Degree,23124,0.050056007
+4,Upper Class,1,Male,6,25 to 29 years,14,PhD,355,0.000768461
+4,Upper Class,1,Male,7,30 to 34 years,2,Primary School,10857,0.023501906
+4,Upper Class,1,Male,7,30 to 34 years,3,Middle School,63034,0.136448293
+4,Upper Class,1,Male,7,30 to 34 years,4,High School  or General Baccalaureate,120482,0.260804696
+4,Upper Class,1,Male,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",21098,0.04567037
+4,Upper Class,1,Male,7,30 to 34 years,10,Normal Bachelor's Degree,194,0.000419947
+4,Upper Class,1,Male,7,30 to 34 years,11,Bachelor's Degree,305706,0.661754955
+4,Upper Class,1,Male,7,30 to 34 years,13,Master Degree,54010,0.116914242
+4,Upper Class,1,Male,7,30 to 34 years,14,PhD,10183,0.022042913
+4,Upper Class,1,Male,8,35 to 39 years,0,Undefined,1244,0.002692859
+4,Upper Class,1,Male,8,35 to 39 years,2,Primary School,8237,0.01783045
+4,Upper Class,1,Male,8,35 to 39 years,3,Middle School,78432,0.16978
+4,Upper Class,1,Male,8,35 to 39 years,4,High School  or General Baccalaureate,124262,0.268987178
+4,Upper Class,1,Male,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",33585,0.0727007
+4,Upper Class,1,Male,8,35 to 39 years,10,Normal Bachelor's Degree,1581,0.003422355
+4,Upper Class,1,Male,8,35 to 39 years,11,Bachelor's Degree,326312,0.706360304
+4,Upper Class,1,Male,8,35 to 39 years,13,Master Degree,69636,0.150739495
+4,Upper Class,1,Male,8,35 to 39 years,14,PhD,17656,0.038219549
+4,Upper Class,1,Male,9,40 to 44 years,0,Undefined,567,0.001227372
+4,Upper Class,1,Male,9,40 to 44 years,2,Primary School,16920,0.036626346
+4,Upper Class,1,Male,9,40 to 44 years,3,Middle School,99924,0.216303253
+4,Upper Class,1,Male,9,40 to 44 years,4,High School  or General Baccalaureate,171734,0.371748757
+4,Upper Class,1,Male,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",38611,0.08358037
+4,Upper Class,1,Male,9,40 to 44 years,10,Normal Bachelor's Degree,1251,0.002708012
+4,Upper Class,1,Male,9,40 to 44 years,11,Bachelor's Degree,337312,0.730171758
+4,Upper Class,1,Male,9,40 to 44 years,13,Master Degree,56179,0.121609427
+4,Upper Class,1,Male,9,40 to 44 years,14,PhD,9208,0.019932352
+4,Upper Class,1,Male,10,45 to 49 years,0,Undefined,685,0.001482804
+4,Upper Class,1,Male,10,45 to 49 years,2,Primary School,12242,0.026499984
+4,Upper Class,1,Male,10,45 to 49 years,3,Middle School,122576,0.265337531
+4,Upper Class,1,Male,10,45 to 49 years,4,High School  or General Baccalaureate,131150,0.283897478
+4,Upper Class,1,Male,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",31840,0.068923337
+4,Upper Class,1,Male,10,45 to 49 years,10,Normal Bachelor's Degree,2070,0.004480883
+4,Upper Class,1,Male,10,45 to 49 years,11,Bachelor's Degree,259213,0.561112596
+4,Upper Class,1,Male,10,45 to 49 years,13,Master Degree,56120,0.121481711
+4,Upper Class,1,Male,10,45 to 49 years,14,PhD,13697,0.02964959
+4,Upper Class,1,Male,11,50 to 54 years,0,Undefined,1067,0.002309711
+4,Upper Class,1,Male,11,50 to 54 years,2,Primary School,11211,0.024268201
+4,Upper Class,1,Male,11,50 to 54 years,3,Middle School,82773,0.179176866
+4,Upper Class,1,Male,11,50 to 54 years,4,High School  or General Baccalaureate,117412,0.254159136
+4,Upper Class,1,Male,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",18998,0.041124547
+4,Upper Class,1,Male,11,50 to 54 years,10,Normal Bachelor's Degree,4111,0.00889899
+4,Upper Class,1,Male,11,50 to 54 years,11,Bachelor's Degree,240014,0.519552949
+4,Upper Class,1,Male,11,50 to 54 years,13,Master Degree,66007,0.14288388
+4,Upper Class,1,Male,11,50 to 54 years,14,PhD,17633,0.038169762
+4,Upper Class,1,Male,12,55 to 59 years,0,Undefined,1348,0.002917986
+4,Upper Class,1,Male,12,55 to 59 years,2,Primary School,33851,0.073276504
+4,Upper Class,1,Male,12,55 to 59 years,3,Middle School,42803,0.092654699
+4,Upper Class,1,Male,12,55 to 59 years,4,High School  or General Baccalaureate,80525,0.17431067
+4,Upper Class,1,Male,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",12696,0.027482748
+4,Upper Class,1,Male,12,55 to 59 years,10,Normal Bachelor's Degree,10942,0.023685903
+4,Upper Class,1,Male,12,55 to 59 years,11,Bachelor's Degree,213746,0.462691196
+4,Upper Class,1,Male,12,55 to 59 years,13,Master Degree,36024,0.077980349
+4,Upper Class,1,Male,12,55 to 59 years,14,PhD,10040,0.021733364
+4,Upper Class,1,Male,13,60 to 64 years,2,Primary School,24375,0.052764018
+4,Upper Class,1,Male,13,60 to 64 years,3,Middle School,45062,0.097544706
+4,Upper Class,1,Male,13,60 to 64 years,4,High School  or General Baccalaureate,46325,0.100278694
+4,Upper Class,1,Male,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",13929,0.030151795
+4,Upper Class,1,Male,13,60 to 64 years,10,Normal Bachelor's Degree,1669,0.003612847
+4,Upper Class,1,Male,13,60 to 64 years,11,Bachelor's Degree,196464,0.425281236
+4,Upper Class,1,Male,13,60 to 64 years,13,Master Degree,29880,0.064680569
+4,Upper Class,1,Male,13,60 to 64 years,14,PhD,10110,0.021884891
+4,Upper Class,1,Male,14,65 to 69 years,0,Undefined,1694,0.003666964
+4,Upper Class,1,Male,14,65 to 69 years,2,Primary School,42243,0.091442479
+4,Upper Class,1,Male,14,65 to 69 years,3,Middle School,23315,0.05046946
+4,Upper Class,1,Male,14,65 to 69 years,4,High School  or General Baccalaureate,14542,0.031478743
+4,Upper Class,1,Male,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",18512,0.040072513
+4,Upper Class,1,Male,14,65 to 69 years,10,Normal Bachelor's Degree,2000,0.004329355
+4,Upper Class,1,Male,14,65 to 69 years,11,Bachelor's Degree,137540,0.297729768
+4,Upper Class,1,Male,14,65 to 69 years,13,Master Degree,33215,0.071899769
+4,Upper Class,1,Male,14,65 to 69 years,14,PhD,9451,0.020458369
+4,Upper Class,1,Male,15,70 to 74 years,0,Undefined,1333,0.002885515
+4,Upper Class,1,Male,15,70 to 74 years,2,Primary School,24851,0.053794405
+4,Upper Class,1,Male,15,70 to 74 years,3,Middle School,25967,0.056210185
+4,Upper Class,1,Male,15,70 to 74 years,4,High School  or General Baccalaureate,18075,0.039126549
+4,Upper Class,1,Male,15,70 to 74 years,8,"Technical or Comercial Studies, and Finished High School",16608,0.035950967
+4,Upper Class,1,Male,15,70 to 74 years,10,Normal Bachelor's Degree,4180,0.009048353
+4,Upper Class,1,Male,15,70 to 74 years,11,Bachelor's Degree,68993,0.149347607
+4,Upper Class,1,Male,15,70 to 74 years,13,Master Degree,21525,0.046594687
+4,Upper Class,1,Male,15,70 to 74 years,14,PhD,9813,0.021241982
+4,Upper Class,1,Male,16,75 to 79 years,0,Undefined,2336,0.005056687
+4,Upper Class,1,Male,16,75 to 79 years,2,Primary School,21357,0.046231021
+4,Upper Class,1,Male,16,75 to 79 years,3,Middle School,11423,0.024727113
+4,Upper Class,1,Male,16,75 to 79 years,4,High School  or General Baccalaureate,5642,0.012213111
+4,Upper Class,1,Male,16,75 to 79 years,8,"Technical or Comercial Studies, and Finished High School",5784,0.012520496
+4,Upper Class,1,Male,16,75 to 79 years,10,Normal Bachelor's Degree,1489,0.003223205
+4,Upper Class,1,Male,16,75 to 79 years,11,Bachelor's Degree,68239,0.14771544
+4,Upper Class,1,Male,16,75 to 79 years,13,Master Degree,6768,0.014650539
+4,Upper Class,1,Male,16,75 to 79 years,14,PhD,385,0.000833401
+4,Upper Class,1,Male,17,80 or more years,0,Undefined,979,0.002119219
+4,Upper Class,1,Male,17,80 or more years,2,Primary School,28715,0.06215872
+4,Upper Class,1,Male,17,80 or more years,3,Middle School,22357,0.048395699
+4,Upper Class,1,Male,17,80 or more years,4,High School  or General Baccalaureate,3743,0.008102389
+4,Upper Class,1,Male,17,80 or more years,8,"Technical or Comercial Studies, and Finished High School",1827,0.003954866
+4,Upper Class,1,Male,17,80 or more years,10,Normal Bachelor's Degree,2472,0.005351083
+4,Upper Class,1,Male,17,80 or more years,11,Bachelor's Degree,51461,0.111396478
+4,Upper Class,1,Male,17,80 or more years,13,Master Degree,1747,0.003781692
+4,Upper Class,1,Male,17,80 or more years,14,PhD,11733,0.025398163
+4,Upper Class,2,Female,4,15 to 19 years,2,Primary School,606,0.001758309
+4,Upper Class,2,Female,4,15 to 19 years,3,Middle School,17610,0.051095407
+4,Upper Class,2,Female,4,15 to 19 years,4,High School  or General Baccalaureate,30344,0.088043103
+4,Upper Class,2,Female,4,15 to 19 years,8,"Technical or Comercial Studies, and Finished High School",827,0.00239954
+4,Upper Class,2,Female,4,15 to 19 years,11,Bachelor's Degree,4948,0.01435662
+4,Upper Class,2,Female,5,20 to 24 years,2,Primary School,1731,0.005022496
+4,Upper Class,2,Female,5,20 to 24 years,3,Middle School,26016,0.075485413
+4,Upper Class,2,Female,5,20 to 24 years,4,High School  or General Baccalaureate,93205,0.270434268
+4,Upper Class,2,Female,5,20 to 24 years,8,"Technical or Comercial Studies, and Finished High School",2539,0.007366907
+4,Upper Class,2,Female,5,20 to 24 years,10,Normal Bachelor's Degree,1486,0.004311628
+4,Upper Class,2,Female,5,20 to 24 years,11,Bachelor's Degree,171841,0.498596588
+4,Upper Class,2,Female,5,20 to 24 years,13,Master Degree,4391,0.012740485
+4,Upper Class,2,Female,6,25 to 29 years,2,Primary School,8446,0.024506065
+4,Upper Class,2,Female,6,25 to 29 years,3,Middle School,49283,0.142994603
+4,Upper Class,2,Female,6,25 to 29 years,4,High School  or General Baccalaureate,93538,0.271400467
+4,Upper Class,2,Female,6,25 to 29 years,8,"Technical or Comercial Studies, and Finished High School",12969,0.037629548
+4,Upper Class,2,Female,6,25 to 29 years,10,Normal Bachelor's Degree,3719,0.010790677
+4,Upper Class,2,Female,6,25 to 29 years,11,Bachelor's Degree,355651,1.031921225
+4,Upper Class,2,Female,6,25 to 29 years,13,Master Degree,37506,0.108823643
+4,Upper Class,2,Female,6,25 to 29 years,14,PhD,2055,0.005962582
+4,Upper Class,2,Female,7,30 to 34 years,0,Undefined,145,0.000420717
+4,Upper Class,2,Female,7,30 to 34 years,2,Primary School,5327,0.015456288
+4,Upper Class,2,Female,7,30 to 34 years,3,Middle School,48558,0.140891016
+4,Upper Class,2,Female,7,30 to 34 years,4,High School  or General Baccalaureate,112577,0.326642117
+4,Upper Class,2,Female,7,30 to 34 years,8,"Technical or Comercial Studies, and Finished High School",18389,0.053355676
+4,Upper Class,2,Female,7,30 to 34 years,10,Normal Bachelor's Degree,5431,0.015758044
+4,Upper Class,2,Female,7,30 to 34 years,11,Bachelor's Degree,333598,0.967934455
+4,Upper Class,2,Female,7,30 to 34 years,13,Master Degree,56065,0.162672574
+4,Upper Class,2,Female,7,30 to 34 years,14,PhD,6325,0.018351985
+4,Upper Class,2,Female,8,35 to 39 years,0,Undefined,191,0.000554186
+4,Upper Class,2,Female,8,35 to 39 years,2,Primary School,10842,0.031458058
+4,Upper Class,2,Female,8,35 to 39 years,3,Middle School,86651,0.25141784
+4,Upper Class,2,Female,8,35 to 39 years,4,High School  or General Baccalaureate,153148,0.444358857
+4,Upper Class,2,Female,8,35 to 39 years,8,"Technical or Comercial Studies, and Finished High School",52872,0.153408085
+4,Upper Class,2,Female,8,35 to 39 years,10,Normal Bachelor's Degree,4738,0.013747305
+4,Upper Class,2,Female,8,35 to 39 years,11,Bachelor's Degree,329608,0.956357471
+4,Upper Class,2,Female,8,35 to 39 years,13,Master Degree,63998,0.18569017
+4,Upper Class,2,Female,8,35 to 39 years,14,PhD,13745,0.039881112
+4,Upper Class,2,Female,9,40 to 44 years,2,Primary School,21054,0.061088172
+4,Upper Class,2,Female,9,40 to 44 years,3,Middle School,101069,0.29325166
+4,Upper Class,2,Female,9,40 to 44 years,4,High School  or General Baccalaureate,126219,0.366224375
+4,Upper Class,2,Female,9,40 to 44 years,8,"Technical or Comercial Studies, and Finished High School",86870,0.252053268
+4,Upper Class,2,Female,9,40 to 44 years,10,Normal Bachelor's Degree,5934,0.017217498
+4,Upper Class,2,Female,9,40 to 44 years,11,Bachelor's Degree,341638,0.991262511
+4,Upper Class,2,Female,9,40 to 44 years,13,Master Degree,58940,0.171014385
+4,Upper Class,2,Female,9,40 to 44 years,14,PhD,19282,0.055946715
+4,Upper Class,2,Female,10,45 to 49 years,0,Undefined,1667,0.0048368
+4,Upper Class,2,Female,10,45 to 49 years,2,Primary School,12667,0.036753295
+4,Upper Class,2,Female,10,45 to 49 years,3,Middle School,80562,0.233750609
+4,Upper Class,2,Female,10,45 to 49 years,4,High School  or General Baccalaureate,91790,0.266328646
+4,Upper Class,2,Female,10,45 to 49 years,8,"Technical or Comercial Studies, and Finished High School",95856,0.278126143
+4,Upper Class,2,Female,10,45 to 49 years,10,Normal Bachelor's Degree,8509,0.02468886
+4,Upper Class,2,Female,10,45 to 49 years,11,Bachelor's Degree,259182,0.752016462
+4,Upper Class,2,Female,10,45 to 49 years,13,Master Degree,55136,0.15997708
+4,Upper Class,2,Female,10,45 to 49 years,14,PhD,6715,0.01948357
+4,Upper Class,2,Female,11,50 to 54 years,0,Undefined,1395,0.004047592
+4,Upper Class,2,Female,11,50 to 54 years,2,Primary School,19517,0.056628567
+4,Upper Class,2,Female,11,50 to 54 years,3,Middle School,99621,0.289050289
+4,Upper Class,2,Female,11,50 to 54 years,4,High School  or General Baccalaureate,80280,0.232932386
+4,Upper Class,2,Female,11,50 to 54 years,8,"Technical or Comercial Studies, and Finished High School",98657,0.286253243
+4,Upper Class,2,Female,11,50 to 54 years,10,Normal Bachelor's Degree,17444,0.050613759
+4,Upper Class,2,Female,11,50 to 54 years,11,Bachelor's Degree,217952,0.632387635
+4,Upper Class,2,Female,11,50 to 54 years,13,Master Degree,43983,0.127616656
+4,Upper Class,2,Female,11,50 to 54 years,14,PhD,8420,0.024430626
+4,Upper Class,2,Female,12,55 to 59 years,0,Undefined,1076,0.003122014
+4,Upper Class,2,Female,12,55 to 59 years,2,Primary School,23753,0.068919319
+4,Upper Class,2,Female,12,55 to 59 years,3,Middle School,40808,0.118404395
+4,Upper Class,2,Female,12,55 to 59 years,4,High School  or General Baccalaureate,44689,0.129665114
+4,Upper Class,2,Female,12,55 to 59 years,8,"Technical or Comercial Studies, and Finished High School",72326,0.209853858
+4,Upper Class,2,Female,12,55 to 59 years,10,Normal Bachelor's Degree,22490,0.065254725
+4,Upper Class,2,Female,12,55 to 59 years,11,Bachelor's Degree,168198,0.488026425
+4,Upper Class,2,Female,12,55 to 59 years,13,Master Degree,45231,0.131237727
+4,Upper Class,2,Female,12,55 to 59 years,14,PhD,5359,0.015549136
+4,Upper Class,2,Female,13,60 to 64 years,0,Undefined,216,0.000626724
+4,Upper Class,2,Female,13,60 to 64 years,2,Primary School,24848,0.072096461
+4,Upper Class,2,Female,13,60 to 64 years,3,Middle School,26218,0.076071516
+4,Upper Class,2,Female,13,60 to 64 years,4,High School  or General Baccalaureate,45307,0.131458241
+4,Upper Class,2,Female,13,60 to 64 years,8,"Technical or Comercial Studies, and Finished High School",67890,0.196982806
+4,Upper Class,2,Female,13,60 to 64 years,10,Normal Bachelor's Degree,10358,0.030053733
+4,Upper Class,2,Female,13,60 to 64 years,11,Bachelor's Degree,118191,0.342931136
+4,Upper Class,2,Female,13,60 to 64 years,13,Master Degree,13319,0.038645073
+4,Upper Class,2,Female,13,60 to 64 years,14,PhD,2779,0.008063267
+4,Upper Class,2,Female,14,65 to 69 years,2,Primary School,17785,0.05160317
+4,Upper Class,2,Female,14,65 to 69 years,3,Middle School,27895,0.080937331
+4,Upper Class,2,Female,14,65 to 69 years,4,High School  or General Baccalaureate,19081,0.055363513
+4,Upper Class,2,Female,14,65 to 69 years,8,"Technical or Comercial Studies, and Finished High School",77266,0.224187266
+4,Upper Class,2,Female,14,65 to 69 years,10,Normal Bachelor's Degree,13521,0.039231176
+4,Upper Class,2,Female,14,65 to 69 years,11,Bachelor's Degree,58573,0.169949535
+4,Upper Class,2,Female,14,65 to 69 years,13,Master Degree,9611,0.027886312
+4,Upper Class,2,Female,14,65 to 69 years,14,PhD,4948,0.01435662
+4,Upper Class,2,Female,15,70 to 74 years,2,Primary School,19302,0.056004745
+4,Upper Class,2,Female,15,70 to 74 years,3,Middle School,14124,0.04098078
+4,Upper Class,2,Female,15,70 to 74 years,4,High School  or General Baccalaureate,13538,0.039280501
+4,Upper Class,2,Female,15,70 to 74 years,8,"Technical or Comercial Studies, and Finished High School",39498,0.11460343
+4,Upper Class,2,Female,15,70 to 74 years,10,Normal Bachelor's Degree,5325,0.015450485
+4,Upper Class,2,Female,15,70 to 74 years,11,Bachelor's Degree,44471,0.129032588
+4,Upper Class,2,Female,15,70 to 74 years,13,Master Degree,1287,0.00373423
+4,Upper Class,2,Female,15,70 to 74 years,14,PhD,2526,0.007329188
+4,Upper Class,2,Female,16,75 to 79 years,0,Undefined,435,0.001262152
+4,Upper Class,2,Female,16,75 to 79 years,2,Primary School,6813,0.019767917
+4,Upper Class,2,Female,16,75 to 79 years,3,Middle School,4248,0.01232557
+4,Upper Class,2,Female,16,75 to 79 years,4,High School  or General Baccalaureate,7516,0.021807671
+4,Upper Class,2,Female,16,75 to 79 years,8,"Technical or Comercial Studies, and Finished High School",25945,0.075279406
+4,Upper Class,2,Female,16,75 to 79 years,10,Normal Bachelor's Degree,6787,0.019692478
+4,Upper Class,2,Female,16,75 to 79 years,11,Bachelor's Degree,20625,0.059843429
+4,Upper Class,2,Female,16,75 to 79 years,13,Master Degree,662,0.001920793
+4,Upper Class,2,Female,16,75 to 79 years,14,PhD,8251,0.023940273
+4,Upper Class,2,Female,17,80 or more years,0,Undefined,277,0.000803715
+4,Upper Class,2,Female,17,80 or more years,2,Primary School,27808,0.0806849
+4,Upper Class,2,Female,17,80 or more years,3,Middle School,6246,0.018122766
+4,Upper Class,2,Female,17,80 or more years,4,High School  or General Baccalaureate,3902,0.011321651
+4,Upper Class,2,Female,17,80 or more years,8,"Technical or Comercial Studies, and Finished High School",21619,0.062727519
+4,Upper Class,2,Female,17,80 or more years,10,Normal Bachelor's Degree,6060,0.017583087
+4,Upper Class,2,Female,17,80 or more years,11,Bachelor's Degree,17320,0.050253973
+4,Upper Class,2,Female,17,80 or more years,14,PhD,2299,0.006670548

@@ -1,0 +1,953 @@
+,Socioeconomic Status ID,Socioeconomic Status,Sex ID,Sex,Age Range ID,Age Range,Nation ID,Nation,Academic Degree ID,Academic Degree,Population
+0,1,Lower Class,1,Male,4,15 to 19 years,mex,México,0,Undefined,127
+1,1,Lower Class,1,Male,4,15 to 19 years,mex,México,2,Primary School,14517
+2,1,Lower Class,1,Male,4,15 to 19 years,mex,México,3,Middle School,43729
+3,1,Lower Class,1,Male,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,48267
+4,1,Lower Class,1,Male,4,15 to 19 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",453
+5,1,Lower Class,1,Male,4,15 to 19 years,mex,México,11,Bachelor's Degree,2151
+6,1,Lower Class,1,Male,5,20 to 24 years,mex,México,0,Undefined,6453
+7,1,Lower Class,1,Male,5,20 to 24 years,mex,México,1,Preschool or Kindergarden,373
+8,1,Lower Class,1,Male,5,20 to 24 years,mex,México,2,Primary School,59521
+9,1,Lower Class,1,Male,5,20 to 24 years,mex,México,3,Middle School,173654
+10,1,Lower Class,1,Male,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,152005
+11,1,Lower Class,1,Male,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",4416
+12,1,Lower Class,1,Male,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,205
+13,1,Lower Class,1,Male,5,20 to 24 years,mex,México,11,Bachelor's Degree,40864
+14,1,Lower Class,1,Male,5,20 to 24 years,mex,México,13,Master Degree,2078
+15,1,Lower Class,1,Male,5,20 to 24 years,mex,México,14,PhD,115
+16,1,Lower Class,1,Male,6,25 to 29 years,mex,México,0,Undefined,4222
+17,1,Lower Class,1,Male,6,25 to 29 years,mex,México,2,Primary School,78373
+18,1,Lower Class,1,Male,6,25 to 29 years,mex,México,3,Middle School,216819
+19,1,Lower Class,1,Male,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,140415
+20,1,Lower Class,1,Male,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",6375
+21,1,Lower Class,1,Male,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,774
+22,1,Lower Class,1,Male,6,25 to 29 years,mex,México,11,Bachelor's Degree,49267
+23,1,Lower Class,1,Male,6,25 to 29 years,mex,México,13,Master Degree,546
+24,1,Lower Class,1,Male,6,25 to 29 years,mex,México,14,PhD,74
+25,1,Lower Class,1,Male,7,30 to 34 years,mex,México,0,Undefined,7926
+26,1,Lower Class,1,Male,7,30 to 34 years,mex,México,2,Primary School,121030
+27,1,Lower Class,1,Male,7,30 to 34 years,mex,México,3,Middle School,207009
+28,1,Lower Class,1,Male,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,112116
+29,1,Lower Class,1,Male,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",4759
+30,1,Lower Class,1,Male,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,452
+31,1,Lower Class,1,Male,7,30 to 34 years,mex,México,11,Bachelor's Degree,40904
+32,1,Lower Class,1,Male,7,30 to 34 years,mex,México,13,Master Degree,1066
+33,1,Lower Class,1,Male,7,30 to 34 years,mex,México,14,PhD,1473
+34,1,Lower Class,1,Male,8,35 to 39 years,mex,México,0,Undefined,13244
+35,1,Lower Class,1,Male,8,35 to 39 years,mex,México,1,Preschool or Kindergarden,663
+36,1,Lower Class,1,Male,8,35 to 39 years,mex,México,2,Primary School,181452
+37,1,Lower Class,1,Male,8,35 to 39 years,mex,México,3,Middle School,194676
+38,1,Lower Class,1,Male,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,61995
+39,1,Lower Class,1,Male,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",5737
+40,1,Lower Class,1,Male,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,2338
+41,1,Lower Class,1,Male,8,35 to 39 years,mex,México,11,Bachelor's Degree,32320
+42,1,Lower Class,1,Male,8,35 to 39 years,mex,México,13,Master Degree,2201
+43,1,Lower Class,1,Male,9,40 to 44 years,mex,México,0,Undefined,14294
+44,1,Lower Class,1,Male,9,40 to 44 years,mex,México,1,Preschool or Kindergarden,99
+45,1,Lower Class,1,Male,9,40 to 44 years,mex,México,2,Primary School,183722
+46,1,Lower Class,1,Male,9,40 to 44 years,mex,México,3,Middle School,168466
+47,1,Lower Class,1,Male,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,51379
+48,1,Lower Class,1,Male,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",8116
+49,1,Lower Class,1,Male,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,3020
+50,1,Lower Class,1,Male,9,40 to 44 years,mex,México,11,Bachelor's Degree,25349
+51,1,Lower Class,1,Male,9,40 to 44 years,mex,México,13,Master Degree,2666
+52,1,Lower Class,1,Male,10,45 to 49 years,mex,México,0,Undefined,14537
+53,1,Lower Class,1,Male,10,45 to 49 years,mex,México,2,Primary School,153000
+54,1,Lower Class,1,Male,10,45 to 49 years,mex,México,3,Middle School,137421
+55,1,Lower Class,1,Male,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,44570
+56,1,Lower Class,1,Male,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",5034
+57,1,Lower Class,1,Male,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,3211
+58,1,Lower Class,1,Male,10,45 to 49 years,mex,México,11,Bachelor's Degree,18876
+59,1,Lower Class,1,Male,10,45 to 49 years,mex,México,13,Master Degree,1969
+60,1,Lower Class,1,Male,11,50 to 54 years,mex,México,0,Undefined,18849
+61,1,Lower Class,1,Male,11,50 to 54 years,mex,México,1,Preschool or Kindergarden,846
+62,1,Lower Class,1,Male,11,50 to 54 years,mex,México,2,Primary School,131009
+63,1,Lower Class,1,Male,11,50 to 54 years,mex,México,3,Middle School,81306
+64,1,Lower Class,1,Male,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,26913
+65,1,Lower Class,1,Male,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",3644
+66,1,Lower Class,1,Male,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,4856
+67,1,Lower Class,1,Male,11,50 to 54 years,mex,México,11,Bachelor's Degree,20941
+68,1,Lower Class,1,Male,11,50 to 54 years,mex,México,13,Master Degree,474
+69,1,Lower Class,1,Male,11,50 to 54 years,mex,México,14,PhD,1329
+70,1,Lower Class,1,Male,12,55 to 59 years,mex,México,0,Undefined,22715
+71,1,Lower Class,1,Male,12,55 to 59 years,mex,México,1,Preschool or Kindergarden,69
+72,1,Lower Class,1,Male,12,55 to 59 years,mex,México,2,Primary School,127760
+73,1,Lower Class,1,Male,12,55 to 59 years,mex,México,3,Middle School,43898
+74,1,Lower Class,1,Male,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,17570
+75,1,Lower Class,1,Male,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",3278
+76,1,Lower Class,1,Male,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,4156
+77,1,Lower Class,1,Male,12,55 to 59 years,mex,México,11,Bachelor's Degree,15614
+78,1,Lower Class,1,Male,12,55 to 59 years,mex,México,13,Master Degree,552
+79,1,Lower Class,1,Male,13,60 to 64 years,mex,México,0,Undefined,23187
+80,1,Lower Class,1,Male,13,60 to 64 years,mex,México,1,Preschool or Kindergarden,464
+81,1,Lower Class,1,Male,13,60 to 64 years,mex,México,2,Primary School,106137
+82,1,Lower Class,1,Male,13,60 to 64 years,mex,México,3,Middle School,24130
+83,1,Lower Class,1,Male,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,7898
+84,1,Lower Class,1,Male,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",2485
+85,1,Lower Class,1,Male,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,6238
+86,1,Lower Class,1,Male,13,60 to 64 years,mex,México,11,Bachelor's Degree,8024
+87,1,Lower Class,1,Male,13,60 to 64 years,mex,México,13,Master Degree,519
+88,1,Lower Class,1,Male,13,60 to 64 years,mex,México,14,PhD,507
+89,1,Lower Class,1,Male,14,65 to 69 years,mex,México,0,Undefined,23029
+90,1,Lower Class,1,Male,14,65 to 69 years,mex,México,2,Primary School,89864
+91,1,Lower Class,1,Male,14,65 to 69 years,mex,México,3,Middle School,14545
+92,1,Lower Class,1,Male,14,65 to 69 years,mex,México,4,High School  or General Baccalaureate,4486
+93,1,Lower Class,1,Male,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",657
+94,1,Lower Class,1,Male,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,3881
+95,1,Lower Class,1,Male,14,65 to 69 years,mex,México,11,Bachelor's Degree,4586
+96,1,Lower Class,1,Male,14,65 to 69 years,mex,México,14,PhD,92
+97,1,Lower Class,1,Male,15,70 to 74 years,mex,México,0,Undefined,21644
+98,1,Lower Class,1,Male,15,70 to 74 years,mex,México,2,Primary School,52261
+99,1,Lower Class,1,Male,15,70 to 74 years,mex,México,3,Middle School,9148
+100,1,Lower Class,1,Male,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,1182
+101,1,Lower Class,1,Male,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,1265
+102,1,Lower Class,1,Male,15,70 to 74 years,mex,México,11,Bachelor's Degree,2168
+103,1,Lower Class,1,Male,15,70 to 74 years,mex,México,13,Master Degree,1128
+104,1,Lower Class,1,Male,16,75 to 79 years,mex,México,0,Undefined,17873
+105,1,Lower Class,1,Male,16,75 to 79 years,mex,México,1,Preschool or Kindergarden,591
+106,1,Lower Class,1,Male,16,75 to 79 years,mex,México,2,Primary School,37040
+107,1,Lower Class,1,Male,16,75 to 79 years,mex,México,3,Middle School,2343
+108,1,Lower Class,1,Male,16,75 to 79 years,mex,México,11,Bachelor's Degree,997
+109,1,Lower Class,1,Male,17,80 or more years,mex,México,0,Undefined,23868
+110,1,Lower Class,1,Male,17,80 or more years,mex,México,2,Primary School,34467
+111,1,Lower Class,1,Male,17,80 or more years,mex,México,3,Middle School,1077
+112,1,Lower Class,1,Male,17,80 or more years,mex,México,10,Normal Bachelor's Degree,590
+113,1,Lower Class,1,Male,17,80 or more years,mex,México,11,Bachelor's Degree,720
+114,1,Lower Class,2,Female,4,15 to 19 years,mex,México,0,Undefined,1407
+115,1,Lower Class,2,Female,4,15 to 19 years,mex,México,2,Primary School,4698
+116,1,Lower Class,2,Female,4,15 to 19 years,mex,México,3,Middle School,19846
+117,1,Lower Class,2,Female,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,27119
+118,1,Lower Class,2,Female,4,15 to 19 years,mex,México,11,Bachelor's Degree,2727
+119,1,Lower Class,2,Female,5,20 to 24 years,mex,México,0,Undefined,1186
+120,1,Lower Class,2,Female,5,20 to 24 years,mex,México,2,Primary School,19913
+121,1,Lower Class,2,Female,5,20 to 24 years,mex,México,3,Middle School,81464
+122,1,Lower Class,2,Female,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,96135
+123,1,Lower Class,2,Female,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",3543
+124,1,Lower Class,2,Female,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,1659
+125,1,Lower Class,2,Female,5,20 to 24 years,mex,México,11,Bachelor's Degree,30835
+126,1,Lower Class,2,Female,5,20 to 24 years,mex,México,13,Master Degree,895
+127,1,Lower Class,2,Female,6,25 to 29 years,mex,México,0,Undefined,1483
+128,1,Lower Class,2,Female,6,25 to 29 years,mex,México,1,Preschool or Kindergarden,376
+129,1,Lower Class,2,Female,6,25 to 29 years,mex,México,2,Primary School,32144
+130,1,Lower Class,2,Female,6,25 to 29 years,mex,México,3,Middle School,114672
+131,1,Lower Class,2,Female,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,101091
+132,1,Lower Class,2,Female,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",7551
+133,1,Lower Class,2,Female,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,2133
+134,1,Lower Class,2,Female,6,25 to 29 years,mex,México,11,Bachelor's Degree,50924
+135,1,Lower Class,2,Female,6,25 to 29 years,mex,México,13,Master Degree,2934
+136,1,Lower Class,2,Female,7,30 to 34 years,mex,México,0,Undefined,2377
+137,1,Lower Class,2,Female,7,30 to 34 years,mex,México,2,Primary School,39949
+138,1,Lower Class,2,Female,7,30 to 34 years,mex,México,3,Middle School,110452
+139,1,Lower Class,2,Female,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,64172
+140,1,Lower Class,2,Female,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",7672
+141,1,Lower Class,2,Female,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,307
+142,1,Lower Class,2,Female,7,30 to 34 years,mex,México,11,Bachelor's Degree,47306
+143,1,Lower Class,2,Female,7,30 to 34 years,mex,México,13,Master Degree,4737
+144,1,Lower Class,2,Female,8,35 to 39 years,mex,México,0,Undefined,2713
+145,1,Lower Class,2,Female,8,35 to 39 years,mex,México,2,Primary School,59984
+146,1,Lower Class,2,Female,8,35 to 39 years,mex,México,3,Middle School,107055
+147,1,Lower Class,2,Female,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,31771
+148,1,Lower Class,2,Female,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",7145
+149,1,Lower Class,2,Female,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,2064
+150,1,Lower Class,2,Female,8,35 to 39 years,mex,México,11,Bachelor's Degree,40319
+151,1,Lower Class,2,Female,8,35 to 39 years,mex,México,13,Master Degree,3410
+152,1,Lower Class,2,Female,9,40 to 44 years,mex,México,0,Undefined,2198
+153,1,Lower Class,2,Female,9,40 to 44 years,mex,México,2,Primary School,48984
+154,1,Lower Class,2,Female,9,40 to 44 years,mex,México,3,Middle School,75812
+155,1,Lower Class,2,Female,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,17789
+156,1,Lower Class,2,Female,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",9952
+157,1,Lower Class,2,Female,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,2871
+158,1,Lower Class,2,Female,9,40 to 44 years,mex,México,11,Bachelor's Degree,19758
+159,1,Lower Class,2,Female,9,40 to 44 years,mex,México,13,Master Degree,2202
+160,1,Lower Class,2,Female,9,40 to 44 years,mex,México,14,PhD,1326
+161,1,Lower Class,2,Female,10,45 to 49 years,mex,México,0,Undefined,4242
+162,1,Lower Class,2,Female,10,45 to 49 years,mex,México,2,Primary School,35275
+163,1,Lower Class,2,Female,10,45 to 49 years,mex,México,3,Middle School,51473
+164,1,Lower Class,2,Female,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,9066
+165,1,Lower Class,2,Female,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",7208
+166,1,Lower Class,2,Female,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,2450
+167,1,Lower Class,2,Female,10,45 to 49 years,mex,México,11,Bachelor's Degree,15613
+168,1,Lower Class,2,Female,10,45 to 49 years,mex,México,13,Master Degree,4393
+169,1,Lower Class,2,Female,11,50 to 54 years,mex,México,0,Undefined,2839
+170,1,Lower Class,2,Female,11,50 to 54 years,mex,México,2,Primary School,27053
+171,1,Lower Class,2,Female,11,50 to 54 years,mex,México,3,Middle School,29343
+172,1,Lower Class,2,Female,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,11661
+173,1,Lower Class,2,Female,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",7563
+174,1,Lower Class,2,Female,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,8439
+175,1,Lower Class,2,Female,11,50 to 54 years,mex,México,11,Bachelor's Degree,13801
+176,1,Lower Class,2,Female,11,50 to 54 years,mex,México,13,Master Degree,776
+177,1,Lower Class,2,Female,11,50 to 54 years,mex,México,14,PhD,1211
+178,1,Lower Class,2,Female,12,55 to 59 years,mex,México,0,Undefined,4923
+179,1,Lower Class,2,Female,12,55 to 59 years,mex,México,1,Preschool or Kindergarden,120
+180,1,Lower Class,2,Female,12,55 to 59 years,mex,México,2,Primary School,24977
+181,1,Lower Class,2,Female,12,55 to 59 years,mex,México,3,Middle School,12647
+182,1,Lower Class,2,Female,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,4839
+183,1,Lower Class,2,Female,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",4641
+184,1,Lower Class,2,Female,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,6891
+185,1,Lower Class,2,Female,12,55 to 59 years,mex,México,11,Bachelor's Degree,5095
+186,1,Lower Class,2,Female,12,55 to 59 years,mex,México,13,Master Degree,144
+187,1,Lower Class,2,Female,13,60 to 64 years,mex,México,0,Undefined,5110
+188,1,Lower Class,2,Female,13,60 to 64 years,mex,México,2,Primary School,18014
+189,1,Lower Class,2,Female,13,60 to 64 years,mex,México,3,Middle School,3876
+190,1,Lower Class,2,Female,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,2184
+191,1,Lower Class,2,Female,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",2639
+192,1,Lower Class,2,Female,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,979
+193,1,Lower Class,2,Female,13,60 to 64 years,mex,México,11,Bachelor's Degree,3464
+194,1,Lower Class,2,Female,13,60 to 64 years,mex,México,13,Master Degree,1158
+195,1,Lower Class,2,Female,14,65 to 69 years,mex,México,0,Undefined,4320
+196,1,Lower Class,2,Female,14,65 to 69 years,mex,México,2,Primary School,12643
+197,1,Lower Class,2,Female,14,65 to 69 years,mex,México,3,Middle School,4026
+198,1,Lower Class,2,Female,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",1791
+199,1,Lower Class,2,Female,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,1441
+200,1,Lower Class,2,Female,14,65 to 69 years,mex,México,11,Bachelor's Degree,705
+201,1,Lower Class,2,Female,14,65 to 69 years,mex,México,13,Master Degree,29
+202,1,Lower Class,2,Female,15,70 to 74 years,mex,México,0,Undefined,2159
+203,1,Lower Class,2,Female,15,70 to 74 years,mex,México,1,Preschool or Kindergarden,949
+204,1,Lower Class,2,Female,15,70 to 74 years,mex,México,2,Primary School,6760
+205,1,Lower Class,2,Female,15,70 to 74 years,mex,México,3,Middle School,1398
+206,1,Lower Class,2,Female,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,59
+207,1,Lower Class,2,Female,15,70 to 74 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",567
+208,1,Lower Class,2,Female,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,39
+209,1,Lower Class,2,Female,15,70 to 74 years,mex,México,11,Bachelor's Degree,110
+210,1,Lower Class,2,Female,16,75 to 79 years,mex,México,0,Undefined,2863
+211,1,Lower Class,2,Female,16,75 to 79 years,mex,México,1,Preschool or Kindergarden,71
+212,1,Lower Class,2,Female,16,75 to 79 years,mex,México,2,Primary School,2412
+213,1,Lower Class,2,Female,16,75 to 79 years,mex,México,3,Middle School,1140
+214,1,Lower Class,2,Female,16,75 to 79 years,mex,México,10,Normal Bachelor's Degree,606
+215,1,Lower Class,2,Female,16,75 to 79 years,mex,México,11,Bachelor's Degree,283
+216,1,Lower Class,2,Female,17,80 or more years,mex,México,0,Undefined,1832
+217,1,Lower Class,2,Female,17,80 or more years,mex,México,2,Primary School,3420
+218,1,Lower Class,2,Female,17,80 or more years,mex,México,3,Middle School,150
+219,1,Lower Class,2,Female,17,80 or more years,mex,México,10,Normal Bachelor's Degree,64
+220,1,Lower Class,2,Female,17,80 or more years,mex,México,11,Bachelor's Degree,446
+221,2,Lower Middle Class,1,Male,4,15 to 19 years,mex,México,0,Undefined,561
+222,2,Lower Middle Class,1,Male,4,15 to 19 years,mex,México,1,Preschool or Kindergarden,613
+223,2,Lower Middle Class,1,Male,4,15 to 19 years,mex,México,2,Primary School,46350
+224,2,Lower Middle Class,1,Male,4,15 to 19 years,mex,México,3,Middle School,235657
+225,2,Lower Middle Class,1,Male,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,259783
+226,2,Lower Middle Class,1,Male,4,15 to 19 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",8720
+227,2,Lower Middle Class,1,Male,4,15 to 19 years,mex,México,11,Bachelor's Degree,25917
+228,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,0,Undefined,7375
+229,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,2,Primary School,171702
+230,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,3,Middle School,779605
+231,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,925467
+232,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",66861
+233,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,5498
+234,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,11,Bachelor's Degree,396607
+235,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,13,Master Degree,695
+236,2,Lower Middle Class,1,Male,5,20 to 24 years,mex,México,14,PhD,79
+237,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,0,Undefined,14726
+238,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,1,Preschool or Kindergarden,49
+239,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,2,Primary School,215782
+240,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,3,Middle School,919876
+241,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,845709
+242,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",64185
+243,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,8861
+244,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,11,Bachelor's Degree,644014
+245,2,Lower Middle Class,1,Male,6,25 to 29 years,mex,México,13,Master Degree,13030
+246,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,0,Undefined,19387
+247,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,1,Preschool or Kindergarden,805
+248,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,2,Primary School,311004
+249,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,3,Middle School,1030979
+250,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,734789
+251,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",104655
+252,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,9654
+253,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,11,Bachelor's Degree,534350
+254,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,13,Master Degree,30440
+255,2,Lower Middle Class,1,Male,7,30 to 34 years,mex,México,14,PhD,6085
+256,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,0,Undefined,28649
+257,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,1,Preschool or Kindergarden,529
+258,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,2,Primary School,428434
+259,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,3,Middle School,1088107
+260,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,685336
+261,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",103829
+262,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,10021
+263,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,11,Bachelor's Degree,412887
+264,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,13,Master Degree,30990
+265,2,Lower Middle Class,1,Male,8,35 to 39 years,mex,México,14,PhD,5790
+266,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,0,Undefined,34058
+267,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,1,Preschool or Kindergarden,830
+268,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,2,Primary School,537313
+269,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,3,Middle School,1139227
+270,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,549981
+271,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",100716
+272,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,7637
+273,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,11,Bachelor's Degree,343987
+274,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,13,Master Degree,36376
+275,2,Lower Middle Class,1,Male,9,40 to 44 years,mex,México,14,PhD,7386
+276,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,0,Undefined,21211
+277,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,1,Preschool or Kindergarden,223
+278,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,2,Primary School,559997
+279,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,3,Middle School,939262
+280,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,472903
+281,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",80993
+282,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,10717
+283,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,11,Bachelor's Degree,257034
+284,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,13,Master Degree,32281
+285,2,Lower Middle Class,1,Male,10,45 to 49 years,mex,México,14,PhD,9959
+286,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,0,Undefined,50467
+287,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,1,Preschool or Kindergarden,461
+288,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,2,Primary School,560632
+289,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,3,Middle School,599547
+290,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,328005
+291,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",79338
+292,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,21861
+293,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,11,Bachelor's Degree,228334
+294,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,13,Master Degree,26206
+295,2,Lower Middle Class,1,Male,11,50 to 54 years,mex,México,14,PhD,5483
+296,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,0,Undefined,54736
+297,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,1,Preschool or Kindergarden,375
+298,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,2,Primary School,623021
+299,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,3,Middle School,481858
+300,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,222797
+301,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",52732
+302,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,39332
+303,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,11,Bachelor's Degree,189745
+304,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,13,Master Degree,22356
+305,2,Lower Middle Class,1,Male,12,55 to 59 years,mex,México,14,PhD,2418
+306,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,0,Undefined,72569
+307,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,1,Preschool or Kindergarden,786
+308,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,2,Primary School,659759
+309,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,3,Middle School,287965
+310,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,107744
+311,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",34379
+312,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,27951
+313,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,11,Bachelor's Degree,144185
+314,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,13,Master Degree,14377
+315,2,Lower Middle Class,1,Male,13,60 to 64 years,mex,México,14,PhD,4097
+316,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,0,Undefined,88070
+317,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,2,Primary School,539226
+318,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,3,Middle School,161396
+319,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,4,High School  or General Baccalaureate,44928
+320,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",35589
+321,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,13946
+322,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,11,Bachelor's Degree,69823
+323,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,13,Master Degree,11983
+324,2,Lower Middle Class,1,Male,14,65 to 69 years,mex,México,14,PhD,2302
+325,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,0,Undefined,82938
+326,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,1,Preschool or Kindergarden,3231
+327,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,2,Primary School,428990
+328,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,3,Middle School,85075
+329,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,12205
+330,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",13073
+331,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,15431
+332,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,11,Bachelor's Degree,32499
+333,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,13,Master Degree,2398
+334,2,Lower Middle Class,1,Male,15,70 to 74 years,mex,México,14,PhD,329
+335,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,0,Undefined,95332
+336,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,2,Primary School,282080
+337,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,3,Middle School,43419
+338,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,4,High School  or General Baccalaureate,9190
+339,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",3911
+340,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,10,Normal Bachelor's Degree,4368
+341,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,11,Bachelor's Degree,11362
+342,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,13,Master Degree,1464
+343,2,Lower Middle Class,1,Male,16,75 to 79 years,mex,México,14,PhD,348
+344,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,0,Undefined,97943
+345,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,1,Preschool or Kindergarden,1906
+346,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,2,Primary School,265334
+347,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,3,Middle School,27431
+348,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,4,High School  or General Baccalaureate,11881
+349,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,8,"Technical or Comercial Studies, and Finished High School",1718
+350,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,10,Normal Bachelor's Degree,4556
+351,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,11,Bachelor's Degree,12985
+352,2,Lower Middle Class,1,Male,17,80 or more years,mex,México,13,Master Degree,586
+353,2,Lower Middle Class,2,Female,4,15 to 19 years,mex,México,2,Primary School,18690
+354,2,Lower Middle Class,2,Female,4,15 to 19 years,mex,México,3,Middle School,117145
+355,2,Lower Middle Class,2,Female,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,187876
+356,2,Lower Middle Class,2,Female,4,15 to 19 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",5819
+357,2,Lower Middle Class,2,Female,4,15 to 19 years,mex,México,10,Normal Bachelor's Degree,608
+358,2,Lower Middle Class,2,Female,4,15 to 19 years,mex,México,11,Bachelor's Degree,14536
+359,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,0,Undefined,631
+360,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,2,Primary School,54481
+361,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,3,Middle School,480193
+362,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,660795
+363,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",45001
+364,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,4455
+365,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,11,Bachelor's Degree,371057
+366,2,Lower Middle Class,2,Female,5,20 to 24 years,mex,México,13,Master Degree,3788
+367,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,0,Undefined,4614
+368,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,1,Preschool or Kindergarden,224
+369,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,2,Primary School,112594
+370,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,3,Middle School,614055
+371,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,716688
+372,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",68557
+373,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,15879
+374,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,11,Bachelor's Degree,616717
+375,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,13,Master Degree,28366
+376,2,Lower Middle Class,2,Female,6,25 to 29 years,mex,México,14,PhD,806
+377,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,0,Undefined,6159
+378,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,2,Primary School,199528
+379,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,3,Middle School,808127
+380,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,649675
+381,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",110036
+382,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,18236
+383,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,11,Bachelor's Degree,562889
+384,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,13,Master Degree,45561
+385,2,Lower Middle Class,2,Female,7,30 to 34 years,mex,México,14,PhD,10192
+386,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,0,Undefined,10336
+387,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,1,Preschool or Kindergarden,2067
+388,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,2,Primary School,283708
+389,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,3,Middle School,833253
+390,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,452628
+391,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",129999
+392,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,17188
+393,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,11,Bachelor's Degree,389141
+394,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,13,Master Degree,45997
+395,2,Lower Middle Class,2,Female,8,35 to 39 years,mex,México,14,PhD,7117
+396,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,0,Undefined,11296
+397,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,1,Preschool or Kindergarden,771
+398,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,2,Primary School,331403
+399,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,3,Middle School,838714
+400,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,366898
+401,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",190069
+402,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,20393
+403,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,11,Bachelor's Degree,310252
+404,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,13,Master Degree,28184
+405,2,Lower Middle Class,2,Female,9,40 to 44 years,mex,México,14,PhD,5266
+406,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,0,Undefined,20337
+407,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,1,Preschool or Kindergarden,105
+408,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,2,Primary School,318919
+409,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,3,Middle School,656329
+410,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,276085
+411,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",192373
+412,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,23687
+413,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,11,Bachelor's Degree,189860
+414,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,13,Master Degree,21072
+415,2,Lower Middle Class,2,Female,10,45 to 49 years,mex,México,14,PhD,5426
+416,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,0,Undefined,29908
+417,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,2,Primary School,372734
+418,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,3,Middle School,421272
+419,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,146452
+420,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",143926
+421,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,57807
+422,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,11,Bachelor's Degree,177651
+423,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,13,Master Degree,15506
+424,2,Lower Middle Class,2,Female,11,50 to 54 years,mex,México,14,PhD,8615
+425,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,0,Undefined,32794
+426,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,1,Preschool or Kindergarden,1118
+427,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,2,Primary School,338244
+428,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,3,Middle School,261788
+429,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,73655
+430,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",108227
+431,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,50337
+432,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,11,Bachelor's Degree,117351
+433,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,13,Master Degree,13066
+434,2,Lower Middle Class,2,Female,12,55 to 59 years,mex,México,14,PhD,1864
+435,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,0,Undefined,28204
+436,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,2,Primary School,260148
+437,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,3,Middle School,95176
+438,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,32241
+439,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",60683
+440,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,30355
+441,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,11,Bachelor's Degree,60750
+442,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,13,Master Degree,5938
+443,2,Lower Middle Class,2,Female,13,60 to 64 years,mex,México,14,PhD,599
+444,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,0,Undefined,25286
+445,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,1,Preschool or Kindergarden,820
+446,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,2,Primary School,170112
+447,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,3,Middle School,68790
+448,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,4,High School  or General Baccalaureate,13188
+449,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",56901
+450,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,23232
+451,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,11,Bachelor's Degree,33181
+452,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,13,Master Degree,5177
+453,2,Lower Middle Class,2,Female,14,65 to 69 years,mex,México,14,PhD,1044
+454,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,0,Undefined,21564
+455,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,1,Preschool or Kindergarden,354
+456,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,2,Primary School,122997
+457,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,3,Middle School,25443
+458,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,2518
+459,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",20910
+460,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,8412
+461,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,11,Bachelor's Degree,12044
+462,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,13,Master Degree,3775
+463,2,Lower Middle Class,2,Female,15,70 to 74 years,mex,México,14,PhD,2010
+464,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,0,Undefined,14695
+465,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,2,Primary School,59730
+466,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,3,Middle School,9816
+467,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,4,High School  or General Baccalaureate,203
+468,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",7393
+469,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,10,Normal Bachelor's Degree,4312
+470,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,11,Bachelor's Degree,3754
+471,2,Lower Middle Class,2,Female,16,75 to 79 years,mex,México,13,Master Degree,407
+472,2,Lower Middle Class,2,Female,17,80 or more years,mex,México,0,Undefined,16590
+473,2,Lower Middle Class,2,Female,17,80 or more years,mex,México,2,Primary School,60375
+474,2,Lower Middle Class,2,Female,17,80 or more years,mex,México,3,Middle School,7312
+475,2,Lower Middle Class,2,Female,17,80 or more years,mex,México,4,High School  or General Baccalaureate,3399
+476,2,Lower Middle Class,2,Female,17,80 or more years,mex,México,8,"Technical or Comercial Studies, and Finished High School",6212
+477,2,Lower Middle Class,2,Female,17,80 or more years,mex,México,10,Normal Bachelor's Degree,11000
+478,2,Lower Middle Class,2,Female,17,80 or more years,mex,México,11,Bachelor's Degree,2071
+479,3,Upper Middle Class,1,Male,4,15 to 19 years,mex,México,2,Primary School,11579
+480,3,Upper Middle Class,1,Male,4,15 to 19 years,mex,México,3,Middle School,69721
+481,3,Upper Middle Class,1,Male,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,128932
+482,3,Upper Middle Class,1,Male,4,15 to 19 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",4069
+483,3,Upper Middle Class,1,Male,4,15 to 19 years,mex,México,11,Bachelor's Degree,8539
+484,3,Upper Middle Class,1,Male,5,20 to 24 years,mex,México,2,Primary School,27142
+485,3,Upper Middle Class,1,Male,5,20 to 24 years,mex,México,3,Middle School,272001
+486,3,Upper Middle Class,1,Male,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,429305
+487,3,Upper Middle Class,1,Male,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",41831
+488,3,Upper Middle Class,1,Male,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,2867
+489,3,Upper Middle Class,1,Male,5,20 to 24 years,mex,México,11,Bachelor's Degree,340341
+490,3,Upper Middle Class,1,Male,5,20 to 24 years,mex,México,13,Master Degree,783
+491,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,0,Undefined,536
+492,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,2,Primary School,41369
+493,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,3,Middle School,267753
+494,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,382842
+495,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",45308
+496,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,1527
+497,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,11,Bachelor's Degree,641043
+498,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,13,Master Degree,19314
+499,3,Upper Middle Class,1,Male,6,25 to 29 years,mex,México,14,PhD,702
+500,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,0,Undefined,2826
+501,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,2,Primary School,62164
+502,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,3,Middle School,272196
+503,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,362810
+504,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",55376
+505,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,4532
+506,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,11,Bachelor's Degree,507605
+507,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,13,Master Degree,44305
+508,3,Upper Middle Class,1,Male,7,30 to 34 years,mex,México,14,PhD,8122
+509,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,0,Undefined,2507
+510,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,2,Primary School,72771
+511,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,3,Middle School,288539
+512,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,376523
+513,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",78821
+514,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,4239
+515,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,11,Bachelor's Degree,393856
+516,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,13,Master Degree,45048
+517,3,Upper Middle Class,1,Male,8,35 to 39 years,mex,México,14,PhD,9087
+518,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,0,Undefined,4127
+519,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,2,Primary School,105849
+520,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,3,Middle School,384572
+521,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,318807
+522,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",72412
+523,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,2776
+524,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,11,Bachelor's Degree,351921
+525,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,13,Master Degree,43170
+526,3,Upper Middle Class,1,Male,9,40 to 44 years,mex,México,14,PhD,7533
+527,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,0,Undefined,4307
+528,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,2,Primary School,105139
+529,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,3,Middle School,391014
+530,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,347326
+531,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",94202
+532,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,3932
+533,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,11,Bachelor's Degree,291160
+534,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,13,Master Degree,39010
+535,3,Upper Middle Class,1,Male,10,45 to 49 years,mex,México,14,PhD,6178
+536,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,0,Undefined,7521
+537,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,2,Primary School,147685
+538,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,3,Middle School,313521
+539,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,282142
+540,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",76774
+541,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,7535
+542,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,11,Bachelor's Degree,295921
+543,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,13,Master Degree,44986
+544,3,Upper Middle Class,1,Male,11,50 to 54 years,mex,México,14,PhD,7492
+545,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,0,Undefined,7858
+546,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,2,Primary School,178367
+547,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,3,Middle School,279135
+548,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,176825
+549,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",61279
+550,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,12350
+551,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,11,Bachelor's Degree,259430
+552,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,13,Master Degree,41924
+553,3,Upper Middle Class,1,Male,12,55 to 59 years,mex,México,14,PhD,7754
+554,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,0,Undefined,17164
+555,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,2,Primary School,241897
+556,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,3,Middle School,188355
+557,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,133444
+558,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",47862
+559,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,11492
+560,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,11,Bachelor's Degree,192760
+561,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,13,Master Degree,27087
+562,3,Upper Middle Class,1,Male,13,60 to 64 years,mex,México,14,PhD,10003
+563,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,0,Undefined,19163
+564,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,2,Primary School,195330
+565,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,3,Middle School,127327
+566,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,4,High School  or General Baccalaureate,59760
+567,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",47035
+568,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,5605
+569,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,11,Bachelor's Degree,128087
+570,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,13,Master Degree,23028
+571,3,Upper Middle Class,1,Male,14,65 to 69 years,mex,México,14,PhD,6255
+572,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,0,Undefined,19267
+573,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,2,Primary School,179735
+574,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,3,Middle School,69540
+575,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,48626
+576,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",36534
+577,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,6417
+578,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,11,Bachelor's Degree,75077
+579,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,13,Master Degree,11898
+580,3,Upper Middle Class,1,Male,15,70 to 74 years,mex,México,14,PhD,879
+581,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,0,Undefined,21079
+582,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,2,Primary School,143405
+583,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,3,Middle School,50308
+584,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,4,High School  or General Baccalaureate,23329
+585,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",14898
+586,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,10,Normal Bachelor's Degree,4950
+587,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,11,Bachelor's Degree,37926
+588,3,Upper Middle Class,1,Male,16,75 to 79 years,mex,México,13,Master Degree,1424
+589,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,0,Undefined,37713
+590,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,2,Primary School,162272
+591,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,3,Middle School,29157
+592,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,4,High School  or General Baccalaureate,8952
+593,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,8,"Technical or Comercial Studies, and Finished High School",17020
+594,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,10,Normal Bachelor's Degree,3253
+595,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,11,Bachelor's Degree,26706
+596,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,13,Master Degree,1862
+597,3,Upper Middle Class,1,Male,17,80 or more years,mex,México,14,PhD,3297
+598,3,Upper Middle Class,2,Female,4,15 to 19 years,mex,México,2,Primary School,2662
+599,3,Upper Middle Class,2,Female,4,15 to 19 years,mex,México,3,Middle School,35987
+600,3,Upper Middle Class,2,Female,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,107157
+601,3,Upper Middle Class,2,Female,4,15 to 19 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",629
+602,3,Upper Middle Class,2,Female,4,15 to 19 years,mex,México,11,Bachelor's Degree,11637
+603,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,0,Undefined,709
+604,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,2,Primary School,10476
+605,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,3,Middle School,179713
+606,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,302483
+607,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",29634
+608,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,3498
+609,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,11,Bachelor's Degree,335909
+610,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,13,Master Degree,1240
+611,3,Upper Middle Class,2,Female,5,20 to 24 years,mex,México,14,PhD,648
+612,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,2,Primary School,19729
+613,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,3,Middle School,173494
+614,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,343126
+615,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",67830
+616,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,6533
+617,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,11,Bachelor's Degree,593966
+618,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,13,Master Degree,24647
+619,3,Upper Middle Class,2,Female,6,25 to 29 years,mex,México,14,PhD,6826
+620,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,0,Undefined,825
+621,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,2,Primary School,42912
+622,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,3,Middle School,231389
+623,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,299025
+624,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",90251
+625,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,11887
+626,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,11,Bachelor's Degree,538309
+627,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,13,Master Degree,50247
+628,3,Upper Middle Class,2,Female,7,30 to 34 years,mex,México,14,PhD,11510
+629,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,0,Undefined,1660
+630,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,2,Primary School,67874
+631,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,3,Middle School,291745
+632,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,272896
+633,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",105990
+634,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,4038
+635,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,11,Bachelor's Degree,414257
+636,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,13,Master Degree,56460
+637,3,Upper Middle Class,2,Female,8,35 to 39 years,mex,México,14,PhD,6720
+638,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,0,Undefined,4372
+639,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,2,Primary School,75561
+640,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,3,Middle School,400236
+641,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,264348
+642,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",162501
+643,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,6865
+644,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,11,Bachelor's Degree,340600
+645,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,13,Master Degree,33793
+646,3,Upper Middle Class,2,Female,9,40 to 44 years,mex,México,14,PhD,12745
+647,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,0,Undefined,1576
+648,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,2,Primary School,117909
+649,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,3,Middle School,328774
+650,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,266940
+651,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",194212
+652,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,9484
+653,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,11,Bachelor's Degree,285002
+654,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,13,Master Degree,39333
+655,3,Upper Middle Class,2,Female,10,45 to 49 years,mex,México,14,PhD,9565
+656,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,0,Undefined,7292
+657,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,2,Primary School,142124
+658,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,3,Middle School,259914
+659,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,215311
+660,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",191239
+661,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,47055
+662,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,11,Bachelor's Degree,242945
+663,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,13,Master Degree,27886
+664,3,Upper Middle Class,2,Female,11,50 to 54 years,mex,México,14,PhD,5023
+665,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,0,Undefined,3290
+666,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,1,Preschool or Kindergarden,1695
+667,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,2,Primary School,163615
+668,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,3,Middle School,181154
+669,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,123204
+670,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",152296
+671,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,35911
+672,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,11,Bachelor's Degree,177155
+673,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,13,Master Degree,23391
+674,3,Upper Middle Class,2,Female,12,55 to 59 years,mex,México,14,PhD,10639
+675,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,0,Undefined,14531
+676,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,2,Primary School,161310
+677,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,3,Middle School,142545
+678,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,75450
+679,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",132597
+680,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,28432
+681,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,11,Bachelor's Degree,112271
+682,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,13,Master Degree,16723
+683,3,Upper Middle Class,2,Female,13,60 to 64 years,mex,México,14,PhD,421
+684,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,0,Undefined,8488
+685,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,2,Primary School,145301
+686,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,3,Middle School,78492
+687,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,4,High School  or General Baccalaureate,34928
+688,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",104732
+689,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,16792
+690,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,11,Bachelor's Degree,54403
+691,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,13,Master Degree,6175
+692,3,Upper Middle Class,2,Female,14,65 to 69 years,mex,México,14,PhD,2021
+693,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,0,Undefined,15984
+694,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,1,Preschool or Kindergarden,360
+695,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,2,Primary School,92306
+696,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,3,Middle School,40100
+697,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,12328
+698,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",44859
+699,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,15080
+700,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,11,Bachelor's Degree,38191
+701,3,Upper Middle Class,2,Female,15,70 to 74 years,mex,México,13,Master Degree,8008
+702,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,0,Undefined,8733
+703,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,2,Primary School,62521
+704,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,3,Middle School,12836
+705,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,4,High School  or General Baccalaureate,4665
+706,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",23150
+707,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,10,Normal Bachelor's Degree,11529
+708,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,11,Bachelor's Degree,18570
+709,3,Upper Middle Class,2,Female,16,75 to 79 years,mex,México,13,Master Degree,1830
+710,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,0,Undefined,10965
+711,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,2,Primary School,67961
+712,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,3,Middle School,21692
+713,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,4,High School  or General Baccalaureate,4164
+714,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,8,"Technical or Comercial Studies, and Finished High School",24204
+715,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,10,Normal Bachelor's Degree,4556
+716,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,11,Bachelor's Degree,7270
+717,3,Upper Middle Class,2,Female,17,80 or more years,mex,México,13,Master Degree,345
+718,4,Upper Class,1,Male,4,15 to 19 years,mex,México,2,Primary School,139
+719,4,Upper Class,1,Male,4,15 to 19 years,mex,México,3,Middle School,11432
+720,4,Upper Class,1,Male,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,57659
+721,4,Upper Class,1,Male,4,15 to 19 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",1803
+722,4,Upper Class,1,Male,4,15 to 19 years,mex,México,11,Bachelor's Degree,6311
+723,4,Upper Class,1,Male,5,20 to 24 years,mex,México,0,Undefined,190
+724,4,Upper Class,1,Male,5,20 to 24 years,mex,México,1,Preschool or Kindergarden,139
+725,4,Upper Class,1,Male,5,20 to 24 years,mex,México,2,Primary School,4770
+726,4,Upper Class,1,Male,5,20 to 24 years,mex,México,3,Middle School,45545
+727,4,Upper Class,1,Male,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,136142
+728,4,Upper Class,1,Male,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",15171
+729,4,Upper Class,1,Male,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,651
+730,4,Upper Class,1,Male,5,20 to 24 years,mex,México,11,Bachelor's Degree,204188
+731,4,Upper Class,1,Male,5,20 to 24 years,mex,México,13,Master Degree,1298
+732,4,Upper Class,1,Male,6,25 to 29 years,mex,México,2,Primary School,6391
+733,4,Upper Class,1,Male,6,25 to 29 years,mex,México,3,Middle School,58489
+734,4,Upper Class,1,Male,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,129232
+735,4,Upper Class,1,Male,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",14589
+736,4,Upper Class,1,Male,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,224
+737,4,Upper Class,1,Male,6,25 to 29 years,mex,México,11,Bachelor's Degree,384284
+738,4,Upper Class,1,Male,6,25 to 29 years,mex,México,13,Master Degree,23124
+739,4,Upper Class,1,Male,6,25 to 29 years,mex,México,14,PhD,355
+740,4,Upper Class,1,Male,7,30 to 34 years,mex,México,2,Primary School,10857
+741,4,Upper Class,1,Male,7,30 to 34 years,mex,México,3,Middle School,63034
+742,4,Upper Class,1,Male,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,120482
+743,4,Upper Class,1,Male,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",21098
+744,4,Upper Class,1,Male,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,194
+745,4,Upper Class,1,Male,7,30 to 34 years,mex,México,11,Bachelor's Degree,305706
+746,4,Upper Class,1,Male,7,30 to 34 years,mex,México,13,Master Degree,54010
+747,4,Upper Class,1,Male,7,30 to 34 years,mex,México,14,PhD,10183
+748,4,Upper Class,1,Male,8,35 to 39 years,mex,México,0,Undefined,1244
+749,4,Upper Class,1,Male,8,35 to 39 years,mex,México,2,Primary School,8237
+750,4,Upper Class,1,Male,8,35 to 39 years,mex,México,3,Middle School,78432
+751,4,Upper Class,1,Male,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,124262
+752,4,Upper Class,1,Male,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",33585
+753,4,Upper Class,1,Male,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,1581
+754,4,Upper Class,1,Male,8,35 to 39 years,mex,México,11,Bachelor's Degree,326312
+755,4,Upper Class,1,Male,8,35 to 39 years,mex,México,13,Master Degree,69636
+756,4,Upper Class,1,Male,8,35 to 39 years,mex,México,14,PhD,17656
+757,4,Upper Class,1,Male,9,40 to 44 years,mex,México,0,Undefined,567
+758,4,Upper Class,1,Male,9,40 to 44 years,mex,México,2,Primary School,16920
+759,4,Upper Class,1,Male,9,40 to 44 years,mex,México,3,Middle School,99924
+760,4,Upper Class,1,Male,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,171734
+761,4,Upper Class,1,Male,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",38611
+762,4,Upper Class,1,Male,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,1251
+763,4,Upper Class,1,Male,9,40 to 44 years,mex,México,11,Bachelor's Degree,337312
+764,4,Upper Class,1,Male,9,40 to 44 years,mex,México,13,Master Degree,56179
+765,4,Upper Class,1,Male,9,40 to 44 years,mex,México,14,PhD,9208
+766,4,Upper Class,1,Male,10,45 to 49 years,mex,México,0,Undefined,685
+767,4,Upper Class,1,Male,10,45 to 49 years,mex,México,2,Primary School,12242
+768,4,Upper Class,1,Male,10,45 to 49 years,mex,México,3,Middle School,122576
+769,4,Upper Class,1,Male,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,131150
+770,4,Upper Class,1,Male,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",31840
+771,4,Upper Class,1,Male,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,2070
+772,4,Upper Class,1,Male,10,45 to 49 years,mex,México,11,Bachelor's Degree,259213
+773,4,Upper Class,1,Male,10,45 to 49 years,mex,México,13,Master Degree,56120
+774,4,Upper Class,1,Male,10,45 to 49 years,mex,México,14,PhD,13697
+775,4,Upper Class,1,Male,11,50 to 54 years,mex,México,0,Undefined,1067
+776,4,Upper Class,1,Male,11,50 to 54 years,mex,México,2,Primary School,11211
+777,4,Upper Class,1,Male,11,50 to 54 years,mex,México,3,Middle School,82773
+778,4,Upper Class,1,Male,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,117412
+779,4,Upper Class,1,Male,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",18998
+780,4,Upper Class,1,Male,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,4111
+781,4,Upper Class,1,Male,11,50 to 54 years,mex,México,11,Bachelor's Degree,240014
+782,4,Upper Class,1,Male,11,50 to 54 years,mex,México,13,Master Degree,66007
+783,4,Upper Class,1,Male,11,50 to 54 years,mex,México,14,PhD,17633
+784,4,Upper Class,1,Male,12,55 to 59 years,mex,México,0,Undefined,1348
+785,4,Upper Class,1,Male,12,55 to 59 years,mex,México,2,Primary School,33851
+786,4,Upper Class,1,Male,12,55 to 59 years,mex,México,3,Middle School,42803
+787,4,Upper Class,1,Male,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,80525
+788,4,Upper Class,1,Male,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",12696
+789,4,Upper Class,1,Male,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,10942
+790,4,Upper Class,1,Male,12,55 to 59 years,mex,México,11,Bachelor's Degree,213746
+791,4,Upper Class,1,Male,12,55 to 59 years,mex,México,13,Master Degree,36024
+792,4,Upper Class,1,Male,12,55 to 59 years,mex,México,14,PhD,10040
+793,4,Upper Class,1,Male,13,60 to 64 years,mex,México,2,Primary School,24375
+794,4,Upper Class,1,Male,13,60 to 64 years,mex,México,3,Middle School,45062
+795,4,Upper Class,1,Male,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,46325
+796,4,Upper Class,1,Male,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",13929
+797,4,Upper Class,1,Male,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,1669
+798,4,Upper Class,1,Male,13,60 to 64 years,mex,México,11,Bachelor's Degree,196464
+799,4,Upper Class,1,Male,13,60 to 64 years,mex,México,13,Master Degree,29880
+800,4,Upper Class,1,Male,13,60 to 64 years,mex,México,14,PhD,10110
+801,4,Upper Class,1,Male,14,65 to 69 years,mex,México,0,Undefined,1694
+802,4,Upper Class,1,Male,14,65 to 69 years,mex,México,2,Primary School,42243
+803,4,Upper Class,1,Male,14,65 to 69 years,mex,México,3,Middle School,23315
+804,4,Upper Class,1,Male,14,65 to 69 years,mex,México,4,High School  or General Baccalaureate,14542
+805,4,Upper Class,1,Male,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",18512
+806,4,Upper Class,1,Male,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,2000
+807,4,Upper Class,1,Male,14,65 to 69 years,mex,México,11,Bachelor's Degree,137540
+808,4,Upper Class,1,Male,14,65 to 69 years,mex,México,13,Master Degree,33215
+809,4,Upper Class,1,Male,14,65 to 69 years,mex,México,14,PhD,9451
+810,4,Upper Class,1,Male,15,70 to 74 years,mex,México,0,Undefined,1333
+811,4,Upper Class,1,Male,15,70 to 74 years,mex,México,2,Primary School,24851
+812,4,Upper Class,1,Male,15,70 to 74 years,mex,México,3,Middle School,25967
+813,4,Upper Class,1,Male,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,18075
+814,4,Upper Class,1,Male,15,70 to 74 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",16608
+815,4,Upper Class,1,Male,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,4180
+816,4,Upper Class,1,Male,15,70 to 74 years,mex,México,11,Bachelor's Degree,68993
+817,4,Upper Class,1,Male,15,70 to 74 years,mex,México,13,Master Degree,21525
+818,4,Upper Class,1,Male,15,70 to 74 years,mex,México,14,PhD,9813
+819,4,Upper Class,1,Male,16,75 to 79 years,mex,México,0,Undefined,2336
+820,4,Upper Class,1,Male,16,75 to 79 years,mex,México,2,Primary School,21357
+821,4,Upper Class,1,Male,16,75 to 79 years,mex,México,3,Middle School,11423
+822,4,Upper Class,1,Male,16,75 to 79 years,mex,México,4,High School  or General Baccalaureate,5642
+823,4,Upper Class,1,Male,16,75 to 79 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",5784
+824,4,Upper Class,1,Male,16,75 to 79 years,mex,México,10,Normal Bachelor's Degree,1489
+825,4,Upper Class,1,Male,16,75 to 79 years,mex,México,11,Bachelor's Degree,68239
+826,4,Upper Class,1,Male,16,75 to 79 years,mex,México,13,Master Degree,6768
+827,4,Upper Class,1,Male,16,75 to 79 years,mex,México,14,PhD,385
+828,4,Upper Class,1,Male,17,80 or more years,mex,México,0,Undefined,979
+829,4,Upper Class,1,Male,17,80 or more years,mex,México,2,Primary School,28715
+830,4,Upper Class,1,Male,17,80 or more years,mex,México,3,Middle School,22357
+831,4,Upper Class,1,Male,17,80 or more years,mex,México,4,High School  or General Baccalaureate,3743
+832,4,Upper Class,1,Male,17,80 or more years,mex,México,8,"Technical or Comercial Studies, and Finished High School",1827
+833,4,Upper Class,1,Male,17,80 or more years,mex,México,10,Normal Bachelor's Degree,2472
+834,4,Upper Class,1,Male,17,80 or more years,mex,México,11,Bachelor's Degree,51461
+835,4,Upper Class,1,Male,17,80 or more years,mex,México,13,Master Degree,1747
+836,4,Upper Class,1,Male,17,80 or more years,mex,México,14,PhD,11733
+837,4,Upper Class,2,Female,4,15 to 19 years,mex,México,2,Primary School,606
+838,4,Upper Class,2,Female,4,15 to 19 years,mex,México,3,Middle School,17610
+839,4,Upper Class,2,Female,4,15 to 19 years,mex,México,4,High School  or General Baccalaureate,30344
+840,4,Upper Class,2,Female,4,15 to 19 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",827
+841,4,Upper Class,2,Female,4,15 to 19 years,mex,México,11,Bachelor's Degree,4948
+842,4,Upper Class,2,Female,5,20 to 24 years,mex,México,2,Primary School,1731
+843,4,Upper Class,2,Female,5,20 to 24 years,mex,México,3,Middle School,26016
+844,4,Upper Class,2,Female,5,20 to 24 years,mex,México,4,High School  or General Baccalaureate,93205
+845,4,Upper Class,2,Female,5,20 to 24 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",2539
+846,4,Upper Class,2,Female,5,20 to 24 years,mex,México,10,Normal Bachelor's Degree,1486
+847,4,Upper Class,2,Female,5,20 to 24 years,mex,México,11,Bachelor's Degree,171841
+848,4,Upper Class,2,Female,5,20 to 24 years,mex,México,13,Master Degree,4391
+849,4,Upper Class,2,Female,6,25 to 29 years,mex,México,2,Primary School,8446
+850,4,Upper Class,2,Female,6,25 to 29 years,mex,México,3,Middle School,49283
+851,4,Upper Class,2,Female,6,25 to 29 years,mex,México,4,High School  or General Baccalaureate,93538
+852,4,Upper Class,2,Female,6,25 to 29 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",12969
+853,4,Upper Class,2,Female,6,25 to 29 years,mex,México,10,Normal Bachelor's Degree,3719
+854,4,Upper Class,2,Female,6,25 to 29 years,mex,México,11,Bachelor's Degree,355651
+855,4,Upper Class,2,Female,6,25 to 29 years,mex,México,13,Master Degree,37506
+856,4,Upper Class,2,Female,6,25 to 29 years,mex,México,14,PhD,2055
+857,4,Upper Class,2,Female,7,30 to 34 years,mex,México,0,Undefined,145
+858,4,Upper Class,2,Female,7,30 to 34 years,mex,México,2,Primary School,5327
+859,4,Upper Class,2,Female,7,30 to 34 years,mex,México,3,Middle School,48558
+860,4,Upper Class,2,Female,7,30 to 34 years,mex,México,4,High School  or General Baccalaureate,112577
+861,4,Upper Class,2,Female,7,30 to 34 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",18389
+862,4,Upper Class,2,Female,7,30 to 34 years,mex,México,10,Normal Bachelor's Degree,5431
+863,4,Upper Class,2,Female,7,30 to 34 years,mex,México,11,Bachelor's Degree,333598
+864,4,Upper Class,2,Female,7,30 to 34 years,mex,México,13,Master Degree,56065
+865,4,Upper Class,2,Female,7,30 to 34 years,mex,México,14,PhD,6325
+866,4,Upper Class,2,Female,8,35 to 39 years,mex,México,0,Undefined,191
+867,4,Upper Class,2,Female,8,35 to 39 years,mex,México,2,Primary School,10842
+868,4,Upper Class,2,Female,8,35 to 39 years,mex,México,3,Middle School,86651
+869,4,Upper Class,2,Female,8,35 to 39 years,mex,México,4,High School  or General Baccalaureate,153148
+870,4,Upper Class,2,Female,8,35 to 39 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",52872
+871,4,Upper Class,2,Female,8,35 to 39 years,mex,México,10,Normal Bachelor's Degree,4738
+872,4,Upper Class,2,Female,8,35 to 39 years,mex,México,11,Bachelor's Degree,329608
+873,4,Upper Class,2,Female,8,35 to 39 years,mex,México,13,Master Degree,63998
+874,4,Upper Class,2,Female,8,35 to 39 years,mex,México,14,PhD,13745
+875,4,Upper Class,2,Female,9,40 to 44 years,mex,México,2,Primary School,21054
+876,4,Upper Class,2,Female,9,40 to 44 years,mex,México,3,Middle School,101069
+877,4,Upper Class,2,Female,9,40 to 44 years,mex,México,4,High School  or General Baccalaureate,126219
+878,4,Upper Class,2,Female,9,40 to 44 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",86870
+879,4,Upper Class,2,Female,9,40 to 44 years,mex,México,10,Normal Bachelor's Degree,5934
+880,4,Upper Class,2,Female,9,40 to 44 years,mex,México,11,Bachelor's Degree,341638
+881,4,Upper Class,2,Female,9,40 to 44 years,mex,México,13,Master Degree,58940
+882,4,Upper Class,2,Female,9,40 to 44 years,mex,México,14,PhD,19282
+883,4,Upper Class,2,Female,10,45 to 49 years,mex,México,0,Undefined,1667
+884,4,Upper Class,2,Female,10,45 to 49 years,mex,México,2,Primary School,12667
+885,4,Upper Class,2,Female,10,45 to 49 years,mex,México,3,Middle School,80562
+886,4,Upper Class,2,Female,10,45 to 49 years,mex,México,4,High School  or General Baccalaureate,91790
+887,4,Upper Class,2,Female,10,45 to 49 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",95856
+888,4,Upper Class,2,Female,10,45 to 49 years,mex,México,10,Normal Bachelor's Degree,8509
+889,4,Upper Class,2,Female,10,45 to 49 years,mex,México,11,Bachelor's Degree,259182
+890,4,Upper Class,2,Female,10,45 to 49 years,mex,México,13,Master Degree,55136
+891,4,Upper Class,2,Female,10,45 to 49 years,mex,México,14,PhD,6715
+892,4,Upper Class,2,Female,11,50 to 54 years,mex,México,0,Undefined,1395
+893,4,Upper Class,2,Female,11,50 to 54 years,mex,México,2,Primary School,19517
+894,4,Upper Class,2,Female,11,50 to 54 years,mex,México,3,Middle School,99621
+895,4,Upper Class,2,Female,11,50 to 54 years,mex,México,4,High School  or General Baccalaureate,80280
+896,4,Upper Class,2,Female,11,50 to 54 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",98657
+897,4,Upper Class,2,Female,11,50 to 54 years,mex,México,10,Normal Bachelor's Degree,17444
+898,4,Upper Class,2,Female,11,50 to 54 years,mex,México,11,Bachelor's Degree,217952
+899,4,Upper Class,2,Female,11,50 to 54 years,mex,México,13,Master Degree,43983
+900,4,Upper Class,2,Female,11,50 to 54 years,mex,México,14,PhD,8420
+901,4,Upper Class,2,Female,12,55 to 59 years,mex,México,0,Undefined,1076
+902,4,Upper Class,2,Female,12,55 to 59 years,mex,México,2,Primary School,23753
+903,4,Upper Class,2,Female,12,55 to 59 years,mex,México,3,Middle School,40808
+904,4,Upper Class,2,Female,12,55 to 59 years,mex,México,4,High School  or General Baccalaureate,44689
+905,4,Upper Class,2,Female,12,55 to 59 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",72326
+906,4,Upper Class,2,Female,12,55 to 59 years,mex,México,10,Normal Bachelor's Degree,22490
+907,4,Upper Class,2,Female,12,55 to 59 years,mex,México,11,Bachelor's Degree,168198
+908,4,Upper Class,2,Female,12,55 to 59 years,mex,México,13,Master Degree,45231
+909,4,Upper Class,2,Female,12,55 to 59 years,mex,México,14,PhD,5359
+910,4,Upper Class,2,Female,13,60 to 64 years,mex,México,0,Undefined,216
+911,4,Upper Class,2,Female,13,60 to 64 years,mex,México,2,Primary School,24848
+912,4,Upper Class,2,Female,13,60 to 64 years,mex,México,3,Middle School,26218
+913,4,Upper Class,2,Female,13,60 to 64 years,mex,México,4,High School  or General Baccalaureate,45307
+914,4,Upper Class,2,Female,13,60 to 64 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",67890
+915,4,Upper Class,2,Female,13,60 to 64 years,mex,México,10,Normal Bachelor's Degree,10358
+916,4,Upper Class,2,Female,13,60 to 64 years,mex,México,11,Bachelor's Degree,118191
+917,4,Upper Class,2,Female,13,60 to 64 years,mex,México,13,Master Degree,13319
+918,4,Upper Class,2,Female,13,60 to 64 years,mex,México,14,PhD,2779
+919,4,Upper Class,2,Female,14,65 to 69 years,mex,México,2,Primary School,17785
+920,4,Upper Class,2,Female,14,65 to 69 years,mex,México,3,Middle School,27895
+921,4,Upper Class,2,Female,14,65 to 69 years,mex,México,4,High School  or General Baccalaureate,19081
+922,4,Upper Class,2,Female,14,65 to 69 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",77266
+923,4,Upper Class,2,Female,14,65 to 69 years,mex,México,10,Normal Bachelor's Degree,13521
+924,4,Upper Class,2,Female,14,65 to 69 years,mex,México,11,Bachelor's Degree,58573
+925,4,Upper Class,2,Female,14,65 to 69 years,mex,México,13,Master Degree,9611
+926,4,Upper Class,2,Female,14,65 to 69 years,mex,México,14,PhD,4948
+927,4,Upper Class,2,Female,15,70 to 74 years,mex,México,2,Primary School,19302
+928,4,Upper Class,2,Female,15,70 to 74 years,mex,México,3,Middle School,14124
+929,4,Upper Class,2,Female,15,70 to 74 years,mex,México,4,High School  or General Baccalaureate,13538
+930,4,Upper Class,2,Female,15,70 to 74 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",39498
+931,4,Upper Class,2,Female,15,70 to 74 years,mex,México,10,Normal Bachelor's Degree,5325
+932,4,Upper Class,2,Female,15,70 to 74 years,mex,México,11,Bachelor's Degree,44471
+933,4,Upper Class,2,Female,15,70 to 74 years,mex,México,13,Master Degree,1287
+934,4,Upper Class,2,Female,15,70 to 74 years,mex,México,14,PhD,2526
+935,4,Upper Class,2,Female,16,75 to 79 years,mex,México,0,Undefined,435
+936,4,Upper Class,2,Female,16,75 to 79 years,mex,México,2,Primary School,6813
+937,4,Upper Class,2,Female,16,75 to 79 years,mex,México,3,Middle School,4248
+938,4,Upper Class,2,Female,16,75 to 79 years,mex,México,4,High School  or General Baccalaureate,7516
+939,4,Upper Class,2,Female,16,75 to 79 years,mex,México,8,"Technical or Comercial Studies, and Finished High School",25945
+940,4,Upper Class,2,Female,16,75 to 79 years,mex,México,10,Normal Bachelor's Degree,6787
+941,4,Upper Class,2,Female,16,75 to 79 years,mex,México,11,Bachelor's Degree,20625
+942,4,Upper Class,2,Female,16,75 to 79 years,mex,México,13,Master Degree,662
+943,4,Upper Class,2,Female,16,75 to 79 years,mex,México,14,PhD,8251
+944,4,Upper Class,2,Female,17,80 or more years,mex,México,0,Undefined,277
+945,4,Upper Class,2,Female,17,80 or more years,mex,México,2,Primary School,27808
+946,4,Upper Class,2,Female,17,80 or more years,mex,México,3,Middle School,6246
+947,4,Upper Class,2,Female,17,80 or more years,mex,México,4,High School  or General Baccalaureate,3902
+948,4,Upper Class,2,Female,17,80 or more years,mex,México,8,"Technical or Comercial Studies, and Finished High School",21619
+949,4,Upper Class,2,Female,17,80 or more years,mex,México,10,Normal Bachelor's Degree,6060
+950,4,Upper Class,2,Female,17,80 or more years,mex,México,11,Bachelor's Degree,17320
+951,4,Upper Class,2,Female,17,80 or more years,mex,México,14,PhD,2299
