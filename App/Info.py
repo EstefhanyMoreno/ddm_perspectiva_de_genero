@@ -6,6 +6,7 @@ import re
 import json
 import requests
 import numpy as np
+from plotly.subplots import make_subplots
 
 TA = pd.read_csv('Evolucion-de-la-poblacion-economicamente-activa-en-Mexico.csv')
 TA.drop(['Nation ID', 'Quarter', 'Nation', 'Time', 'Sex ID'], axis =1, inplace=True)
@@ -159,3 +160,98 @@ fig10.update_layout(
         size=20,
         color="#34495E"
     ))
+
+response = requests.get('https://api.datamexico.org/tesseract/cubes/anuies_status/aggregate.jsonrecords?captions%5B%5D=Status.Status.Status.Status+ES&captions%5B%5D=Geography+Municipality.Geography.Nation.Nation+ES&captions%5B%5D=Sex.Sex.Sex.Sex+ES&captions%5B%5D=Academic+Degree.Academic+Degree.Academic+Degree.Academic+Degree+ES&captions%5B%5D=Career+Fields.Career+Fields.Area.Area+ES&drilldowns%5B%5D=Status.Status.Status&drilldowns%5B%5D=Geography+Municipality.Geography.Nation&drilldowns%5B%5D=Sex.Sex.Sex&drilldowns%5B%5D=Academic+Degree.Academic+Degree.Academic+Degree&drilldowns%5B%5D=Year.Year.Year&drilldowns%5B%5D=Career+Fields.Career+Fields.Area&measures%5B%5D=Students&parents=false&sparse=false')
+edu3 = response.json()
+edo = pd.DataFrame(edu3['data'])
+
+total =  edo.groupby(['Sex']).Students.agg("sum")
+f_t = total[0]
+m_t=total[1]
+edo['Students1'] = np.where(edo['Sex'] == 'Hombre',edo['Students']/(m_t+f_t)*100,edo['Students']/(f_t+m_t)*100)
+
+#20
+def area_genero(value):
+
+    dff = edo[(edo['Year']== value)].sort_values(by='Students1', ascending=False)
+    dff = dff.rename(columns = {'Students1': 'Porcentaje','Sex':'Genero'}, inplace = False)
+    fig20 = px.bar(dff, x=dff["Genero"], y=dff["Porcentaje"],
+                 color='Area', barmode='group',
+                 height=400)
+    return fig20
+
+#21
+def status_gen_escolar(value):
+    dff = edo[(edo['Year']== value)]
+    labels = list(dff['Status'].unique())
+    fig21 = make_subplots(rows=1, cols=2, specs=[[{'type':'domain'}, {'type':'domain'}]])
+    df1 = dff[dff['Sex'] =='Mujer']
+    fig21.add_trace(go.Pie(labels=labels, values=df1['Students'], name="Status"),
+                  1, 1)
+    df2 = dff[dff['Sex'] =='Hombre']
+    fig21.add_trace(go.Pie(labels=labels, values=df2['Students'], name="Status"),
+                  1, 2)
+
+    fig21.update_traces(hole=.4, hoverinfo="label+percent+name")
+
+    fig21.update_layout(
+        title_text="Status",
+        # Add annotations in the center of the donut pies.
+        annotations=[dict(text='Mujer', x=0.18, y=0.5, font_size=20, showarrow=False),
+                     dict(text='Hombre', x=0.82, y=0.5, font_size=20, showarrow=False)])
+    return fig21
+
+    #22
+def conformacion(value): 
+    dff = edo[(edo['Year']== value)]
+    fig22 = px.pie(dff, values='Students', names='Sex', color='Sex',
+                 color_discrete_map={
+                                     'Hombre':'cyan',
+                                     'Mujer':'royalblue',
+                                     })
+    fig22.update_layout(
+        title_text="Porcentaje del data conformado por hombre y mujeres")
+
+    return fig22
+
+
+
+#_______________________________________________
+l = pd.read_csv('conjunto_de_datos_tmodulo_ecovid_ed_2020.csv')
+
+data_que_grado = l[['SEXO','NIV','EDAD']].dropna()
+data_que_grado['Grado'] = np.where(data_que_grado['NIV'] == 0, 'Ninguno',
+                        np.where(data_que_grado['NIV'] == 1,'Preescolar',
+                        np.where(data_que_grado['NIV'] == 2,'Primaria',
+                        np.where(data_que_grado['NIV'] == 3,'Secundaria',
+                        np.where(data_que_grado['NIV'] == 4,'Carrera técnica con secundaria terminada',
+                        np.where(data_que_grado['NIV'] == 5,'Preparatoria o bachillerato',
+                        np.where(data_que_grado['NIV'] == 6,'Carrera técnica con preparatoria terminada',
+                        np.where(data_que_grado['NIV'] == 7,'Licenciatura o profesional', 
+                        np.where(data_que_grado['NIV'] == 8,'Maestría',
+                        np.where(data_que_grado['NIV'] == 9,'Doctorado','0'))))))))))
+
+data_que_grado['Genero']= np.where(data_que_grado['SEXO'] == 1, 'Hombre','Mujer')
+dff = data_que_grado.groupby(['Grado',"Genero"]).Genero.agg( "count")
+dff = pd.DataFrame(dff)
+dff.unstack()
+h = 5598
+m = 5482
+
+df2 = dff.rename(columns = {'Genero': 'Porcentaje'}, inplace = False)
+df2['Edad'] = data_que_grado['EDAD']
+df2 = df2.reset_index()
+df2['Porcentaje'] = np.where(df2['Genero'] == 'Hombre', (df2['Porcentaje']/h)*100,(df2['Porcentaje']/m)*100)
+
+df2['Porcentaje'] = np.where(df2['Genero'] == 'Hombre', (df2['Porcentaje']/h)*100,(df2['Porcentaje']/m)*100)
+
+
+def Grado(value):
+
+    df = df2[(df2['Grado']== value)]
+    fig = px.bar(df, x=df["Genero"], y=df["Porcentaje"], 
+             color="Porcentaje", barmode="group")
+    fig.update_layout(
+            title_text="Grado de estudios")
+
+    return fig

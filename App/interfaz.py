@@ -64,6 +64,116 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
                 selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
                 style={'background-color': colors['disabled_nav'],'border':'none'},
                 children=[
+                    html.H3(
+                                style={'textAlign': 'center'},
+                                children='Aréa de Estudios por Género'
+                                ),
+                            html.Div(style={'margin-left': '2rem', 'width': '40%' },children=[
+                                html.Div(
+                                    style={'display': 'flex', 'justify-content': 'space-between'},
+                                    children=[
+                                        html.Div(
+                                            style={'flex': '0 0 calc( 50% - 1rem )'},
+                                            children=[
+                                                html.Label('Año'),
+                                                dcc.Dropdown(
+                                                    id = 'edu_area_per_año',
+                                                    options= [{'label': i, 'value': i} for i in Info.edo['Year'].unique()],
+                                                    value=2020,
+                                                    )
+
+                                            ]),
+
+
+                                ]),
+                            
+                            ]),
+
+                            dcc.Graph(
+                            id='educacion_grf',
+                            figure={}
+                            ),
+                            
+
+                            html.H3(
+                                style={'textAlign': 'center'},
+                                children='Mujeres y Hombres por grado de estudio'
+                                ),
+                            html.Div(style={'margin-left': '2rem', 'width': '40%' },children=[
+                                html.Div(
+                                    style={'display': 'flex', 'justify-content': 'space-between'},
+                                    children=[
+                                        html.Div(
+                                            style={'flex': '0 0 calc( 50% - 1rem )'},
+                                            children=[
+                                                html.Label('Grado Acádemico'),
+                                                dcc.Dropdown(
+                                                    id = 'Grado_drop',
+                                                    options= [{'label': i, 'value': i} for i in Info.df2['Grado'].unique()],
+                                                    value='Primaria',
+                                                    )
+
+                                            ]),
+
+
+                                ]),
+                            
+                            ]),
+            
+                            dcc.Graph(
+                                    id='Grado_grf',
+                                    figure={}
+                                ),
+
+                            html.Div(
+                            style={'display': 'flex', 'justify-content': 'space-between'},
+                            children=[
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.H3(
+                                    style={'textAlign': 'center'},
+                                        children='Status de estudios universitarios'
+                                    ),
+                                html.Div(style={'margin': '0 auto','width':'90%'},children=[
+                                    html.Label('Año'),
+                                    dcc.Dropdown(
+                                        id = 'status_gen_escolar_año',
+                                        options= [{'label': i, 'value': i} for i in Info.edo['Year'].unique()],
+                                        value=2020,
+                                        )
+                                ]),
+
+                                dcc.Graph(
+                                    id='status_gen_escolar_grf',
+                                    figure={}
+                                    )
+                            ]),
+
+                            html.Div(
+                                style={'flex': '0 0 calc( 50% - 1rem )'},
+                                children=[
+                                html.H3(
+                                    style={'textAlign': 'center'},
+                                    children='Composición del dataframe'
+                                ),
+                                html.Div(style={'margin': '0 auto','width':'90%'},children=[
+                                    html.Label('Año'),
+                                    dcc.Dropdown(
+                                        id = 'edu_confor_per_año',
+                                        options= [{'label': i, 'value': i} for i in Info.edo['Year'].unique()],
+                                        value=2020,
+                                        )
+                                ]),
+
+                                dcc.Graph(
+                                    id='edu_confor_grf',
+                                    figure={}
+                                    )
+                            ])
+                        ])
+
+                            
 
                 ]),    
                         
@@ -494,16 +604,8 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
                         ])
                         ]), #Cierra div general 2 y 2
                
-                ]), #Cierra tab
+                ]) #Cierra tab
                 
-
-                dcc.Tab(
-                label='Propuesta',
-                selected_style={'background-color': colors['actived_nav'],'color':'#FDFEFE','border':'none'},
-                style={'background-color': colors['disabled_nav'],'border':'none'},
-                children=[
-
-                ])
 
        ])])
 
@@ -668,6 +770,47 @@ def seg_trans(age_range):
     fig = px.pie(dff, values='Population', names='City Perception at Public Transport', title=f"Desde el transporte público para mujeres entre {age_range.split()[0]} y {age_range.split()[-2]} años")
     fig.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
     return fig
+
+#20 educacion_grf
+@app.callback(
+    Output('educacion_grf', 'figure'),
+    Input('edu_area_per_año','value'))
+
+def area_genero(año):
+    fig20 = Info.area_genero(año)
+    fig20.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig20
+
+#22 status_gen_escolar
+@app.callback(
+    Output('status_gen_escolar_grf', 'figure'),
+    Input('status_gen_escolar_año','value'))
+
+def status_gen_escolar(año):
+    fig21 = Info.status_gen_escolar(año)
+    fig21.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig21
+
+#21 educacion
+@app.callback(
+    Output('edu_confor_grf', 'figure'),
+    Input('edu_confor_per_año','value'))
+
+def conformacion(año):
+    fig22 = Info.conformacion(año)
+    fig22.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig22
+
+
+#23 Grado
+@app.callback(
+    Output('Grado_grf', 'figure'),
+    Input('Grado_drop','value'))
+
+def Grado(value):
+    fig23 = Info.Grado(value)
+    fig23.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    return fig23
 #________________________________________________________________________________________________________
 if __name__ == '__main__':
     app.run_server(debug=True)
