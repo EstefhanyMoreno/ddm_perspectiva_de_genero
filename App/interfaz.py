@@ -10,7 +10,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import Info
 
-df_sac= pd.read_csv('../factores_calidad_vida/ss_edu_per.csv')
+df_sac= pd.read_csv('../factores_calidad_vida/ss_edu.csv')
 df_ns= pd.read_csv('../factores_calidad_vida/Near Children Support-Near Doctor Support-Near Work Support-Near Money Support-Age Range-Sex.csv')
 df_f15= pd.read_csv('../factores_calidad_vida/Female Population Older 15 With Children-Schooling Years Range-Job Situation.csv')
 df_sec= pd.read_csv('../factores_calidad_vida/City Perception at Home-City Perception at Work-City Perception Streets-City Perception at Public Transport-Age Range-Sex.csv')
@@ -376,7 +376,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
                                 children=[
                                 html.H3(
                                     style={'textAlign': 'center'},
-                                        children='Diferencia Laboral'
+                                        children='Diferencia Ocupacional'
                                     ),
                                 dcc.Graph(style={'height': '40rem'},
                                     id='fig_pob_total',
@@ -436,7 +436,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'width': 'm
                                 children=[
                                 html.H3(
                                     style={'textAlign': 'center'},
-                                    children='Salario'
+                                    children='Salario Mensual'
                                 ),
                                 html.Div(style={'margin': '0 auto','width':'90%'},children=[
                                     html.Label('Clasificación de trabajos'),
@@ -678,8 +678,9 @@ def graffig(año, estado):
 
 def grafica_rango_edad(age_range, academic_degree):
     dff=df_sac[(df_sac['Age Range']==age_range)&(df_sac['Academic Degree']==academic_degree)]
-    fig10 = px.bar(dff, x='Socioeconomic Status', y='Population', color='Sex',barmode='group')
+    fig10 = px.bar(dff, x='Socioeconomic Status', y='Population', color= 'Sex')
     fig10.update_layout(plot_bgcolor=colors['background'], paper_bgcolor=colors['background'], font_color=colors['text'],title={'x':0.5,'xanchor': 'center'})
+    fig10.update_layout(barmode='group')
     return fig10
 
 @app.callback(

@@ -28,7 +28,7 @@ df_salario_total = pd.pivot_table(Data_Worker_Act,
                     index = ['Año','Sexo',], 
                     values = 'Salario Mensual', aggfunc = np.mean, fill_value =0).unstack().fillna(0)
 df_salario_total.columns = ['Hombre', 'Mujer']
-fig1 = px.line(data_frame=df_salario_total, title = 'Población Total activa en México')
+fig1 = px.line(data_frame=df_salario_total, title = 'Población Económicamente Activa')
 
 
 #2
@@ -40,7 +40,7 @@ def clas_Estado(value):
     fig2 = px.line(data_frame=dff,
         x="Año",
         y='Personal',
-        color='Sexo', title = 'Población Total activa en los Estados de México')
+        color='Sexo', title = 'Población Económicamente Activa Ocupada')
     return fig2
 
 #4
@@ -105,8 +105,8 @@ def distr_edad_personal(año, ocup):
 def graffig(año, estado):
     filt = Data_Sec[(Data_Sec['Año']== año)&(Data_Sec['Estado']== estado)]
     filt = filt[[ 'Edad','Ocupacion','Sexo', 'Personal', 'Salario Mensual']]
-    fig9 = px.scatter(filt, x="Edad", y="Personal", size="Salario Mensual", color="Ocupacion",
-                 hover_name="Sexo", size_max=60, title='Población activa en las diferentes ocupaciones laborales.')
+    fig9 = px.scatter(filt, x="Edad", y="Personal", size="Salario Mensual", #color="Ocupacion",
+                 hover_name="Sexo", size_max=60, title='Población Económicamente Activa en las diferentes ocupaciones laborales')
     return fig9
 
 #10
@@ -154,7 +154,7 @@ fig10.update_geos(showcountries=False, showcoastlines=False, showland=False, fit
 
 
 fig10.update_layout(
-    title_text = 'Poblacion Activa Mujeres en México',
+    title_text = 'Población Femenina Económicamente Activa en México',
     font=dict(
         family="arial",
         size=20,
